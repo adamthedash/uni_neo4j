@@ -1,0 +1,4991 @@
+id,name,level,type
+12056,Baron Geddon,?? Boss,Elemental
+12057,Garr,?? Boss,Elemental
+12259,Gehennas,?? Boss,Humanoid
+11988,Golemagg the Incinerator,?? Boss,Giant
+12118,Lucifron,?? Boss,Humanoid
+11982,Magmadar,?? Boss,Beast
+12018,Majordomo Executus,?? Boss,Humanoid
+11502,Ragnaros,?? Boss,Elemental
+12264,Shazzrah,?? Boss,Humanoid
+12098,Sulfuron Harbinger,?? Boss,Humanoid
+11673,Ancient Core Hound,62 Elite,Beast
+11671,Core Hound,61 Elite,Beast
+11672,Core Rager,62 Elite,Beast
+11859,Doomguard,60,Demon
+14337,Field Repair Bot 74A,50,Mechanical
+11668,Firelord,61 - 62 Elite,Elemental
+12099,Firesworn,60 Elite,Elemental
+11666,Firewalker,61 - 62 Elite,Elemental
+11669,Flame Imp,61 - 62 Elite,Elemental
+11667,Flameguard,61 - 62 Elite,Elemental
+11661,Flamewaker,62 Elite,Humanoid
+11664,Flamewaker Elite,62 Elite,Humanoid
+11663,Flamewaker Healer,60 Elite,Humanoid
+11662,Flamewaker Priest,62 Elite,Humanoid
+12119,Flamewaker Protector,62 Elite,Humanoid
+11665,Lava Annihilator,61 - 62 Elite,Elemental
+12076,Lava Elemental,61 - 62 Elite,Elemental
+12100,Lava Reaver,62 - 63 Elite,Elemental
+12265,Lava Spawn,60 Elite,Elemental
+12101,Lava Surger,61 - 62 Elite,Elemental
+11659,Molten Destroyer,63 Elite,Giant
+11658,Molten Giant,62 Elite,Giant
+12143,Son of Flame,60 Elite,Elemental
+13718,The Nameless Prophet,41 Elite,Humanoid
+11105,Aboda,30,Humanoid
+14229,Accursed Slitherblade,35 Rare,Humanoid
+4700,Aged Kodo,34 - 35,Beast
+11785,Ambereye Basilisk,40 - 41 Elite,Beast
+11786,Ambereye Reaver,41 - 42 Elite,Beast
+11781,Ambershard Crusher,40 - 41 Elite,Elemental
+11782,Ambershard Destroyer,42 - 43 Elite,Elemental
+4702,Ancient Kodo,36 - 37,Beast
+11863,Azore Aldamort,60,Humanoid
+6706,Baritanas Skyriver,55 Elite,Humanoid
+11438,Bibbly F'utzbuckle,45,Humanoid
+4688,Bonepaw Hyena,33 - 35,Beast
+1182,Brother Anton,45,Humanoid
+4665,Burning Blade Adept,31 - 32,Humanoid
+4663,Burning Blade Augur,30 - 31,Humanoid
+4666,Burning Blade Felsworn,31 - 32,Humanoid
+4705,Burning Blade Invoker,39 - 40,Humanoid
+13836,Burning Blade Nightmare,40,Demon
+4664,Burning Blade Reaver,30 - 31,Humanoid
+13019,Burning Blade Seer,33,Humanoid
+4667,Burning Blade Shadowmage,32 - 33,Humanoid
+4668,Burning Blade Summoner,38 - 39,Humanoid
+5396,Captain Pentigast,42,Humanoid
+13837,Captured Stallion,40,Beast
+4695,Carrion Horror,35 - 37,Beast
+13717,Centaur Pariah,42,Humanoid
+12960,Christi Galvanis,40,Humanoid
+11625,Cork Gizelton,38,Humanoid
+5752,Corporal Melkins,39,Humanoid
+11688,Cursed Centaur,43 Rare,Humanoid
+5644,Dalinda Malem,35,Humanoid
+4686,Deepstrider Giant,38 - 39 Elite,Giant
+4687,Deepstrider Searcher,39 - 40 Elite,Giant
+11937,Demon Portal Guardian,38,Demon
+11876,Demon Spirit,37,Demon
+4677,Doomwarder,37 - 38,Demon
+4680,Doomwarder Captain,38 - 39,Demon
+4693,Dread Flyer,36 - 37,Beast
+4694,Dread Ripper,39 - 40,Beast
+4692,Dread Swoop,32 - 33,Beast
+12340,Drulzegar Skraghook,35,Humanoid
+11562,Drysnap Crawler,33 - 34,Humanoid
+11563,Drysnap Pincer,34 - 35,Humanoid
+4701,Dying Kodo,35 - 36,Beast
+4727,Elder Thunder Lizard,37 - 38,Beast
+12347,Enraged Reef Crawler,30 - 32,Beast
+5395,Felgur Twocuts,44,Humanoid
+4651,Gelkis Earthcaller,34 - 35,Humanoid
+4653,Gelkis Marauder,35 - 36,Humanoid
+4652,Gelkis Mauler,35 - 36,Humanoid
+4646,Gelkis Outrunner,32 - 33,Humanoid
+4661,Gelkis Rumbler,29 - 30,Elemental
+4647,Gelkis Scout,32 - 33,Humanoid
+4648,Gelkis Stamper,33 - 34,Humanoid
+4649,Gelkis Windchaser,33 - 34,Humanoid
+8154,Ghost Walker Brave,50,Humanoid
+11687,Ghostly Marauder,41 - 42,Undead
+11686,Ghostly Raider,40 - 41,Undead
+14228,Giggler,34 Rare,Beast
+11564,Gizelton Caravan Kodo,35,Beast
+4728,Gritjaw Basilisk,31 - 32,Beast
+5412,Gurda Wildmane,35,Humanoid
+12045,Hae'Wilani,30,Humanoid
+8152,Harnor,40,Humanoid
+4673,Hatefury Betrayer,32 - 33,Demon
+4672,Hatefury Felsworn,31 - 32,Demon
+4675,Hatefury Hellcaller,32 - 33,Demon
+4670,Hatefury Rogue,31 - 32,Demon
+4674,Hatefury Shadowstalker,32 - 33,Demon
+4671,Hatefury Trickster,31 - 32,Demon
+14227,Hissperak,37 Rare,Beast
+6019,Hornizz Brimbuzzle,30,Humanoid
+4729,Hulking Gritjaw Basilisk,35 - 36,Beast
+11103,Innkeeper Lyshaerya,30,Humanoid
+11106,Innkeeper Sikewa,30,Humanoid
+8150,Janet Hommers,40,Humanoid
+11317,Jinar'Zillen,40,Humanoid
+5771,Jugkar Grim'rod,40,Humanoid
+14226,Kaskk,40 Rare,Demon
+13698,Keeper Marandis,43,Humanoid
+5600,Khan Dez'hepah,35,Humanoid
+5402,Khan Hratha,42 Elite,Humanoid
+5601,Khan Jehn,37,Humanoid
+5602,Khan Shaka,37,Humanoid
+9636,Kireena,41,Humanoid
+11521,Kodo Apparition,37 - 38,Beast
+10988,Kodo Spirit,60,Beast
+12977,Kolkar Ambusher,34 - 35,Humanoid
+4636,Kolkar Battle Lord,32 - 33,Humanoid
+4632,Kolkar Centaur,30 - 31,Humanoid
+4637,Kolkar Destroyer,32 - 33,Humanoid
+4634,Kolkar Mauler,31 - 32,Humanoid
+4633,Kolkar Scout,30 - 31,Humanoid
+12976,Kolkar Waylayer,33 - 34,Humanoid
+4635,Kolkar Windchaser,31 - 32,Humanoid
+5638,Kreldig Ungor,35,Humanoid
+12028,Lah'Mawhani,30,Humanoid
+4676,Lesser Infernal,36 - 37,Demon
+4685,Ley Hunter,39 - 40,Demon
+8576,Ag'tor Bloodfist,45,Humanoid
+8378,Alexandra Blazen,45,Humanoid
+8608,Angered Infernal,52 - 53,Demon
+6648,Antilos,50 Rare,Beast
+8379,Archmage Xylem,60,Humanoid
+6135,Arkkoran Clacker,53 - 54,Humanoid
+6136,Arkkoran Muckdweller,53 - 54,Humanoid
+6138,Arkkoran Oracle,54 - 55,Humanoid
+6137,Arkkoran Pincer,54 - 55,Humanoid
+11276,Azshara Sentinel,44,Humanoid
+6109,Azuregos,?? Boss,Dragonkin
+12957,Blimo Gadgetspring,55,Humanoid
+8581,Blood Elf Defender,51,Humanoid
+6199,Blood Elf Reclaimer,52 - 53,Humanoid
+6198,Blood Elf Surveyor,51 - 52,Humanoid
+193,Blue Dragonspawn,50 - 51 Elite,Dragonkin
+6130,Blue Scalebane,52 - 53 Elite,Dragonkin
+14301,Brinna Valanaar,45,Humanoid
+8380,Captain Vanessa Beltis,50,Humanoid
+8409,Caravan Master Tset,53,Humanoid
+6146,Cliff Breaker,54 - 55 Elite,Giant
+6147,Cliff Thunderer,53 - 54 Elite,Giant
+6148,Cliff Walker,52 - 53 Elite,Giant
+11708,Coral Moongale,50,Humanoid
+6352,Coralshell Lurker,53 - 54,Beast
+6369,Coralshell Tortoise,50 - 52,Beast
+6129,Draconic Magelord,53 - 54 Elite,Dragonkin
+6131,Draconic Mageweaver,51 - 52 Elite,Dragonkin
+13278,Duke Hydraxis,60 Elite,Elemental
+9527,Enraged Hippogryph,55,Beast
+8766,Forest Ooze,52 - 53,Uncategorized
+6651,Gatekeeper Rageroar,49 - 50 Rare,Humanoid
+6650,General Fangferror,50 - 51 Rare,Humanoid
+6349,Great Wavethrasher,53 - 54,Uncategorized
+10361,Gruul Darkblade,52,Humanoid
+8586,Haggrum Bloodfist,45,Humanoid
+6127,Haldarr Felsworn,46 - 47,Demon
+6125,Haldarr Satyr,45 - 46,Demon
+6126,Haldarr Trickster,45 - 47,Demon
+6140,Hetaera,55 Elite,Uncategorized
+6116,Highborne Apparition,45 - 46,Undead
+6117,Highborne Lichling,46 - 47,Undead
+8386,Horizon Scout Crewman,42,Humanoid
+13322,Hydraxian Honor Guard,57 - 58 Elite,Elemental
+12922,Imp Minion,5 - 57,Demon
+12577,Jarrodenus,55 Elite,Humanoid
+8587,Jediga,49,Humanoid
+11707,Joy Ar'nareth,59,Humanoid
+8678,Jubie Gadgetspring,55,Humanoid
+8420,Kim'jael,46,Humanoid
+8610,Kroum,55 Elite,Humanoid
+3621,Kurll,50,Humanoid
+6649,Lady Sesspira,51 Rare,Humanoid
+6202,Legashi Hellcaller,52 - 53,Demon
+6201,Legashi Rogue,51 - 53,Demon
+6200,Legashi Satyr,51 - 52,Demon
+8381,Lindros,47,Humanoid
+7864,Lingering Highborne,48 - 50,Undead
+11548,Loh'atu,45,Humanoid
+7783,Loramus Thalipedes,60,Humanoid
+6134,Lord Arkkoroc,60 Elite,Giant
+6647,Magister Hawkhelm,52 Rare,Humanoid
+8578,Magus Rimtori,55,Humanoid
+6350,Makrinni Razorclaw,54 - 55,Humanoid
+6370,Makrinni Scrabbler,52 - 53,Humanoid
+6372,Makrinni Snapclaw,50 - 51,Humanoid
+12125,Mammoth Shark,Elite,Beast
+6652,Master Feardred,Rare,Demon
+8764,Mistwing Ravager,52 - 53,Beast
+8763,Mistwing Rogue,49 - 50,Beast
+6646,Monnos the Elder,53 - 54 Rare Elite,Giant
+8761,Mosshoof Courser,52 - 53,Beast
+8759,Mosshoof Runner,45 - 47,Beast
+8760,Mosshoof Stag,49 - 50,Beast
+8399,Nyrill,39,Humanoid
+8405,Ogtinc,45,Humanoid
+8382,Patrick Mills,46,Humanoid
+7866,Peter Galen,50,Humanoid
+8392,Pilot Xiggs Fuselighter,45,Humanoid
+16479,Polymorph Clone,10,Critter
+11705,Rayan Dawnrisen,55,Humanoid
+8756,Raytaf,50 Elite,Demon
+8395,Sanath Lim-yo,50,Humanoid
+13896,Scalebeard,52 Rare Elite,Beast
+8397,Sentinel Keldara Sunblade,44,Humanoid
+6143,Servant of Arkkoroc,53 - 54 Elite,Giant
+8757,Shahiar,50 Elite,Demon
+6144,Son of Arkkoroc,54 - 55 Elite,Giant
+6491,Spirit Healer,60,Humanoid
+15481,Spirit of Azuregos,?? Boss,Dragonkin
+7885,Spitelash Battlemaster,53 - 54,Humanoid
+7886,Spitelash Enchantress,54 - 55,Humanoid
+6196,Spitelash Myrmidon,50 - 51,Humanoid
+12204,Spitelash Raider,48 - 49,Humanoid
+6193,Spitelash Screamer,47 - 48,Humanoid
+6194,Spitelash Serpent Guard,48 - 49,Humanoid
+6195,Spitelash Siren,51 - 52,Humanoid
+6190,Spitelash Warrior,46 - 47,Humanoid
+12205,Spitelash Witch,49 - 50,Humanoid
+12225,Celebras the Cursed,49 Elite,Humanoid
+12203,Landslide,50 Elite,Giant
+12236,Lord Vyletongue,47 Elite,Demon
+12237,Meshlok the Harvester,48 Rare Elite,Elemental
+13282,Noxxion,48 Elite,Elemental
+12201,Princess Theradras,51 Elite,Elemental
+12258,Razorlash,48 Elite,Uncategorized
+13596,Rotgrip,50 Elite,Beast
+13601,Tinkerer Gizlock,50 Elite,Humanoid
+12219,Barbed Lasher,44 - 45 Elite,Uncategorized
+12223,Cavern Lurker,45 - 46 Elite,Elemental
+12224,Cavern Shambler,46 - 47 Elite,Elemental
+13716,Celebras the Redeemed,49 Elite,Humanoid
+11793,Celebrian Dryad,45 - 46 Elite,Humanoid
+12220,Constrictor Vine,45 - 46 Elite,Uncategorized
+13743,Corrupt Force of Nature,44,Elemental
+12217,Corruptor,42 - 43,Demon
+12222,Creeping Sludge,45 - 46 Elite,Uncategorized
+11789,Deep Borer,46 - 48,Beast
+13141,Deeprot Stomper,43 - 44 Elite,Elemental
+13142,Deeprot Tangler,44 - 45 Elite,Elemental
+13321,Frog,1,Critter
+12221,Noxious Slime,46 - 47 Elite,Uncategorized
+13456,Noxxion's Spawn,46,Elemental
+13696,Noxxious Scion,46,Elemental
+12216,Poison Sprite,42 - 43,Demon
+12206,Primordial Behemoth,48 - 49 Elite,Giant
+11790,Putridus Satyr,43 - 44 Elite,Demon
+11792,Putridus Shadowstalker,42 - 44 Elite,Demon
+11791,Putridus Trickster,44 - 45 Elite,Demon
+6145,School of Fish,1,Critter
+11794,Sister of Celebrian,46 - 47 Elite,Humanoid
+2914,Snake,1,Critter
+13533,Spewed Larva,45 - 47 Elite,Beast
+12242,Spirit of Maraudos,46 Elite,Undead
+12243,Spirit of Veng,47 Elite,Undead
+13599,Stolid Snapjaw,46 - 47,Beast
+13323,Subterranean Diemetradon,46 - 48 Elite,Beast
+11784,Theradrim Guardian,47 - 48 Elite,Elemental
+11783,Theradrim Shardling,46,Elemental
+12207,Thessala Hydra,46 - 47 Elite,Uncategorized
+12218,Vile Larva,45 - 47,Beast
+12238,Zaetar's Spirit,60 Elite,Undead
+9623,A-Me 01,48,Mechanical
+11702,Arin'sor,60,Humanoid
+9376,Blazerunner,56 Elite,Elemental
+6510,Bloodpetal Flayer,51 - 52,Uncategorized
+6509,Bloodpetal Lasher,48 - 49,Uncategorized
+9157,Bloodpetal Pest,40,Uncategorized
+6511,Bloodpetal Thresher,49 - 50,Uncategorized
+6512,Bloodpetal Trapper,52 - 53,Uncategorized
+10290,Captured Felwood Ooze,,Uncategorized
+9477,Cloned Ooze,50 - 52,Uncategorized
+6582,Clutchmother Zavas,54 Rare,Uncategorized
+9274,Dadanga,45,Beast
+6498,Devilsaur,54 - 55 Elite,Beast
+9163,Diemetradon,51 - 52,Beast
+9164,Elder Diemetradon,54 - 55,Beast
+9165,Fledgling Pterrordax,48 - 50,Beast
+9167,Frenzied Pterrordax,52 - 54,Beast
+3000,Gibbert,45,Humanoid
+5419,Glasshide Basilisk,42 - 43,Beast
+6559,Glutinous Ooze,52 - 54,Uncategorized
+9496,Gorishi Egg,50 - 51,Uncategorized
+9498,Gorishi Grub,48,Uncategorized
+10040,Gorishi Hive Guard,54,Uncategorized
+10041,Gorishi Hive Queen,56,Uncategorized
+6553,Gorishi Reaver,51 - 53,Uncategorized
+6554,Gorishi Stinger,52 - 53,Uncategorized
+6555,Gorishi Tunneler,52 - 53,Uncategorized
+6551,Gorishi Wasp,51 - 52,Uncategorized
+6552,Gorishi Worker,51 - 52,Uncategorized
+6583,Gruff,57 Rare Elite,Beast
+10583,Gryfe,55 Elite,Humanoid
+9271,Hol'anyee Marshal,45,Humanoid
+6499,Ironhide Devilsaur,54 - 56 Elite,Beast
+9117,J.D. Collie,60,Humanoid
+9618,Karna Remtravel,49,Humanoid
+6584,King Mosh,60 Rare Elite,Beast
+10302,Krakle,60,Humanoid
+9684,Lar'korwi,56,Beast
+9683,Lar'korwi Mate,49 - 50,Beast
+9118,Larion,51,Humanoid
+8737,Linken,40,Humanoid
+6521,Living Blaze,54 - 55,Elemental
+11701,Mor'vek,60,Humanoid
+6556,Muculent Ooze,48 - 50,Uncategorized
+9119,Muigin,51,Humanoid
+12959,Nergal,52,Humanoid
+11884,Obi,1 - 2,Beast
+9600,Parrot,1,Critter
+9273,Petra Grossen,46,Humanoid
+6502,Plated Stegodon,52 - 54 Elite,Beast
+14528,Precious,60 Elite,Demon
+6557,Primal Ooze,50 - 52,Uncategorized
+9166,Pterrordax,50 - 52,Beast
+10977,Quixxil,53,Humanoid
+6505,Ravasaur,48 - 49,Beast
+6507,Ravasaur Hunter,49 - 50,Beast
+6581,Ravasaur Matriarch,50 Rare,Beast
+6506,Ravasaur Runner,49 - 50,Beast
+9999,Ringo,54,Humanoid
+6520,Scorching Elemental,53 - 54,Elemental
+9998,Shizzle,40,Humanoid
+14527,Simone the Inconspicuous,60 Elite,Demon
+9272,Spark Nilminer,45,Humanoid
+6503,Spiked Stegodon,53 - 54 Elite,Beast
+9997,Spraggle Frock,37,Humanoid
+6501,Stegodon,52 - 53 Elite,Beast
+6560,Stone Guardian,60 - 61 Elite,Elemental
+6517,Tar Beast,50 - 51,Elemental
+6527,Tar Creeper,51 - 52,Elemental
+6519,Tar Lord,53 - 54,Elemental
+6518,Tar Lurker,52 - 54,Elemental
+6504,Thunderstomp Stegodon,54 - 55 Elite,Beast
+9619,Torwa Pathfinder,51,Humanoid
+6500,Tyrant Devilsaur,54 - 55 Elite,Beast
+9622,U'cha,55,Beast
+6585,Uhk'loc,52 - 53 Rare,Beast
+6514,Un'Goro Gorilla,50 - 51,Beast
+6513,Un'Goro Stomper,51 - 52,Beast
+6516,Un'Goro Thunderer,52 - 53,Beast
+6508,Venomhide Ravasaur,50 - 51,Beast
+9270,Williden Marshal,48,Humanoid
+9162,Young Diemetradon,49 - 50,Beast
+10811,Archivist Galford,60 Elite,Humanoid
+10813,Balnazzar,Elite,Demon
+10436,Baroness Anastari,59 Elite,Undead
+11121,Black Guard Swordsmith,61 - 62 Elite,Undead
+10997,Cannon Master Willey,60 Elite,Humanoid
+11120,Crimson Hammersmith,60 Elite,Humanoid
+11058,Fras Siabi,61 Elite,Undead
+10558,Hearthsinger Forresten,57 Rare Elite,Undead
+10435,Magistrate Barthilas,58 Elite,Undead
+10438,Maleki the Pallid,61 Elite,Humanoid
+11032,Malor the Zealous,60 Elite,Humanoid
+10437,Nerub'enkan,60 Elite,Undead
+11143,Postmaster Malown,60 Elite,Undead
+10439,Ramstein the Gorger,61 Elite,Undead
+10393,Skul,58 Rare Elite,Undead
+10809,Stonespine,60 Rare Elite,Undead
+11082,Stratholme Courier,57 Elite,Undead
+10516,The Unforgiven,57 Elite,Undead
+10808,Timmy the Cruel,58 Rare Elite,Undead
+10917,Aurius,60,Humanoid
+10440,Baron Rivendare,62 Elite,Undead
+10697,Bile Slime,59 - 60,Uncategorized
+10416,Bile Spewer,59 - 60 Elite,Undead
+10394,Black Guard Sentry,58 - 59 Elite,Undead
+10383,Broken Cadaver,55 - 56,Undead
+10425,Crimson Battle Mage,59 - 60 Elite,Humanoid
+10419,Crimson Conjuror,57 - 58 Elite,Humanoid
+10421,Crimson Defender,58 - 59 Elite,Humanoid
+10424,Crimson Gallant,59 - 60 Elite,Humanoid
+10418,Crimson Guardsman,57 - 58 Elite,Humanoid
+10420,Crimson Initiate,57 - 58 Elite,Humanoid
+10426,Crimson Inquisitor,59 - 60 Elite,Humanoid
+11043,Crimson Monk,58 - 60 Elite,Humanoid
+10423,Crimson Priest,58 - 59 Elite,Humanoid
+11054,Crimson Rifleman,60,Humanoid
+10422,Crimson Sorcerer,58 - 59 Elite,Humanoid
+10413,Crypt Beast,59 - 60 Elite,Undead
+10412,Crypt Crawler,58 - 59 Elite,Undead
+10411,Eye of Naxxramas,55 - 57,Undead
+10407,Fleshflayer Ghoul,59 - 60 Elite,Undead
+10385,Ghostly Citizen,56 - 57 Elite,Undead
+10406,Ghoul Ravener,58 - 59 Elite,Undead
+10812,Grand Crusader Dathrohan,62 Elite,Humanoid
+416,Imp,,Demon
+10382,Mangled Cadaver,55 - 56 Elite,Undead
+11197,Mindless Skeleton,60,Undead
+11030,Mindless Undead,56 - 57,Undead
+10414,Patchwork Horror,57 - 58 Elite,Undead
+10405,Plague Ghoul,57 - 58 Elite,Undead
+10461,Plagued Insect,55,Critter
+10536,Plagued Maggot,55,Critter
+10441,Plagued Rat,55,Critter
+10200,Rak'shiri,57 Rare,Beast
+10381,Ravaged Cadaver,56 - 57 Elite,Undead
+11122,Restless Soul,1,Uncategorized
+10408,Rockwing Gargoyle,57 - 58 Elite,Undead
+10409,Rockwing Screecher,58 - 59 Elite,Undead
+10463,Shrieking Banshee,57 - 58 Elite,Undead
+10391,Skeletal Berserker,56 - 57,Undead
+10390,Skeletal Guardian,55 - 56,Undead
+8477,Skeletal Servant,33 - 58,Undead
+10384,Spectral Citizen,55 - 56 Elite,Undead
+10388,Spiteful Phantom,58 - 59,Undead
+10955,Summoned Water Elemental,55 - 56,Elemental
+10399,Thuzadin Acolyte,59 - 60,Humanoid
+10400,Thuzadin Necromancer,60 - 61 Elite,Humanoid
+10398,Thuzadin Shadowcaster,58 - 59 Elite,Humanoid
+11142,Undead Postman,57 - 58 Elite,Undead
+10876,Undead Scarab,57,Undead
+10387,Vengeful Phantom,56 - 57,Undead
+10417,Venom Belcher,60 - 61 Elite,Undead
+10464,Wailing Banshee,58 - 59 Elite,Undead
+10389,Wrath Phantom,60 - 61,Undead
+7524,Anguished Highborne,55 - 56,Undead
+5198,Arctic Riding Wolf,10,Beast
+14531,Artorius the Amiable,60 Elite,Demon
+9857,Auctioneer Grizzlin,50,Humanoid
+10202,Azurous,59 Rare Elite,Dragonkin
+11119,Azzleby,30,Humanoid
+7454,Berserk Owlbeast,58 - 59,Humanoid
+11183,Blixxrak,55,Humanoid
+16416,Bronn Fitzwrench,55 - 56,Humanoid
+10807,Brumeran,58 Elite,Beast
+11696,Chal Fairwind,53,Humanoid
+7448,Chillwind Chimaera,55 - 57,Beast
+7449,Chillwind Ravager,57 - 59,Beast
+10660,Cobalt Broodling,55 - 56,Dragonkin
+7437,Cobalt Mageweaver,57 - 58 Elite,Dragonkin
+7436,Cobalt Scalebane,56 - 57 Elite,Dragonkin
+10659,Cobalt Whelp,54 - 55,Dragonkin
+7435,Cobalt Wyrmkin,55 - 56 Elite,Dragonkin
+7452,Crazed Owlbeast,56 - 57,Humanoid
+9298,Donova Snowden,50,Humanoid
+14348,Earthcaller Franzahl,62 Elite,Humanoid
+7445,Elder Shardtooth,57 - 58,Beast
+9297,Enraged Wyvern,55,Beast
+11190,Everlook Bruiser,57,Humanoid
+11188,Evie Whirlbrew,58,Humanoid
+10468,Felnok Steelspring,54,Humanoid
+7447,Fledgling Chillwind,53 - 55,Beast
+7428,Frostmaul Giant,59 - 60 Elite,Giant
+7429,Frostmaul Preserver,59 - 60 Elite,Giant
+7431,Frostsaber,56 - 57,Beast
+7430,Frostsaber Cub,55 - 56,Beast
+7433,Frostsaber Huntress,58 - 59,Beast
+7434,Frostsaber Pride Watcher,59 - 60,Beast
+7432,Frostsaber Stalker,59 - 60,Beast
+10196,General Colbatann,56 - 57 Rare Elite,Dragonkin
+10619,Glacier,50,Beast
+11753,Gogo,58,Humanoid
+10431,Gregor Greystone,55,Humanoid
+10199,Grizzle Snowpaw,59 Rare,Humanoid
+11808,Grum Redbeard,55,Humanoid
+12140,Guardian of Elune,60,Humanoid
+10929,Haleh,62 Elite,Dragonkin
+11755,Harlo Wigglesworth,54,Humanoid
+7461,Hederine Initiate,59 - 60 Elite,Demon
+7462,Hederine Manastalker,59 - 60 Elite,Demon
+7463,Hederine Slayer,59 - 60 Elite,Demon
+10738,High Chief Winterfall,59 Elite,Humanoid
+11187,Himmik,60,Humanoid
+7459,Ice Thistle Matriarch,56 - 57,Humanoid
+7460,Ice Thistle Patriarch,57 - 58,Humanoid
+7458,Ice Thistle Yeti,55 - 56,Humanoid
+89,Infernal,50 - 60,Demon
+11118,Innkeeper Vizzie,30,Humanoid
+13917,Izzy Coppergrab,55,Humanoid
+11546,Jack Sterling,50,Humanoid
+10301,Jaron Stoneshaper,55,Humanoid
+11629,Jessica Redpath,50,Humanoid
+10198,Kashoch the Reaver,60 Rare Elite,Giant
+11192,Kilram,58,Humanoid
+10201,Lady Hederine,61 Rare Elite,Demon
+10978,Legacki,57,Humanoid
+11191,Lilith the Lithe,55,Humanoid
+10918,Lorax,61,Humanoid
+11186,Lunnix Sprocketslip,54,Humanoid
+2303,Lyranne Feathersong,56,Humanoid
+11138,Maethrya,55 Elite,Humanoid
+10637,Malyfous Darkhammer,59,Humanoid
+10663,Manaclaw,58 Elite,Dragonkin
+11754,Meggi Peppinrocker,60,Humanoid
+10197,Mezzir the Howler,55 Rare,Humanoid
+7453,Moontouched Owlbeast,57 - 58,Humanoid
+2084,Natheril Raincaller,57,Humanoid
+11182,Nixxrak,54,Humanoid
+11189,Qia,51,Humanoid
+7446,Rabid Shardtooth,59 - 60,Beast
+7450,Ragged Owlbeast,53 - 55,Humanoid
+7451,Raging Owlbeast,54 - 56,Humanoid
+10300,Ranshalla,58,Humanoid
+10684,Remorseful Highborne,56,Undead
+12150,Riding Kodo (Purple),1 - 2,Beast
+4779,Riding Ram (Brown),1 - 2,Beast
+11751,Rilan Howard,20,Humanoid
+10618,Rivern Frostwind,62,Humanoid
+7457,Rogue Ice Thistle,53 - 55,Humanoid
+11556,Salfa,55,Humanoid
+11718,Sar Browneye,53,Humanoid
+10664,Scryer,60 Elite,Dragonkin
+11193,Seril Scourgebane,57,Humanoid
+7444,Shardtooth Bear,53 - 54,Beast
+7443,Shardtooth Mauler,55 - 56,Beast
+10737,Shy-Rotam,60 Elite,Beast
+10741,Sian-Rotam,60 Elite,Beast
+10661,Spell Eater,54 - 56,Dragonkin
+10662,Spellmaw,56 Elite,Dragonkin
+10303,Storm Shadowhoof,60,Humanoid
+7523,Suffering Highborne,54 - 55,Undead
+11492,Alzzin the Wildshaper,58 Elite,Demon
+14325,Captain Kromcrush,61 Elite,Humanoid
+14324,Cho'Rush the Observer,60 Elite,Humanoid
+14308,Ferra,60 Elite,Beast
+14321,Guard Fengus,59 Elite,Humanoid
+14326,Guard Mol'dar,59 Elite,Humanoid
+14323,Guard Slip'kik,59 Elite,Humanoid
+13280,Hydrospawn,57 Elite,Elemental
+11488,Illyanna Ravenoak,60 Elite,Undead
+11496,Immol'thar,61 Elite,Demon
+11501,King Gordok,62 Elite,Humanoid
+14327,Lethtendris,57 Elite,Humanoid
+14506,Lord Hel'nurath,62 Elite,Demon
+11487,Magister Kalendris,60 Elite,Undead
+14349,Pimgib,56 Elite,Humanoid
+11486,Prince Tortheldrin,61 Elite,Humanoid
+14354,Pusillin,57 Elite,Demon
+14322,Stomper Kreeg,59 Elite,Humanoid
+11489,Tendris Warpwood,60 Elite,Elemental
+11467,Tsu'zee,59 Elite,Undead
+11490,Zevrim Thornhoof,57 Elite,Demon
+11460,Alzzin's Minion,56,Demon
+14566,Ancient Equine Spirit,60,Beast
+11480,Arcane Aberration,59 - 60 Elite,Elemental
+14400,Arcane Feedback,59 - 60,Elemental
+14399,Arcane Torrent,59 - 60 Elite,Elemental
+14370,Cadaverous Worm,60,Uncategorized
+13160,Carrion Swarmer,57 - 58,Beast
+13285,Death Lash,57 - 58 Elite,Elemental
+883,Deer,5,Critter
+14385,Doomguard Minion,59 - 60,Demon
+14483,Dread Guard,60 Elite,Demon
+14504,Dreadsteed Spirit,60,Demon
+11471,Eldreth Apparition,57 - 58 Elite,Undead
+14398,Eldreth Darter,58 - 59 Elite,Dragonkin
+11475,Eldreth Phantasm,58 - 59 Elite,Undead
+11469,Eldreth Seether,58 - 59 Elite,Undead
+11470,Eldreth Sorcerer,58 - 59 Elite,Undead
+11473,Eldreth Spectre,58 - 59 Elite,Undead
+11472,Eldreth Spirit,57 - 58 Elite,Undead
+14396,Eye of Immol'thar,61,Uncategorized
+16032,Falrin Treeshaper,60,Humanoid
+13197,Fel Lash,56 Elite,Elemental
+11441,Gordok Brute,56 - 58 Elite,Humanoid
+14351,Gordok Bushwacker,58 - 59 Elite,Humanoid
+11445,Gordok Captain,59 - 60 Elite,Humanoid
+11444,Gordok Mage-Lord,57 - 58 Elite,Humanoid
+13036,Gordok Mastiff,57 - 59,Beast
+11450,Gordok Reaver,58 - 61 Elite,Humanoid
+11446,Gordok Spirit,60 Elite,Undead
+11448,Gordok Warlock,59 - 60 Elite,Humanoid
+11466,Highborne Summoner,55 Elite,Undead
+14350,Hydroling,57,Elemental
+11459,Ironbark Protector,57 - 59 Elite,Elemental
+14500,J'eevee,58,Demon
+14338,Knot Thimblejack,50,Humanoid
+14381,Lorekeeper Javon,60 Elite,Humanoid
+14383,Lorekeeper Kildrath,58 Elite,Humanoid
+14368,Lorekeeper Lydros,60 Elite,Humanoid
+14382,Lorekeeper Mykos,60 Elite,Humanoid
+14397,Mana Burst,59 - 60,Elemental
+11483,Mana Remnant,57 - 59 Elite,Elemental
+14122,Massive Geyser,60,Uncategorized
+14353,Mizzle the Crafty,60 Elite,Humanoid
+14389,Netherwalker,60 Elite,Demon
+11491,Old Ironbark,58 Elite,Elemental
+14303,Petrified Guardian,57 - 59 Elite,Elemental
+11458,Petrified Treant,57 - 59 Elite,Elemental
+13196,Phase Lasher,54 - 55 Elite,Elemental
+721,Rabbit,1,Critter
+4075,Rat,1,Critter
+11484,Residual Monstrosity,59 - 60 Elite,Elemental
+4076,Roach,1,Critter
+11477,Rotting Highborne,58 - 59,Undead
+14358,Shen'dralar Ancient,60 Elite,Undead
+14371,Shen'dralar Provisioner,52 Elite,Humanoid
+14364,Shen'dralar Spirit,56 - 58 Elite,Undead
+14361,Shen'dralar Wisp,1,Critter
+14369,Shen'dralar Zealot,59 Elite,Humanoid
+11476,Skeletal Highborne,57 - 58,Undead
+1412,Squirrel,1,Critter
+14386,Wandering Eye of Kilrogg,60,Demon
+13021,Warpwood Crusher,56 Elite,Elemental
+11461,Warpwood Guardian,57 - 58 Elite,Elemental
+11465,Warpwood Stomper,57 - 58 Elite,Elemental
+11464,Warpwood Tangler,55 - 56 Elite,Elemental
+11462,Warpwood Treant,54 - 55 Elite,Elemental
+13022,Whip Lasher,54,Elemental
+11454,Wildspawn Betrayer,55 - 56 Elite,Demon
+11455,Wildspawn Felsworn,55 - 56 Elite,Demon
+11457,Wildspawn Hellcaller,56 - 57 Elite,Demon
+13276,Wildspawn Imp,56,Demon
+11452,Wildspawn Rogue,56 - 57 Elite,Demon
+11451,Wildspawn Satyr,55 - 56 Elite,Demon
+11456,Wildspawn Shadowstalker,56 Elite,Demon
+11453,Wildspawn Trickster,56 - 57 Elite,Demon
+14502,Xorothian Dreadsteed,62 Elite,Demon
+15174,Calandrath,54,Humanoid
+15184,Cenarion Hold Infantry,60 Elite,Humanoid
+15610,Cenarion Scout Azenel,Elite,Humanoid
+15611,Cenarion Scout Jalia,60 Elite,Humanoid
+15609,Cenarion Scout Landion,Elite,Humanoid
+15177,Cloud Skydancer,55 Elite,Humanoid
+15181,Commander Mar'alith,62 Elite,Humanoid
+14761,Creeping Doom,60,Uncategorized
+11745,Cyclone Warrior,57 - 59,Elemental
+15196,Deathclasp,59 Elite,Beast
+11747,Desert Rager,58 - 59,Elemental
+11746,Desert Rumbler,56 - 58,Elemental
+11741,Dredge Crusher,57 - 58,Beast
+11740,Dredge Striker,55 - 56,Beast
+11744,Dust Stormer,55 - 57,Elemental
+15171,Frankal Stonebridge,60,Humanoid
+15172,Glibb,62,Beast
+14472,Gretheer,57 Rare,Beast
+14477,Grubthor,58 Rare,Beast
+15194,Hermit Ortell,56 - 58,Humanoid
+14347,Highlord Demitrian,62 Elite,Humanoid
+13301,Hive'Ashi Ambusher,56 - 57,Uncategorized
+11722,Hive'Ashi Defender,58 - 59 Elite,Uncategorized
+13136,Hive'Ashi Drone,57 - 58,Uncategorized
+11723,Hive'Ashi Sandstalker,58 - 59 Elite,Uncategorized
+11698,Hive'Ashi Stinger,57 - 58 Elite,Uncategorized
+11724,Hive'Ashi Swarmer,57 - 58 Elite,Uncategorized
+11721,Hive'Ashi Worker,57 - 58 Elite,Uncategorized
+11730,Hive'Regal Ambusher,59 - 60 Elite,Uncategorized
+11731,Hive'Regal Burrower,59 - 60 Elite,Uncategorized
+11734,Hive'Regal Hive Lord,59 - 61 Elite,Uncategorized
+11733,Hive'Regal Slavemaker,59 - 60 Elite,Uncategorized
+11732,Hive'Regal Spitfire,59 - 60 Elite,Uncategorized
+11729,Hive'Zora Hive Sister,59 - 60 Elite,Uncategorized
+11728,Hive'Zora Reaver,59 - 60 Elite,Uncategorized
+11726,Hive'Zora Tunneler,58 - 59 Elite,Uncategorized
+11727,Hive'Zora Wasp,58 - 59,Uncategorized
+11725,Hive'Zora Waywatcher,58 - 59 Elite,Uncategorized
+14478,Huricanian,58 Rare,Elemental
+11805,Jarund Stoutstrider,55,Humanoid
+15175,Khur Hornstriker,57,Humanoid
+14476,Krellack,56 Rare,Beast
+14473,Lapress,60 Rare Elite,Uncategorized
+13220,Layo Starstrike,55,Humanoid
+14536,Nelson the Nice,60 Elite,Demon
+15169,Ralo'shan the Eternal Watcher,60,Humanoid
+14475,Rex Ashil,57 Rare Elite,Uncategorized
+11739,Rock Stalker,57 - 58,Beast
+15178,Runk Windtamer,55 Elite,Humanoid
+15170,Rutgar Glyphshaper,60,Humanoid
+11738,Sand Skitterer,55 - 56,Beast
+14471,Setis,61 Rare Elite,Humanoid
+12199,Shade of Ambermoon,58,Undead
+15722,Squire Leoren Mal'derath,60,Humanoid
+11737,Stonelash Flayer,57 - 58,Beast
+11736,Stonelash Pincer,56,Beast
+11735,Stonelash Scorpid,54 - 55,Beast
+12178,Tortured Druid,55 - 56,Undead
+12179,Tortured Sentinel,56 - 57,Undead
+11880,Twilight Avenger,58 - 59,Humanoid
+15201,Twilight Flamereaver,60,Humanoid
+11881,Twilight Geolord,59 - 60,Humanoid
+11883,Twilight Master,60,Humanoid
+15213,Twilight Overlord,60 - 61,Humanoid
+11882,Twilight Stonecaller,59 - 60,Humanoid
+15182,Vish Kozus,61 Elite,Humanoid
+15202,Vyral the Vile,,Humanoid
+12956,Zannok Hidepiercer,59,Humanoid
+14474,Zora,59 Rare Elite,Uncategorized
+7206,Ancient Stone Keeper,44 Elite,Elemental
+2748,Archaedas,47 Elite,Giant
+6906,Baelog,41 Elite,Humanoid
+6907,"Eric ""The Swift""",40 Elite,Humanoid
+7291,Galgann Firehammer,45 Elite,Humanoid
+4854,Grimlok,45 Elite,Humanoid
+7228,Ironaya,40 Elite,Giant
+7023,Obsidian Sentinel,42 Elite,Mechanical
+6908,Olaf,40 Elite,Humanoid
+6910,Revelosh,40 Elite,Humanoid
+4857,Stone Keeper,46 Elite,Elemental
+11073,Annora,54,Humanoid
+7078,Cleft Scorpid,35 - 36,Beast
+7405,Deadly Cleft Scorpid,42 - 43,Beast
+7309,Earthen Custodian,44 - 45,Humanoid
+7076,Earthen Guardian,44 - 45,Humanoid
+7077,Earthen Hallshaper,44 - 45,Humanoid
+7011,Earthen Rocksmasher,42 - 43,Humanoid
+7012,Earthen Sculptor,42 - 43,Humanoid
+7396,Earthen Stonebreaker,44 - 45,Humanoid
+7397,Earthen Stonecarver,44 - 45,Humanoid
+3560,Healing Ward,10 - 49,Uncategorized
+4863,Jadespine Basilisk,39 - 40 Elite,Beast
+7172,Lore Keeper of Norgannon,60,Giant
+7209,Obsidian Shard,35,Mechanical
+6912,Remains of a Paladin,35,Humanoid
+7091,Shadowforge Ambusher,43 - 44,Humanoid
+4849,Shadowforge Archaeologist,43 - 44 Elite,Humanoid
+4848,Shadowforge Darkcaster,43 - 44 Elite,Humanoid
+7030,Shadowforge Geologist,40 - 41 Elite,Humanoid
+4847,Shadowforge Relic Hunter,39 - 40 Elite,Humanoid
+7290,Shadowforge Sharpshooter,43 - 44 Elite,Humanoid
+4861,Shrike Bat,38 - 39 Elite,Beast
+4860,Stone Steward,44 Elite,Elemental
+7175,Stonevault Ambusher,35,Humanoid
+4855,Stonevault Brawler,43 - 44 Elite,Humanoid
+4850,Stonevault Cave Lurker,38 - 39 Elite,Humanoid
+7321,Stonevault Flameweaver,44 - 45 Elite,Humanoid
+4853,Stonevault Geomancer,43 - 44 Elite,Humanoid
+7320,Stonevault Mauler,44 - 45 Elite,Humanoid
+4852,Stonevault Oracle,37 - 38 Elite,Humanoid
+4851,Stonevault Rockchewer,36 - 37 Elite,Humanoid
+10120,Vault Warder,45 Elite,Elemental
+7022,Venomlash Scorpid,39 - 40 Elite,Beast
+9660,Agnar Beastamer,47,Humanoid
+5598,Atal'ai Exile,45,Humanoid
+11812,Claira Kindfeather,43,Humanoid
+7778,Doran Steelwing,45,Humanoid
+11097,Drakk Stonehand,55,Humanoid
+12496,Dreamtracker,62 Elite,Dragonkin
+14757,Elder Torntusk,48,Humanoid
+4469,Emerald Ooze,46 - 47 Elite,Uncategorized
+5635,Falstad Wildhammer,50,Humanoid
+7884,Fraggar Thundermantle,60,Humanoid
+7977,Gammerita,48 Elite,Beast
+12958,Gigget Zipcoil,52,Humanoid
+7801,Gilveradin Sunchaser,45,Humanoid
+4314,Gorkas,55 Elite,Humanoid
+12124,Great Shark,Elite,Beast
+2655,Green Sludge,46 - 47,Uncategorized
+8215,Grimungous,50 Rare Elite,Giant
+5636,Gryphon Master Talonaxe,44,Humanoid
+8018,Guthrum Thunderfist,55 Elite,Humanoid
+8161,Harggan,49,Humanoid
+2693,Highvale Marksman,45 - 46,Humanoid
+2691,Highvale Outrunner,43 - 44,Humanoid
+2694,Highvale Ranger,46 - 47,Humanoid
+2692,Highvale Scout,44 - 45,Humanoid
+10802,Hitah'ya the Keeper,51 Elite,Humanoid
+7806,Homing Robot OOX-09/HL,42,Mechanical
+11810,Howin Kindfeather,45,Humanoid
+14741,Huntsman Markhor,45,Humanoid
+7744,Innkeeper Thulfram,30,Humanoid
+8213,Ironback,51 Rare,Beast
+2656,Jade Ooze,47 - 48,Uncategorized
+4468,Jade Sludge,47 - 48 Elite,Uncategorized
+8214,Jalinde Summerdrake,49 Rare,Humanoid
+14740,Katoom the Angler,42,Humanoid
+11813,Kerr Ironsight,41,Humanoid
+10061,Killium Bouldertoe,30,Humanoid
+14731,Lard,48,Humanoid
+2923,Mangy Silvermane,41 - 42,Beast
+7808,Marauding Owlbeast,46,Humanoid
+8217,Mith'rethis the Enchanter,52 Rare Elite,Humanoid
+8636,Morta'gya the Keeper,50 Elite,Humanoid
+14739,Mystic Yayo'jin,48,Humanoid
+8160,Nioma,50,Humanoid
+8211,Old Cliff Jumper,42 Rare,Beast
+14738,Otho Moji'ko,48,Humanoid
+14736,Primal Torntusk,60,Humanoid
+2928,Primitive Owlbeast,44 - 45,Humanoid
+7996,Qiaga the Keeper,50 Elite,Humanoid
+2658,Razorbeak Gryphon,43 - 45,Beast
+2659,Razorbeak Skylord,46 - 48,Beast
+8210,Razortalon,44 Rare,Humanoid
+17598,Renn'az,46,Humanoid
+8216,Retherokk the Berserker,48 Rare,Humanoid
+14734,Revantusk Drummer,50,Humanoid
+14730,Revantusk Watcher,55,Humanoid
+5634,Rhapsody Shindigger,44,Humanoid
+8885,Riding Raptor,1 - 2,Beast
+7780,Rin'ji,46,Humanoid
+5718,Rothos,62 Elite,Dragonkin
+2688,Ruppo Zipcoil,52,Humanoid
+2505,Saltwater Snapjaw,49 - 50,Beast
+2929,Savage Owlbeast,46 - 47,Humanoid
+2707,Shadra,55 Elite,Beast
+8023,Sharpbeak,5,Beast
+8024,Sharpbeak's Father,55,Beast
+8025,Sharpbeak's Mother,55,Beast
+2925,Silvermane Howler,45 - 46,Beast
+2926,Silvermane Stalker,47 - 48,Beast
+2924,Silvermane Wolf,43 - 44,Beast
+14737,Smith Slagtree,47,Humanoid
+8276,Soaring Razorbeak,40 - 42,Beast
+8212,The Reak,49 Rare,Uncategorized
+2657,Trained Razorbeak,40 - 42,Beast
+4782,Truk Wildbeard,50,Humanoid
+12477,Verdantine Boughguard,62 Elite,Dragonkin
+12478,Verdantine Oracle,61 Elite,Dragonkin
+12479,Verdantine Tree Warder,60 Elite,Dragonkin
+2927,Vicious Owlbeast,42 - 43,Humanoid
+7995,Vile Priestess Hexx,51 Elite,Humanoid
+2648,Vilebranch Aman'zasi Guard,50 - 51 Elite,Humanoid
+7809,Vilebranch Ambusher,47,Humanoid
+2639,Vilebranch Axe Thrower,45 - 46,Humanoid
+2643,Vilebranch Berserker,47 - 48 Elite,Humanoid
+2646,Vilebranch Blood Drinker,49 - 50 Elite,Humanoid
+2641,Vilebranch Headhunter,46 - 47 Elite,Humanoid
+2644,Vilebranch Hideskinner,48 - 49 Elite,Humanoid
+14748,Vilebranch Kidnapper,49,Humanoid
+2681,Vilebranch Raiding Wolf,50 - 51 Elite,Beast
+4466,Vilebranch Scalper,46 - 47,Humanoid
+2645,Vilebranch Shadow Hunter,48 - 49 Elite,Humanoid
+2642,Vilebranch Shadowcaster,47 - 48 Elite,Humanoid
+4467,Vilebranch Soothsayer,46 - 47,Humanoid
+2647,Vilebranch Soul Eater,49 - 50 Elite,Humanoid
+4465,Vilebranch Warrior,45 - 46 Elite,Humanoid
+2640,Vilebranch Witch Doctor,46 - 47,Humanoid
+2680,Vilebranch Wolf Pup,46 - 47,Beast
+7865,Wildhammer Sentry,55,Humanoid
+7768,Witherbark Bloodling,25,Uncategorized
+4275,Archmage Arugal,26 Elite,Humanoid
+3887,Baron Silverlaine,24 Elite,Undead
+4278,Commander Springvale,24 Elite,Undead
+3872,Deathsworn Captain,25 Rare Elite,Undead
+4274,Fenrus the Devourer,25 Elite,Beast
+4279,Odo the Blindwatcher,24 Elite,Humanoid
+3886,Razorclaw the Butcher,22 Elite,Humanoid
+3914,Rethilgore,20 Elite,Humanoid
+3927,Wolf Master Nandos,25 Elite,Humanoid
+4627,Arugal's Voidwalker,24 - 25,Demon
+2110,Black Rat,1,Critter
+3861,Bleak Worg,18 - 25 Elite,Beast
+3868,Blood Seeker,23 - 24 Elite,Beast
+3849,Deathstalker Adamant,18 Elite,Humanoid
+4444,Deathstalker Vincent,21,Humanoid
+3864,Fel Steed,19 - 20 Elite,Beast
+3875,Haunted Servitor,20 - 21 Elite,Undead
+4958,Haunting Spirit,21 - 22,Undead
+5097,Lupine Delusion,24 - 25,Undead
+3863,Lupine Horror,24 - 25 Elite,Undead
+3865,Shadow Charger,20 - 21 Elite,Beast
+3855,Shadowfang Darksoul,20 - 21 Elite,Humanoid
+3857,Shadowfang Glutton,21 - 22 Elite,Humanoid
+3853,Shadowfang Moonwalker,19 - 20 Elite,Humanoid
+3859,Shadowfang Ragetooth,23 - 24 Elite,Humanoid
+3851,Shadowfang Whitescalp,18 - 19 Elite,Humanoid
+3854,Shadowfang Wolfguard,20 - 21 Elite,Humanoid
+3862,Slavering Worg,18 - 25 Elite,Beast
+2529,Son of Arugal,24 - 25 Elite,Humanoid
+3850,Sorcerer Ashcrombe,18 Elite,Humanoid
+3873,Tormented Officer,23 - 24 Elite,Undead
+3866,Vile Bat,22 - 23 Elite,Beast
+3877,Wailing Guardsman,21 - 22 Elite,Undead
+5058,Wolfguard Worg,20 - 21,Beast
+3977,High Inquisitor Whitemane,42 Elite,Humanoid
+6426,Anguished Dead,31 - 33 Elite,Undead
+6487,Arcanist Doan,37 Elite,Humanoid
+6490,Azshir the Sleepless,33 Rare Elite,Undead
+4543,Bloodmage Thalnos,34 Elite,Undead
+6488,Fallen Champion,33 Rare Elite,Undead
+575,Fire Elemental,35 - 36,Elemental
+6427,Haunting Phantasm,32 - 33 Elite,Undead
+3975,Herod,40 Elite,Humanoid
+4542,High Inquisitor Fairbanks,40 Elite,Undead
+3974,Houndmaster Loksey,34 Elite,Humanoid
+6493,Illusionary Phantasm,32 - 33 Elite,Undead
+3983,Interrogator Vishas,32 Elite,Humanoid
+6489,Ironspine,33 Rare Elite,Undead
+4303,Scarlet Abbot,39 - 40 Elite,Humanoid
+4296,Scarlet Adept,33 - 34 Elite,Humanoid
+4288,Scarlet Beastmaster,34 - 35 Elite,Humanoid
+4301,Scarlet Centurion,38 - 39 Elite,Humanoid
+4302,Scarlet Champion,39 - 40 Elite,Humanoid
+4299,Scarlet Chaplain,34 - 36 Elite,Humanoid
+3976,Scarlet Commander Mograine,42 Elite,Humanoid
+4297,Scarlet Conjuror,35 - 36 Elite,Humanoid
+4298,Scarlet Defender,37 - 38 Elite,Humanoid
+4291,Scarlet Diviner,34 - 35 Elite,Humanoid
+4289,Scarlet Evoker,36 - 37 Elite,Humanoid
+4287,Scarlet Gallant,33 - 34 Elite,Humanoid
+4290,Scarlet Guardsman,36 - 37 Elite,Humanoid
+4540,Scarlet Monk,35 - 36 Elite,Humanoid
+4295,Scarlet Myrmidon,37 - 38 Elite,Humanoid
+4292,Scarlet Protector,36 - 37 Elite,Humanoid
+4293,Scarlet Scryer,30 - 31 Elite,Humanoid
+4283,Scarlet Sentry,30 - 31 Elite,Humanoid
+4286,Scarlet Soldier,35 - 36 Elite,Humanoid
+4294,Scarlet Sorcerer,37 - 38 Elite,Humanoid
+4306,Scarlet Torturer,30 - 31 Elite,Humanoid
+4304,Scarlet Tracking Hound,33 - 34 Elite,Beast
+6575,Scarlet Trainee,30,Humanoid
+4300,Scarlet Wizard,38 - 39 Elite,Humanoid
+6547,Suffering Victim,25,Humanoid
+4308,Unfettered Spirit,31 - 32,Undead
+3981,Vorrel Sengutz,8,Humanoid
+9596,Bannok Grimaxe,59 Rare Elite,Humanoid
+10263,Burning Felguard,56 - 57 Rare Elite,Demon
+10376,Crystal Fang,60 Rare Elite,Beast
+9718,Ghok Bashguud,59 Rare Elite,Humanoid
+10268,Gizrul the Slavener,60 Elite,Beast
+10220,Halycon,59 Elite,Beast
+9196,Highlord Omokk,59 Elite,Humanoid
+10596,Mother Smolderweb,59 Elite,Beast
+9568,Overlord Wyrmthalak,60 Elite,Dragonkin
+9736,Quartermaster Zigris,59 Rare Elite,Humanoid
+9236,Shadow Hunter Vosh'gajin,58 Elite,Humanoid
+9218,Spirestone Battle Lord,58 Rare Elite,Humanoid
+9219,Spirestone Butcher,57 Rare Elite,Humanoid
+9217,Spirestone Lord Magus,58 Rare Elite,Humanoid
+10584,Urok Doomhowl,60 Rare Elite,Humanoid
+9237,War Master Voone,59 Elite,Humanoid
+10740,Awbee,57 Elite,Dragonkin
+10257,Bijou,58 Elite,Humanoid
+10318,Blackhand Assassin,60 - 61 Elite,Humanoid
+10742,Blackhand Dragon Handler,59 - 60 Elite,Humanoid
+9817,Blackhand Dreadweaver,59 - 60 Elite,Humanoid
+10317,Blackhand Elite,60 - 61 Elite,Humanoid
+10316,Blackhand Incarcerator,59 - 60,Humanoid
+10319,Blackhand Iron Guard,60 - 61 Elite,Humanoid
+9818,Blackhand Summoner,59 - 60 Elite,Humanoid
+10762,Blackhand Thug,60 Elite,Humanoid
+9819,Blackhand Veteran,59 - 60 Elite,Humanoid
+9693,Bloodaxe Evoker,58 - 59 Elite,Humanoid
+9692,Bloodaxe Raider,57 - 58 Elite,Humanoid
+9717,Bloodaxe Summoner,57 - 58 Elite,Humanoid
+9583,Bloodaxe Veteran,58 - 59 Elite,Humanoid
+9716,Bloodaxe Warmonger,57 - 58 Elite,Humanoid
+9696,Bloodaxe Worg,56 - 57,Beast
+10221,Bloodaxe Worg Pup,52 - 53,Beast
+10261,Burning Felhound,54 - 55,Demon
+9708,Burning Imp,54 - 55,Demon
+10447,Chromatic Dragonspawn,59 - 60 Elite,Dragonkin
+10814,Chromatic Elite Guard,59 - 60 Elite,Dragonkin
+10442,Chromatic Whelp,57 - 58,Dragonkin
+10776,Finkle Einhorn,60 Elite,Humanoid
+9261,Firebrand Darkweaver,56 - 57 Elite,Humanoid
+9263,Firebrand Dreadweaver,57 - 58 Elite,Humanoid
+9259,Firebrand Grunt,56 - 57 Elite,Humanoid
+9262,Firebrand Invoker,56 - 57 Elite,Humanoid
+9260,Firebrand Legionnaire,57 - 58 Elite,Humanoid
+9264,Firebrand Pyromancer,57 - 58 Elite,Humanoid
+10363,General Drakkisath,?? Boss,Dragonkin
+10899,Goraluk Anvilcrack,61 Elite,Humanoid
+10339,Gyth,62 Elite,Dragonkin
+10509,Jed Runewatcher,59 Rare Elite,Humanoid
+10162,Lord Victor Nefarius,?? Boss,Dragonkin
+9816,Pyroguard Emberseer,?? Boss,Elemental
+10371,Rage Talon Captain,62 Elite,Dragonkin
+10366,Rage Talon Dragon Guard,60 - 61 Elite,Dragonkin
+9096,Rage Talon Dragonspawn,58 - 59 Elite,Dragonkin
+10372,Rage Talon Fire Tongue,60 - 61 Elite,Dragonkin
+10083,Rage Talon Flamescale,58 - 59 Elite,Dragonkin
+10258,Rookery Guardian,58 - 59 Elite,Dragonkin
+10683,Rookery Hatcher,58 - 59 Elite,Dragonkin
+10161,Rookery Whelp,56 - 57,Dragonkin
+9045,Scarshield Acolyte,54 - 55 Elite,Humanoid
+10299,Scarshield Infiltrator,54 - 55 Elite,Humanoid
+9097,Scarshield Legionnaire,54 - 55 Elite,Humanoid
+9258,Scarshield Raider,55 - 56 Elite,Humanoid
+9098,Scarshield Spellbinder,54 - 55 Elite,Humanoid
+9257,Scarshield Warlock,54 - 55 Elite,Humanoid
+9416,Scarshield Worg,53 - 54,Beast
+9267,Smolderthorn Axe Thrower,55 - 56 Elite,Humanoid
+9268,Smolderthorn Berserker,57 - 58 Elite,Humanoid
+9241,Smolderthorn Headhunter,56 - 57 Elite,Humanoid
+9239,Smolderthorn Mystic,55 - 56 Elite,Humanoid
+9269,Smolderthorn Seer,56 - 57 Elite,Humanoid
+9265,Smolderthorn Shadow Hunter,56 - 57 Elite,Humanoid
+9240,Smolderthorn Shadow Priest,55 - 56 Elite,Humanoid
+9266,Smolderthorn Witch Doctor,56 - 57 Elite,Humanoid
+10264,Solakar Flamewreath,60 Elite,Dragonkin
+10177,Spire Scarab,58,Beast
+9701,Spire Scorpid,58,Beast
+10374,Spire Spider,57 - 58 Elite,Beast
+10375,Spire Spiderling,55 - 56,Beast
+9197,Spirestone Battle Mage,57 - 58 Elite,Humanoid
+9199,Spirestone Enforcer,54 - 55 Elite,Humanoid
+9198,Spirestone Mystic,55 - 56 Elite,Humanoid
+9201,Spirestone Ogre Magus,54 - 55 Elite,Humanoid
+9200,Spirestone Reaver,55 - 56 Elite,Humanoid
+9216,Spirestone Warlord,57 - 58 Elite,Humanoid
+10680,Summoned Blackhand Dreadweaver,59 - 60 Elite,Humanoid
+10681,Summoned Blackhand Veteran,59 - 60 Elite,Humanoid
+10218,Superior Healing Ward,56 - 57,Uncategorized
+10430,The Beast,?? Boss,Beast
+10601,Urok Enforcer,54 - 55 Elite,Humanoid
+10602,Urok Ogre Magus,54 - 55 Elite,Humanoid
+10340,Vaelastrasz the Red,62 Elite,Dragonkin
+10429,Warchief Rend Blackhand,?? Boss,Humanoid
+10799,Warosh,60,Humanoid
+8443,Avatar of Hakkar,Elite,Uncategorized
+5721,Dreamscythe,53 Elite,Dragonkin
+5722,Hazzas,53 Elite,Dragonkin
+5710,Jammal'an the Prophet,54 Elite,Humanoid
+5719,Morphaz,52 Elite,Dragonkin
+5711,Ogom the Wretched,53 Elite,Undead
+5709,Shade of Eranikus,55 Elite,Dragonkin
+5720,Weaver,51 Elite,Dragonkin
+5270,Atal'ai Corpse Eater,49 - 50 Elite,Undead
+5271,Atal'ai Deathwalker,50 - 51 Elite,Undead
+8317,Atal'ai Deathwalker's Spirit,50 - 51 Elite,Undead
+5273,Atal'ai High Priest,50 - 51 Elite,Humanoid
+8324,Atal'ai Skeleton,46 - 47,Undead
+8318,Atal'ai Slave,46 - 47,Demon
+5256,Atal'ai Warrior,48 - 49 Elite,Humanoid
+5259,Atal'ai Witch Doctor,49 - 50 Elite,Humanoid
+8580,Atal'alarion,50 Elite,Humanoid
+8384,Deep Lurker,47 - 49 Elite,Elemental
+5713,Gasher,51 Elite,Undead
+8438,Hakkari Bloodkeeper,49 - 50 Elite,Uncategorized
+5291,Hakkari Frostwing,49 - 50 Elite,Beast
+8437,Hakkari Minion,45 - 46,Uncategorized
+8336,Hakkari Sapper,49 - 50 Elite,Beast
+5715,Hukku,52 Elite,Undead
+8658,Hukku's Imp,52,Demon
+8657,Hukku's Succubus,52,Demon
+8656,Hukku's Voidwalker,52,Demon
+5714,Loro,51 Elite,Undead
+5717,Mijan,52 Elite,Undead
+5226,Murk Worm,47 - 48 Elite,Beast
+5277,Nightmare Scalebane,50 - 51 Elite,Dragonkin
+8497,Nightmare Suppressor,49 - 50 Elite,Dragonkin
+5283,Nightmare Wanderer,49 - 50 Elite,Dragonkin
+8319,Nightmare Whelp,49 - 50,Dragonkin
+5280,Nightmare Wyrmkin,50 - 51 Elite,Dragonkin
+8257,Oozeling,40,Uncategorized
+5228,Saturated Ooze,47 - 48 Elite,Uncategorized
+8440,Shade of Hakkar,49 - 50 Elite,Uncategorized
+8311,Slime Maggot,45 - 46,Beast
+5708,Spawn of Hakkar,51 Elite,Beast
+5267,Unliving Atal'ai,48 - 49 Elite,Undead
+5712,Zolo,51 Elite,Undead
+5716,Zul'Lor,52 Elite,Undead
+5594,Alchemist Pestlezugg,45,Humanoid
+11758,Andi Lynn,48,Humanoid
+7883,Andre Firebeard,45,Humanoid
+9453,Aquementas,54,Elemental
+8661,Auctioneer Beardo,50,Humanoid
+7823,Bera Stonehammer,55 Elite,Humanoid
+5426,Blisterpaw Hyena,44 - 45,Beast
+8131,Blizrik Buckshot,45,Humanoid
+7824,Bulkrek Ragefist,55 Elite,Humanoid
+8736,Buzzek Bracketswing,53,Humanoid
+7847,Caliph Scorpidsting,46,Humanoid
+5460,Centipaar Sandreaver,49 - 50,Uncategorized
+5456,Centipaar Stinger,48 - 49,Uncategorized
+5457,Centipaar Swarmer,49 - 50,Uncategorized
+5459,Centipaar Tunneler,47 - 48,Uncategorized
+5455,Centipaar Wasp,47 - 48,Uncategorized
+5458,Centipaar Worker,48 - 49,Uncategorized
+7407,Chief Engineer Bilgewhizzle,50,Humanoid
+8197,Chronalis,61 Elite,Dragonkin
+5466,Coast Strider,48 - 49 Elite,Giant
+7763,Curgle Cranklehop,48,Humanoid
+8202,Cyclok the Mad,Rare,Humanoid
+5467,Deep Dweller,49 - 50 Elite,Giant
+14567,Derotain Mudsipper,52,Humanoid
+8125,Dirge Quikcleave,43,Humanoid
+5469,Dune Smasher,48 - 49 Elite,Giant
+5474,Dunemaul Brute,47 - 48,Humanoid
+5472,Dunemaul Enforcer,46 - 47,Humanoid
+5471,Dunemaul Ogre,45 - 46,Humanoid
+5473,Dunemaul Ogre Mage,46 - 47,Humanoid
+5475,Dunemaul Warlock,47 - 48,Humanoid
+12475,Emeraldon Tree Warder,60 Elite,Dragonkin
+9526,Enraged Gryphon,55 Elite,Beast
+5429,Fire Roc,43 - 45,Beast
+9460,Gadgetzan Bruiser,57,Humanoid
+9299,Gaeriyan,60,Humanoid
+8137,Gikkix,40,Humanoid
+7799,Gimblethorn,45,Humanoid
+5420,Glasshide Gazer,45 - 46,Beast
+5421,Glasshide Petrifier,48 - 49,Beast
+5490,Gnarled Thistleshrub,48 - 49,Elemental
+12046,Gor'marok the Ravager,49,Humanoid
+8207,Greater Firebird,46 Rare,Beast
+9396,Ground Pounder,41 - 43,Elemental
+8667,Gusting Vortex,43 - 45,Elemental
+8205,Haarka the Ravenous,50 Rare,Uncategorized
+15165,Haughty Modiste,51,Humanoid
+7769,Hazzali Parasite,45,Uncategorized
+5454,Hazzali Sandreaver,49 - 50,Uncategorized
+5450,Hazzali Stinger,49 - 50,Uncategorized
+5451,Hazzali Swarmer,49 - 50,Uncategorized
+5453,Hazzali Tunneler,48 - 49,Uncategorized
+5441,Hazzali Wasp,47 - 48,Uncategorized
+5452,Hazzali Worker,47 - 48,Uncategorized
+7784,Homing Robot OOX-17/TN,42,Mechanical
+7733,Innkeeper Fizzgrimble,30,Humanoid
+8139,Jabbey,40,Humanoid
+5319,Jademir Tree Warder,60 Elite,Dragonkin
+14743,Jhordy Lapforge,50,Humanoid
+8200,Jin'Zallah the Sandbringer,46 Rare Elite,Humanoid
+8203,Kregg Keelhaul,47 Rare,Humanoid
+5411,Krinkle Goodsteel,40,Humanoid
+5465,Land Rager,45 - 47,Elemental
+9985,Laziphus,30,Humanoid
+9397,Living Storm,47 - 49,Elemental
+7564,Marin Noggenfogger,40,Humanoid
+7771,Marvon Rivetseeker,40,Humanoid
+15526,Meridith the Mermaiden,,Humanoid
+8208,Murderous Blisterpaw,43 Rare,Beast
+16014,Mux Manascrambler,60,Humanoid
+11811,Narain Soothfancy,45,Humanoid
+8126,Nixx Sprocketspring,55,Humanoid
+15520,O'Reily,5,Beast
+8196,Occulus,50 Elite,Dragonkin
+8201,Omgorn the Lost,50 Rare,Humanoid
+8128,Pikkle,40,Humanoid
+5389,Prospector Gunstan,45,Humanoid
+10460,Prospector Ironboot,48,Humanoid
+8124,Qizzik,45,Humanoid
+11756,Quinn,35,Humanoid
+5427,Rabid Blisterpaw,47 - 48,Beast
+5470,Raging Dune Smasher,49 - 50 Elite,Giant
+8883,Riding Horse,1 - 2,Beast
+8881,Riding Ram,1 - 2,Critter
+8882,Riding Tiger,1 - 2,Beast
+5774,Riding Wolf,1 - 2,Beast
+5428,Roc,41 - 43,Beast
+16417,Rumsen Fizzlebrack,44,Humanoid
+5646,Sandfury Axe Thrower,42 - 44 Elite,Humanoid
+5647,Sandfury Firecaller,43 - 44 Elite,Humanoid
+5645,Sandfury Hideskinner,42 - 43 Elite,Humanoid
+7803,Scorpid Duneburrower,46 - 47,Beast
+5424,Scorpid Dunestalker,46 - 47,Beast
+5422,Scorpid Hunter,40 - 41,Beast
+5423,Scorpid Tail Lasher,43 - 44,Beast
+5430,Searing Roc,47 - 49,Beast
+7882,Security Chief Bilgewhizzle,51,Humanoid
+14340,Alshirr Banebreath,54 Rare,Demon
+10379,Altsoba Ragetotem,55,Humanoid
+8956,Angerclaw Bear,47 - 48,Beast
+8957,Angerclaw Grizzly,51 - 52,Beast
+8958,Angerclaw Mauler,49 - 50,Beast
+9528,Arathandris Silversky,60,Humanoid
+9598,Arei,56,Elemental
+2806,Bale,55,Humanoid
+11180,Bloodvenom Post Brave,55,Humanoid
+11900,Brakkar,55 Elite,Humanoid
+11016,Captured Arko'narin,48,Humanoid
+9462,Chieftain Bloodmaw,56,Humanoid
+7086,Cursed Ooze,49 - 50,Uncategorized
+7157,Deadwood Avenger,54 - 55,Humanoid
+7156,Deadwood Den Watcher,53 - 54,Humanoid
+7154,Deadwood Gardener,48 - 49,Humanoid
+7155,Deadwood Pathfinder,49 - 50,Humanoid
+7158,Deadwood Shaman,53 - 54,Humanoid
+7153,Deadwood Warrior,48 - 49,Humanoid
+14339,Death Howl,49 Rare,Beast
+11024,Della,49,Beast
+7104,Dessecus,56 Rare Elite,Elemental
+9620,Dreka'Sur,50,Humanoid
+659,El Pollo Grande,50,Beast
+9878,Entropic Beast,51 - 52,Elemental
+9879,Entropic Horror,53 - 54,Elemental
+9116,Eridan Bluewind,57,Humanoid
+8961,Felpaw Ravager,51 - 52,Beast
+8960,Felpaw Scavenger,49 - 50,Beast
+8959,Felpaw Wolf,47 - 48,Beast
+9465,Golhine the Hooded,60,Humanoid
+11555,Gorn One Eye,55,Humanoid
+11554,Grazle,55,Humanoid
+10922,Greta Mosshoof,59,Humanoid
+14526,Hastat the Ancient,63 Elite,Uncategorized
+7137,Immolatus,56 Rare Elite,Demon
+14470,Impsy,56,Demon
+7135,Infernal Bodyguard,53 - 54 Elite,Demon
+7136,Infernal Sentry,52 - 53 Elite,Demon
+7099,Ironbeak Hunter,50 - 51,Beast
+7097,Ironbeak Owl,48 - 49,Beast
+7098,Ironbeak Screecher,52 - 53,Beast
+7139,Irontree Stomper,52 - 53,Elemental
+7138,Irontree Wanderer,52 - 53,Elemental
+10924,Ivy Leafrunner,63,Humanoid
+7108,Jadefire Betrayer,52 - 53,Demon
+7109,Jadefire Felsworn,50 - 51,Demon
+7111,Jadefire Hellcaller,53 - 54,Demon
+7106,Jadefire Rogue,50 - 51,Demon
+7105,Jadefire Satyr,49 - 50,Demon
+7110,Jadefire Shadowstalker,51 - 52,Demon
+7107,Jadefire Trickster,52 - 53,Demon
+7115,Jaedenar Adept,51 - 52,Humanoid
+7112,Jaedenar Cultist,51 - 52,Humanoid
+7118,Jaedenar Darkweaver,53 - 54,Humanoid
+7114,Jaedenar Enforcer,52 - 53,Humanoid
+7113,Jaedenar Guardian,50 - 51,Humanoid
+7125,Jaedenar Hound,50 - 51,Demon
+7126,Jaedenar Hunter,52 - 53,Demon
+9862,Jaedenar Legionnaire,55,Demon
+7120,Jaedenar Warlock,53 - 54,Humanoid
+11019,Jessir Moonbow,50,Humanoid
+5501,Kaerbrus,57,Humanoid
+10920,Kelek Skykeeper,57,Humanoid
+11558,Kernda,55,Humanoid
+14467,Kroshius,55 Elite,Demon
+9516,Lord Banehollow,59 Elite,Demon
+2803,Malygen,55,Humanoid
+9529,Maybess Riverbreeze,60,Humanoid
+11557,Meilosh,55,Humanoid
+12578,Mishellena,55 Elite,Humanoid
+14344,Mongress,50 Rare,Beast
+9861,Moora,52,Demon
+15315,Mylini Frostmoon,55,Humanoid
+15395,Nafien,55,Humanoid
+543,Nalesette Wildbringer,40,Humanoid
+14469,Niby the Almighty,56,Humanoid
+14343,Olm the Wise,52 Rare,Beast
+9464,Overlord Ror,51,Humanoid
+9877,Prince Xavalis,55,Demon
+14342,Ragepaw,51 Rare,Humanoid
+9518,Rakaiah,56,Demon
+11020,Remains of Trey Lightforge,50,Humanoid
+9860,Salia,54,Demon
+9517,Shadow Lord Fel'dan,57,Humanoid
+11181,Shi'alune,56,Beast
+11141,Spirit of Trey Lightforge,53 Elite,Undead
+14525,Stoma the Ancient,63 Elite,Uncategorized
+10017,Tainted Cockroach,1,Critter
+7092,Tainted Ooze,51 - 52,Uncategorized
+10016,Tainted Rat,1,Critter
+10921,Taronn Redfeather,50,Humanoid
+10923,Tenell Leafrunner,62,Humanoid
+14345,The Ongar,51 Rare,Uncategorized
+11552,Timbermaw Mystic,52 - 54,Humanoid
+8127,Antu'sul,48 Elite,Humanoid
+7267,Chief Ukorz Sandscalp,48 Elite,Humanoid
+10081,Dustwraith,45 Rare Elite,Humanoid
+7273,Gahz'rilla,46 Elite,Uncategorized
+7795,Hydromancer Velratha,46 Elite,Humanoid
+7796,Nekrum Gutchewer,45 - 46 Elite,Undead
+7797,Ruuzlu,46 Elite,Humanoid
+10080,Sandarr Dunereaver,45 Rare Elite,Humanoid
+7274,Sandfury Executioner,46 Elite,Humanoid
+7275,Shadowpriest Sezz'ziz,47 Elite,Humanoid
+7272,Theka the Martyr,45 - 46 Elite,Undead
+7271,Witch Doctor Zum'rah,46 Elite,Humanoid
+10082,Zerillis,45 Rare Elite,Humanoid
+7527,Goblin Land Mine,43,Mechanical
+8179,Greater Healing Ward,43 - 52,Uncategorized
+7608,Murta Grimgut,44 Elite,Humanoid
+7606,Oro Eyegouge,44 Elite,Humanoid
+7605,Raven,44 Elite,Humanoid
+8876,Sandfury Acolyte,42 - 44,Humanoid
+5649,Sandfury Blood Drinker,44 - 45 Elite,Humanoid
+7789,Sandfury Cretin,43 - 45 Elite,Humanoid
+7788,Sandfury Drudge,44 - 45,Humanoid
+7268,Sandfury Guardian,45 - 46 Elite,Beast
+5648,Sandfury Shadowcaster,43 - 44 Elite,Humanoid
+7246,Sandfury Shadowhunter,45 - 46 Elite,Humanoid
+7787,Sandfury Slave,43 - 44,Humanoid
+7247,Sandfury Soul Eater,45 - 46 Elite,Humanoid
+5650,Sandfury Witch Doctor,44 - 45 Elite,Humanoid
+8877,Sandfury Zealot,44 - 45,Humanoid
+7269,Scarab,44 - 46,Beast
+7604,Sergeant Bly,45 Elite,Humanoid
+8156,Servant of Antu'sul,48 Elite,Uncategorized
+7786,Skeleton of Zum'rah,35,Undead
+8120,Sul'lithuz Abomination,47 Elite,Uncategorized
+8138,Sul'lithuz Broodling,39,Uncategorized
+8130,Sul'lithuz Hatchling,30 - 35 Elite,Uncategorized
+8095,Sul'lithuz Sandcrawler,45 - 47 Elite,Beast
+7785,Ward of Zum'rah,46,Uncategorized
+7607,Weegli Blastfuse,43 Elite,Humanoid
+7276,Zul'Farrak Dead Hero,45 - 46,Undead
+7286,Zul'Farrak Zombie,43 - 44 Elite,Undead
+7358,Amnennar the Coldbringer,41 Elite,Undead
+7334,Battle Boar Horror,37,Undead
+8516,Belnistrasz,36,Humanoid
+7347,Boneflayer Ghoul,38 - 39 Elite,Undead
+7335,Death's Head Geomancer,35 - 36 Elite,Humanoid
+7337,Death's Head Necromancer,36 - 37 Elite,Humanoid
+7353,Freezing Spirit,39 - 40 Elite,Undead
+8585,Frost Spectre,41,Undead
+7352,Frozen Soul,37 - 38 Elite,Undead
+8567,Glutton,40 Elite,Undead
+8696,Henry Stern,36,Humanoid
+7357,Mordresh Fire Eye,39 Elite,Undead
+7356,Plaguemaw the Rotting,40 Elite,Humanoid
+7354,Ragglesnout,40 Elite,Humanoid
+8767,Sah'rhee,30,Humanoid
+7341,Skeletal Frostweaver,37 - 38 Elite,Undead
+7340,Skeletal Shadowcaster,36,Undead
+7342,Skeletal Summoner,39 - 40 Elite,Undead
+7345,Splinterbone Captain,39 - 40 Elite,Undead
+7346,Splinterbone Centurion,38 - 39,Undead
+7343,Splinterbone Skeleton,35,Undead
+7344,Splinterbone Warrior,37 - 38,Undead
+7348,Thorn Eater Ghoul,37 - 38 Elite,Undead
+7349,Tomb Fiend,35,Undead
+7351,Tomb Reaver,37 Elite,Undead
+7355,Tuten'kash,40 Elite,Undead
+7333,Withered Battle Boar,34,Undead
+7329,Withered Quilguard,35 - 36 Elite,Undead
+7328,Withered Reaver,35 - 36 Elite,Undead
+7332,Withered Spearhide,34 - 35 Elite,Undead
+7327,Withered Warrior,34 - 35 Elite,Undead
+14224,7:XT,41 Rare,Mechanical
+2745,Ambassador Infernus,42 Elite,Elemental
+2754,Anathemus,45 Rare Elite,Giant
+2753,Barnabus,38,Beast
+2757,Blacklash,50 Elite,Dragonkin
+2944,Boss Tho'grun,41 - 42,Humanoid
+2850,Broken Tooth,37 Rare,Beast
+2830,Buzzard,37 - 39,Beast
+2727,Crag Coyote,35 - 36,Beast
+2715,Dustbelcher Brute,39 - 40,Humanoid
+2719,Dustbelcher Lord,44 - 45,Humanoid
+2717,Dustbelcher Mauler,41 - 42,Humanoid
+2907,Dustbelcher Mystic,36 - 37,Humanoid
+2701,Dustbelcher Ogre,38 - 39,Humanoid
+2720,Dustbelcher Ogre Mage,43 - 44,Humanoid
+2718,Dustbelcher Shaman,42 - 43,Humanoid
+2906,Dustbelcher Warrior,35 - 37,Humanoid
+2716,Dustbelcher Wyrmhunter,40 - 41,Humanoid
+2729,Elder Crag Coyote,39 - 40,Beast
+2791,Enraged Rock Elemental,42 - 43,Elemental
+2919,Fam'retor Guardian,45,Elemental
+2728,Feral Crag Coyote,37 - 38,Beast
+9081,Galamav the Marksman,58,Humanoid
+2888,Garek,50,Humanoid
+2831,Giant Buzzard,39 - 41,Beast
+1068,Gorn,40,Humanoid
+2861,Gorrik,55 Elite,Humanoid
+2908,Grawl,44,Humanoid
+2736,Greater Rock Elemental,42 - 44,Elemental
+10058,Greth,30,Humanoid
+9086,Grunt Gargal,52,Humanoid
+2759,Hematus,50 Elite,Dragonkin
+9079,Hierophant Theodora Mulvadania,58,Humanoid
+9085,Initiate Amakkar,52,Humanoid
+9356,Innkeeper Shul'kar,30,Humanoid
+6868,Jarkal Mossmeld,35,Humanoid
+9179,Jazzrik,38,Humanoid
+8155,Kargath Grunt,55,Humanoid
+2735,Lesser Rock Elemental,37 - 39,Elemental
+9080,Lexlort,58,Humanoid
+2921,Lotwil Veriatus,36,Humanoid
+2920,Lucien Tosselwrench,31,Humanoid
+4618,Martek the Exiled,42,Humanoid
+2945,Murdaloc,42,Humanoid
+5394,Neeka Bloodscar,45,Humanoid
+2910,Prospector Ryedol,35,Humanoid
+2730,Rabid Crag Coyote,42 - 43,Beast
+9083,Razal'blade,52,Humanoid
+2732,Ridge Huntress,38 - 39,Beast
+2731,Ridge Stalker,36 - 37,Beast
+2734,Ridge Stalker Patriarch,40 - 41,Beast
+2817,Rigglefuzz,37,Humanoid
+92,Rock Elemental,39 - 40,Elemental
+2752,Rumbler,45 Rare,Elemental
+2725,Scalding Whelp,41 - 43,Dragonkin
+2726,Scorched Guardian,43 - 45 Elite,Dragonkin
+2922,Servo,5,Mechanical
+2742,Shadowforge Chanter,38 - 39,Humanoid
+2744,Shadowforge Commander,40 Rare,Humanoid
+2740,Shadowforge Darkweaver,36 - 37,Humanoid
+4846,Shadowforge Digger,35 - 36 Elite,Humanoid
+4845,Shadowforge Ruffian,36 - 37 Elite,Humanoid
+4844,Shadowforge Surveyor,35 - 36 Elite,Humanoid
+2739,Shadowforge Tunneler,35 - 36,Humanoid
+2743,Shadowforge Warrior,38 - 39,Humanoid
+9078,Shadowmage Vivian Lagrave,58,Humanoid
+2749,Siege Golem,40 Rare Elite,Elemental
+2860,Sigrun Ironhew,40,Humanoid
+1407,Sranda,40,Humanoid
+2829,Starving Buzzard,35 - 37,Beast
+2723,Stone Golem,38 - 39,Elemental
+6733,Stonevault Basher,39 - 40 Elite,Humanoid
+2893,Stonevault Bonesnapper,39 - 40,Humanoid
+2892,Stonevault Seer,39 - 40 Elite,Humanoid
+2894,Stonevault Shaman,40 - 41,Humanoid
+9082,Thal'trak Proudtusk,55,Humanoid
+2785,Theldurin the Lost,30,Humanoid
+7867,Thorkaf Dragoneye,50,Humanoid
+9084,Thunderheart,52,Humanoid
+2751,War Golem,36 Rare,Elemental
+9077,Warlord Goretooth,60,Humanoid
+6013,Wayward Buzzard,35 - 37,Beast
+2931,Zaricotl,55 Rare Elite,Beast
+2545,"""Pretty Boy"" Duncan",39,Humanoid
+2501,"""Sea Wolf"" MacKinley",44,Humanoid
+2502,"""Shaky"" Phillipe",44,Humanoid
+717,Ajeck Rouack,40,Humanoid
+1059,Ana'thek the Cruel,45,Humanoid
+2856,Angrun,40,Humanoid
+15677,Auctioneer Graves,50,Humanoid
+9858,Auctioneer Kresky,50,Humanoid
+15681,Auctioneer O'reely,50,Humanoid
+716,Barnil Stonepot,40,Humanoid
+2496,Baron Revilgaz,60,Humanoid
+728,Bhag'thera,40 Elite,Beast
+2846,Blixrez Goodstitch,43,Humanoid
+4505,Bloodsail Deckhand,43 - 44,Humanoid
+1653,Bloodsail Elder Magus,44 - 45,Humanoid
+1562,Bloodsail Mage,40 - 41,Humanoid
+1561,Bloodsail Raider,40 - 41,Humanoid
+1565,Bloodsail Sea Dog,44 - 45,Humanoid
+4506,Bloodsail Swabby,43 - 44,Humanoid
+1563,Bloodsail Swashbuckler,42 - 43,Humanoid
+16399,Bloodsail Traitor,43 - 44,Humanoid
+1564,Bloodsail Warlock,42 - 43,Humanoid
+694,Bloodscalp Axe Thrower,33 - 34,Humanoid
+699,Bloodscalp Beastmaster,34 - 35,Humanoid
+597,Bloodscalp Berserker,36 - 37,Humanoid
+671,Bloodscalp Headhunter,36 - 37,Humanoid
+595,Bloodscalp Hunter,34 - 35,Humanoid
+701,Bloodscalp Mystic,34 - 35,Humanoid
+702,Bloodscalp Scavenger,33 - 34,Humanoid
+588,Bloodscalp Scout,34 - 35,Humanoid
+697,Bloodscalp Shaman,33 - 34,Humanoid
+698,Bloodscalp Tiger,34 - 35,Beast
+587,Bloodscalp Warrior,33 - 34,Humanoid
+660,Bloodscalp Witch Doctor,37,Humanoid
+815,Bookie Herod,35,Humanoid
+4624,Booty Bay Bruiser,57,Humanoid
+1385,Brawn,35,Humanoid
+2836,Brikk Keencraft,54,Humanoid
+739,Brother Nimetz,40,Humanoid
+2551,Brutus,43,Elemental
+2500,Captain Hecklebury Smotts,37,Humanoid
+2548,Captain Keelhaul,47,Humanoid
+2550,Captain Stillwater,46,Humanoid
+14912,Captured Hakkari Zealot,60 Elite,Humanoid
+3945,Caravaneer Ruzzgot,30 - 39,Humanoid
+2542,Catelyn the Blade,50,Humanoid
+2537,"Chucky ""Ten Thumbs""",43 - 44,Undead
+7390,Cockatiel,1,Beast
+690,Cold Eye Basilisk,39 - 40,Beast
+813,Colonel Kurzen,40 Elite,Humanoid
+2464,Commander Aggro'gosh,60 Elite,Humanoid
+2676,Compact Harvest Reaper,19 - 41,Mechanical
+734,Corporal Bluth,40,Humanoid
+770,Corporal Kaleb,40,Humanoid
+1422,Corporal Sethman,40,Humanoid
+2672,Cowardly Crosby,40,Humanoid
+2498,Crank Fizzlebub,34,Humanoid
+2838,Crazk Sparks,46,Humanoid
+689,Crystal Spine Basilisk,34 - 35,Beast
+2488,Deeg,34,Humanoid
+2493,Dizzy One-Eye,41,Humanoid
+2495,Drizzlik,45,Humanoid
+16094,Durik,30,Humanoid
+1557,Elder Mistvale Gorilla,40 - 41,Beast
+2635,Elder Saltwater Crocolisk,38 Elite,Beast
+1713,Elder Shadowmaw Panther,42 - 43,Beast
+1085,Elder Stranglethorn Tiger,34 - 35,Beast
+1511,Enraged Silverback Gorilla,41 - 42,Beast
+14910,Exzhal,60 Elite,Humanoid
+2465,Far Seer Mok'thardin,45,Humanoid
+2845,Fargon Mortalak,42,Humanoid
+2486,Fin Fizracket,42,Humanoid
+2490,First Mate Crazz,44,Humanoid
+2546,Fleet Master Firallon,48,Humanoid
+2487,Fleet Master Seahorn,60,Humanoid
+908,Flora Silverwind,44,Humanoid
+4723,Foreman Cozzle,38,Humanoid
+7802,Galvan the Ancient,60,Humanoid
+1061,Gan'zulah,41,Humanoid
+2549,Garr Salthoof,43,Humanoid
+2624,Gazban,40,Humanoid
+14487,Gluggle,37 Rare,Humanoid
+2848,Glyx Brewright,45,Critter
+2687,Gnaz Blunderflame,42,Humanoid
+1492,Gorlash,47 Elite,Giant
+2627,Grarnik Goodstitch,34,Humanoid
+10060,Grimestack,46,Humanoid
+2858,Gringer,55 Elite,Humanoid
+9559,Grizzlowe,45,Humanoid
+1064,Grom'gol Grunt,55,Humanoid
+11355,Gurubashi Warrior,?? Elite,Humanoid
+2859,Gyll,55 Elite,Humanoid
+11346,Hakkari Oracle,55 - 56 Elite,Humanoid
+2839,Haren Kanmae,41,Humanoid
+715,Hemet Nesingwary,40,Humanoid
+11383,High Priestess Hai'watna,Elite,Humanoid
+1147,Hragran,40,Humanoid
+4880,"""Stinky"" Ignatz",35,Humanoid
+4792,"""Swamp Eye"" Jarl",42,Humanoid
+4393,Acidic Swamp Ooze,39 - 41,Uncategorized
+4948,Adjutant Tesoran,35,Humanoid
+4900,Alchemist Narett,37,Humanoid
+6732,Amie Pierce,30,Humanoid
+4967,Archmage Tervosh,38,Humanoid
+12936,Badly Injured Alliance Soldier,44 - 48,Humanoid
+13476,Balai Lok'Wein,43,Humanoid
+4321,Baldruc,55 Elite,Humanoid
+5089,Balos Jacken,38,Humanoid
+4893,Bartender Lillian,45,Humanoid
+4357,Bloodfen Lashtail,40 - 41,Beast
+4351,Bloodfen Raptor,35 - 36,Beast
+4356,Bloodfen Razormaw,39 - 40,Beast
+4352,Bloodfen Screecher,36 - 37,Beast
+4355,Bloodfen Scytheclaw,37 - 38,Beast
+10036,Brackenwall Enforcer,55,Humanoid
+4898,Brant Jasperbloom,37,Humanoid
+4339,Brimgore,45 Rare Elite,Dragonkin
+8140,Brother Karman,45,Humanoid
+12376,Brown Horse,1 - 2,Beast
+14230,Burgle Eye,38 Rare,Humanoid
+5095,Captain Andrews,53,Humanoid
+8141,Captain Evencane,45,Humanoid
+4944,Captain Garran Vimes,50,Humanoid
+5096,Captain Thomas,53,Humanoid
+4941,Caz Twosprocket,35,Humanoid
+4896,Charity Mipsy,35,Humanoid
+12375,Chestnut Mare,1 - 2,Beast
+5083,Clerk Lendry,20,Humanoid
+4924,Combat Master Criton,55,Humanoid
+5090,Combat Master Szigeti,55,Humanoid
+4964,Commander Samaul,40,Humanoid
+5434,Coral Shark,46 - 47 Elite,Beast
+4392,Corrosive Swamp Ooze,38 - 40,Uncategorized
+4894,Craig Nollward,32,Humanoid
+12937,Critically Injured Alliance Soldier,46 - 50,Humanoid
+2937,Dagun the Ravenous,43 Elite,Humanoid
+13277,Dahne Pierce,5,Humanoid
+4412,Darkfang Creeper,38 - 39,Beast
+4411,Darkfang Lurker,36 - 37,Beast
+4413,Darkfang Spider,35 - 36,Beast
+4414,Darkfang Venomspitter,37 - 38,Beast
+4377,Darkmist Lurker,37 - 38,Beast
+4378,Darkmist Recluse,36 - 37,Beast
+4379,Darkmist Silkspinner,38 - 39,Beast
+4376,Darkmist Spider,35 - 36,Beast
+4380,Darkmist Widow,40 Rare,Beast
+14232,Dart,38 Rare,Beast
+4841,Deadmire,45,Beast
+12716,Decedra Willham,45,Humanoid
+6549,Demon of the Orb,40 Elite,Demon
+5087,Do'gol,30,Humanoid
+12939,Doctor Gustaf VanHowzen,48,Humanoid
+15552,Doctor Weavil,Elite,Humanoid
+15553,Doctor Weavil's Flying Machine,,Uncategorized
+4501,Draz'Zilb,40,Humanoid
+14231,Drogoth the Roamer,37 Rare,Elemental
+4341,Drywallow Crocolisk,35 - 36,Beast
+4345,Drywallow Daggermaw,40 - 41,Beast
+4343,Drywallow Snapper,37 - 38,Beast
+4342,Drywallow Vicejaw,36 - 37,Beast
+4891,Dwane Wertle,28,Humanoid
+4390,Elder Murk Thresher,43 - 45,Beast
+10321,Emberstrife,61 Elite,Dragonkin
+5088,Falgran Hastil,38,Humanoid
+4456,Fiora Longears,26,Humanoid
+4331,Firemane Ash Tail,42 - 43,Dragonkin
+4334,Firemane Flamecaller,43 - 44,Dragonkin
+4328,Firemane Scalebane,43 - 44,Dragonkin
+4329,Firemane Scout,41 - 42,Dragonkin
+6567,Ghok'kah,43,Humanoid
+4415,Giant Darkfang Spider,40 - 41,Beast
+4885,Gregor MacVince,35,Humanoid
+4921,Guard Byron,40,Humanoid
+4922,Guard Edward,50,Humanoid
+4923,Guard Jarad,50,Humanoid
+5091,Guard Kahil,50,Humanoid
+5092,Guard Lana,50,Humanoid
+4973,Guard Lasiter,50,Humanoid
+5093,Guard Narrisha,50,Humanoid
+5094,Guard Tark,50,Humanoid
+4886,Hans Weston,37,Humanoid
+14234,Hayoc,41 Rare,Beast
+4897,Helenia Olden,34,Humanoid
+5388,Ingo Woolybush,39,Humanoid
+12938,Injured Alliance Soldier,43 - 46,Humanoid
+6272,Innkeeper Janene,30,Humanoid
+4892,Jensen Farran,37,Humanoid
+4972,Kagoro,40,Humanoid
+4883,Krak,43,Humanoid
+4926,Krog,40,Humanoid
+4968,Lady Jaina Proudmoore,?? Boss,Humanoid
+5046,Lieutenant Caldwell,37,Humanoid
+14236,Lord Angler,44 Rare,Humanoid
+6550,Mana Surge,40,Elemental
+4888,Marie Holdston,37,Humanoid
+14518,Aspect of Banality,60 Elite,Undead
+14519,Aspect of Corruption,60 Elite,Undead
+14520,Aspect of Malice,60 Elite,Undead
+14521,Aspect of Shadow,60 Elite,Undead
+14514,Banal Spirit,60,Undead
+14861,Blood Steward of Kirtonos,61 Elite,Demon
+14512,Corrupted Spirit,59 - 60 Elite,Undead
+1853,Darkmaster Gandling,61 Elite,Humanoid
+14568,Darkreaver's Fallen Charger,60,Beast
+14516,Death Knight Darkreaver,62 Elite,Undead
+10495,Diseased Ghoul,58 - 59 Elite,Undead
+11261,Doctor Theolen Krastinov,60 Elite,Humanoid
+11258,Frail Skeleton,1,Undead
+11439,Illusion of Jandice Barov,61 Elite,Undead
+10505,Instructor Malicia,60 Elite,Humanoid
+10503,Jandice Barov,61 Elite,Undead
+10506,Kirtonos the Herald,60 Elite,Undead
+10502,Lady Illucia Barov,60 Elite,Undead
+10504,Lord Alexei Barov,60 Elite,Undead
+10901,Lorekeeper Polkelt,60 Elite,Undead
+14513,Malicious Spirit,59 - 60 Elite,Undead
+10433,Marduk Blackpool,58 Elite,Undead
+11551,Necrofiend,58 - 60 Elite,Undead
+10678,Plagued Hatchling,57 - 59,Dragonkin
+10508,Ras Frostwhisper,62 Elite,Undead
+11622,Rattlegore,61 Elite,Undead
+10481,Reanimated Corpse,58 - 59,Undead
+10485,Risen Aberration,57 - 58,Undead
+10491,Risen Bonewarder,58 - 59 Elite,Undead
+10488,Risen Construct,58 - 61 Elite,Undead
+10489,Risen Guard,57 - 59 Elite,Undead
+11598,Risen Guardian,59 - 61,Undead
+10482,Risen Lackey,1 - 56,Undead
+10487,Risen Protector,58 - 60 Elite,Undead
+10486,Risen Warrior,59 - 61 Elite,Undead
+10471,Scholomance Acolyte,57 - 58 Elite,Humanoid
+10469,Scholomance Adept,58 - 59 Elite,Humanoid
+11582,Scholomance Dark Summoner,58 - 59 Elite,Humanoid
+11257,Scholomance Handler,59 - 60 Elite,Humanoid
+10476,Scholomance Necrolyte,57 - 58 Elite,Humanoid
+10477,Scholomance Necromancer,58 - 59 Elite,Humanoid
+10470,Scholomance Neophyte,57 - 58 Elite,Humanoid
+10472,Scholomance Occultist,58 - 59 Elite,Humanoid
+10475,Scholomance Student,58 - 59 Elite,Humanoid
+14511,Shadowed Spirit,60 Elite,Undead
+11263,Spectral Projection,58 - 60,Undead
+10499,Spectral Researcher,58 - 60 Elite,Undead
+10500,Spectral Teacher,58 - 61 Elite,Undead
+10498,Spectral Tutor,58 - 60 Elite,Undead
+10478,Splintered Skeleton,59 - 60 Elite,Undead
+10507,The Ravenian,60 Elite,Undead
+10480,Unstable Corpse,58 - 59,Undead
+10432,Vectus,60 Elite,Undead
+5912,Deviate Faerie Dragon,20 Rare Elite,Dragonkin
+3653,Kresh,20 Elite,Beast
+3671,Lady Anacondra,20 Elite,Humanoid
+3669,Lord Cobrahn,20 Elite,Humanoid
+3670,Lord Pythas,21 Elite,Humanoid
+3673,Lord Serpentis,21 Elite,Humanoid
+3654,Mutanus the Devourer,22 Elite,Humanoid
+3674,Skum,21 Elite,Beast
+5775,Verdan the Everliving,21 Elite,Elemental
+3835,Biletoad,1,Critter
+5048,Deviate Adder,18 - 19 Elite,Beast
+5053,Deviate Crocolisk,18 - 19,Beast
+5056,Deviate Dreadfang,20 - 21 Elite,Beast
+3637,Deviate Guardian,18 - 19 Elite,Beast
+5055,Deviate Lasher,19 - 20,Uncategorized
+5762,Deviate Moccasin,20 - 21 Elite,Beast
+5914,Deviate Nightmare,,Uncategorized
+8886,Deviate Python,18 - 19,Beast
+3636,Deviate Ravager,18 - 19 Elite,Beast
+5761,Deviate Shambler,19 - 20 Elite,Elemental
+5756,Deviate Venomwing,20 - 21 Elite,Beast
+5755,Deviate Viper,19 - 20 Elite,Beast
+3678,Disciple of Naralex,20 Elite,Humanoid
+3840,Druid of the Fang,19 - 20 Elite,Humanoid
+3640,Evolving Ectoplasm,17 - 18 Elite,Uncategorized
+3679,Naralex,25,Humanoid
+5763,Nightmare Ectoplasm,20 - 21,Uncategorized
+3680,Serpentbloom Snake,1,Beast
+7900,Angelas Moonbreeze,50,Humanoid
+10059,Antarius,30,Humanoid
+5347,Antilus the Soarer,48 Rare,Beast
+5349,Arash-ethis,49 Rare,Beast
+12801,Arcane Chimaerok,Elite,Beast
+14355,Azj'Tordin,60,Humanoid
+11717,Bethan Bluewater,43,Humanoid
+11752,Blaise Montgomery,47,Humanoid
+5346,Bloodroar the Stalker,48 Rare,Humanoid
+7946,Brannock,52,Humanoid
+6576,Brienna Starglow,40,Humanoid
+8158,Bronk,49,Humanoid
+8147,Camp Mojache Brave,55,Humanoid
+7997,Captured Sprite Darter,42 - 43,Dragonkin
+7870,Caryssia Moonhunter,50,Humanoid
+9548,Cawind Trueaim,52,Humanoid
+12800,Chimaerok,?? Elite,Beast
+12802,Chimaerok Devourer,?? Elite,Beast
+5358,Cliff Giant,49 - 50 Elite,Giant
+5328,Coast Crawl Deepseer,43 - 44,Humanoid
+5327,Coast Crawl Snapclaw,44 - 45,Humanoid
+5881,Cursed Sycamore,45,Elemental
+5360,Deep Strider,47 - 49 Elite,Giant
+5345,Diamond Head,Rare,Humanoid
+12497,Dreamroarer,62 Elite,Dragonkin
+10293,Dulciea Frostmoon,51,Humanoid
+8075,Edana Hatetalon,50 Elite,Humanoid
+5297,Elder Rage Scar,48 - 49,Humanoid
+5295,Enraged Feral Scar,44 - 45,Humanoid
+11824,Erik Felixe,45,Humanoid
+4048,Falfindel Waywarder,28,Humanoid
+7942,Faralorn,53,Humanoid
+7939,Feathermoon Sentinel,55,Humanoid
+5292,Feral Scar Yeti,43 - 44,Humanoid
+5299,Ferocious Rage Scar,47 - 48,Humanoid
+5300,Frayfeather Hippogryph,43 - 44,Beast
+5306,Frayfeather Patriarch,46 - 47,Beast
+5305,Frayfeather Skystormer,45 - 46,Beast
+5304,Frayfeather Stagwing,44 - 45,Beast
+8019,Fyldren Moonfeather,55 Elite,Humanoid
+7880,Ginro Hearthkindle,55,Humanoid
+5354,Gnarl Leafbrother,Rare,Elemental
+11440,Gordok Enforcer,53 - 54 Elite,Humanoid
+12418,Gordok Hyena,52 - 54,Beast
+11443,Gordok Ogre-Mage,52 - 53 Elite,Humanoid
+5238,Gordunni Battlemaster,45 - 46,Humanoid
+5232,Gordunni Brute,42 - 43,Humanoid
+5239,Gordunni Mage-Lord,45 - 46,Humanoid
+5234,Gordunni Mauler,43 - 44,Humanoid
+5229,Gordunni Ogre,40 - 41,Humanoid
+5237,Gordunni Ogre Mage,41 - 42,Humanoid
+5236,Gordunni Shaman,44 - 45,Humanoid
+5240,Gordunni Warlock,43 - 44,Humanoid
+5241,Gordunni Warlord,46 - 47,Humanoid
+7775,Gregan Brewspewer,45,Humanoid
+7726,Grimtotem Naturalist,41 - 42,Humanoid
+7725,Grimtotem Raider,42 - 43,Humanoid
+7727,Grimtotem Shaman,43 - 44,Humanoid
+5272,Grizzled Ironfur Bear,44 - 45,Beast
+5260,Groddoc Ape,42 - 43,Beast
+5262,Groddoc Thunderer,49 - 50,Beast
+7875,Hadoken Swiftstrider,57 Elite,Humanoid
+11098,Hahrana Ironhide,55,Humanoid
+7943,Harklane,49,Humanoid
+5334,Hatecrest Myrmidon,43 - 44,Humanoid
+5335,Hatecrest Screamer,41 - 42,Humanoid
+5333,Hatecrest Serpent Guard,44 - 45,Humanoid
+5337,Hatecrest Siren,42 - 43,Humanoid
+5336,Hatecrest Sorceress,43 - 44,Humanoid
+5331,Hatecrest Warrior,42 - 43,Humanoid
+5332,Hatecrest Wave Rider,41 - 42,Humanoid
+7807,Homing Robot OOX-22/FE,42,Mechanical
+5293,Hulking Feral Scar,45 - 46,Humanoid
+7737,Innkeeper Greul,30,Humanoid
+7736,Innkeeper Shyria,30,Humanoid
+5268,Ironfur Bear,41 - 42,Beast
+5274,Ironfur Patriarch,48 - 49,Beast
+7904,Jacob,10,Beast
+5320,Jademir Boughguard,62 Elite,Dragonkin
+5317,Jademir Oracle,61 Elite,Dragonkin
+3700,Jadenvis Seawatcher,51,Humanoid
+7854,Jangdor Swiftstrider,49,Humanoid
+8142,Jannos Lighthoof,50,Humanoid
+7957,Jer'kai Moonweaver,36,Humanoid
+7903,Jewel,10,Beast
+7772,Kalin Windflight,60,Humanoid
+7956,Kindal Moonweaver,42,Humanoid
+11826,Kristy Grant,45,Humanoid
+4544,Krueg Skullsplitter,37,Humanoid
+8144,Kulleg Stonehorn,51,Humanoid
+7948,Kylanna Windwhisper,52,Humanoid
+5343,Lady Szallah,46 Rare,Humanoid
+5357,Land Walker,48 - 49 Elite,Giant
+7877,Latronicus Moonspear,57,Humanoid
+8157,Logannas,52,Humanoid
+5287,Longtooth Howler,43 - 44,Beast
+5286,Longtooth Runner,40 - 41,Beast
+8143,Loorana,49,Humanoid
+8889,Anvilrage Overseer,48 - 49 Elite,Humanoid
+7047,Black Broodling,51 - 52,Dragonkin
+7040,Black Dragonspawn,52 - 53 Elite,Dragonkin
+7044,Black Drake,50 - 52 Elite,Dragonkin
+7041,Black Wyrmkin,53 - 54 Elite,Dragonkin
+9522,Blackrock Ambusher,54 - 55 Elite,Humanoid
+7029,Blackrock Battlemaster,57 - 58,Humanoid
+9605,Blackrock Raider,59,Humanoid
+7027,Blackrock Slayer,56 - 57,Humanoid
+7025,Blackrock Soldier,55 - 56,Humanoid
+7026,Blackrock Sorcerer,55 - 56,Humanoid
+7028,Blackrock Warlock,56 - 57,Humanoid
+7055,Blackrock Worg,54 - 55,Beast
+2299,Borgus Stoutarm,55 Elite,Humanoid
+9459,Cyrus Therepentous,55 Elite,Dragonkin
+9695,Deathlash Scorpid,54 - 55,Beast
+10077,Deathmaw,53 Rare,Beast
+9690,Ember Worg,51 - 52,Beast
+1296,Felder Stover,54,Humanoid
+9699,Fire Beetle,1,Critter
+7035,Firegut Brute,52 - 53,Humanoid
+7033,Firegut Ogre,50 - 51,Humanoid
+7034,Firegut Ogre Mage,51 - 52,Humanoid
+9698,Firetail Scorpid,56 - 57,Beast
+9779,Flamekin Rager,54 - 56,Demon
+9776,Flamekin Spitter,51 - 53,Demon
+9777,Flamekin Sprite,51 - 53,Demon
+9778,Flamekin Torcher,54 - 56,Demon
+7049,Flamescale Broodling,55 - 56,Dragonkin
+7042,Flamescale Dragonspawn,56 - 57 Elite,Dragonkin
+7043,Flamescale Wyrmkin,57 - 58 Elite,Dragonkin
+14529,Franklin the Friendly,60 Elite,Demon
+9461,Frenzied Black Drake,54 Elite,Dragonkin
+3298,Gabrielle Chase,53,Humanoid
+9697,Giant Ember Worg,55 - 56,Beast
+9176,Gor'tesh,54,Humanoid
+9604,Gorgon'och,54 Rare,Humanoid
+14437,Gorzeeki Wildeyes,55,Humanoid
+9520,Grark Lorkrub,56 Elite,Humanoid
+7032,Greater Obsidian Elemental,55 - 57,Elemental
+8979,Gruklash,59 Rare,Humanoid
+3708,Gruna,52,Humanoid
+9602,Hahk'Zor,54 Rare,Humanoid
+9562,Helendis Riverhorn,55,Humanoid
+8976,Hematos,60 Rare Elite,Dragonkin
+9561,Jalinda Sprig,57,Humanoid
+10260,Kibler,56,Humanoid
+8977,Krom'Grul,54,Humanoid
+9700,Lava Crab,1,Critter
+16043,Magma Lord Bokk,60,Elemental
+8981,Malfunctioning Reaver,56 Rare,Elemental
+9560,Marshal Maxwell,55,Humanoid
+9836,Mathredis Firestar,60,Humanoid
+9536,Maxwort Uberglint,42,Humanoid
+9565,Mayara Brightwing,57,Humanoid
+14436,Mor'zul Bloodbringer,61,Humanoid
+7031,Obsidian Elemental,51 - 53,Elemental
+10262,Opus,40,Beast
+9177,Oralius,55,Humanoid
+9563,Ragged John,57,Humanoid
+7048,Scalding Broodling,53 - 54,Dragonkin
+7045,Scalding Drake,53 - 55 Elite,Dragonkin
+7046,Searscale Drake,56 - 58 Elite,Dragonkin
+9136,Sha'ni Proudtusk,56,Humanoid
+9694,Slavering Ember Worg,53 - 54,Beast
+10078,Terrorspark,55 Rare,Demon
+8978,Thauris Balgarr,57 Rare,Humanoid
+7038,Thaurissan Agent,54 - 55,Humanoid
+7037,Thaurissan Firewalker,53 - 55,Humanoid
+7036,Thaurissan Spy,53 - 54,Humanoid
+10267,Tinkee Steamboil,53,Humanoid
+13177,Vahgruk,55 Elite,Humanoid
+9691,Venomtip Scorpid,52 - 53,Beast
+10119,Volchan,60 Rare Elite,Giant
+7039,War Reaver,53 - 55,Elemental
+9544,Yuka Screwspigot,53,Humanoid
+4511,Agam'ar,24 - 25 Elite,Beast
+4422,Agathelos the Raging,33 Elite,Beast
+4424,Aggem Thorncurse,30 Elite,Humanoid
+4425,Blind Hunter,32 Rare Elite,Beast
+4541,Blood of Agamaggan,27 Elite,Uncategorized
+6021,Boar Spirit,16 - 20 Elite,Beast
+4421,Charlga Razorflank,33 Elite,Humanoid
+4428,Death Speaker Jargba,30 Elite,Humanoid
+4515,Death's Head Acolyte,28 - 29 Elite,Humanoid
+4516,Death's Head Adept,27 - 28 Elite,Humanoid
+4517,Death's Head Priest,26 - 27 Elite,Humanoid
+4518,Death's Head Sage,29 - 30 Elite,Humanoid
+4519,Death's Head Seer,28 - 29 Elite,Humanoid
+4625,Death's Head Ward Keeper,15,Humanoid
+4842,Earthcaller Halmgar,32 Rare Elite,Humanoid
+4539,Greater Kraul Bat,32 Elite,Beast
+2992,Healing Ward V,28 - 38,Uncategorized
+4510,Heralath Fallowbrook,25,Humanoid
+5828,Humar the Pridelord,23 Rare Elite,Beast
+4538,Kraul Bat,30 - 31 Elite,Beast
+4420,Overlord Ramtusk,32 Elite,Humanoid
+4623,Quilguard Champion,30 - 31 Elite,Humanoid
+4514,Raging Agam'ar,25 - 26 Elite,Beast
+4531,Razorfen Beast Trainer,28 - 29 Elite,Humanoid
+4532,Razorfen Beastmaster,30 - 31 Elite,Humanoid
+4442,Razorfen Defender,27 - 28 Elite,Humanoid
+4522,Razorfen Dustweaver,28 - 29 Elite,Humanoid
+4525,Razorfen Earthbreaker,30 - 31 Elite,Humanoid
+4520,Razorfen Geomancer,25 - 26 Elite,Humanoid
+4523,Razorfen Groundshaker,27 - 28 Elite,Humanoid
+4530,Razorfen Handler,25 - 26 Elite,Humanoid
+4436,Razorfen Quilguard,25 - 26 Elite,Humanoid
+4438,Razorfen Spearhide,29 - 30 Rare Elite,Humanoid
+6035,Razorfen Stalker,28 - 29 Elite,Humanoid
+4440,Razorfen Totemic,29 Elite,Humanoid
+4437,Razorfen Warden,25 - 26 Elite,Humanoid
+4435,Razorfen Warrior,24 - 25 Elite,Humanoid
+6168,Roogug,28 Elite,Humanoid
+4512,Rotting Agam'ar,28 Elite,Beast
+4528,Stone Rumbler,21 - 28 Elite,Elemental
+4535,Tamed Battleboar,22 - 26 Elite,Beast
+4534,Tamed Hyena,27 - 28 Elite,Beast
+4427,Ward Guardian,31 Elite,Humanoid
+4508,Willix the Importer,27 Elite,Humanoid
+4526,Wind Howler,25 - 26 Elite,Elemental
+5850,Blazing Elemental,45 - 47,Elemental
+8447,Clunk,48 Elite,Mechanical
+5839,Dark Iron Geologist,43 - 44,Humanoid
+8566,Dark Iron Lookout,47 - 48,Humanoid
+8338,Dark Iron Marksman,55,Humanoid
+8504,Dark Iron Sentry,48 Elite,Humanoid
+5844,Dark Iron Slaver,45 - 46,Humanoid
+5840,Dark Iron Steamsmith,46 - 47,Humanoid
+8337,Dark Iron Steelshifter,42 - 45,Humanoid
+5846,Dark Iron Taskmaster,47 - 48,Humanoid
+8637,Dark Iron Watchman,44 - 45,Humanoid
+8421,Dorius,50,Humanoid
+8284,Dorius Stonetender,45,Humanoid
+8417,Dying Archaeologist,46 - 47,Humanoid
+8402,Enslaved Archaeologist,46 - 47,Humanoid
+14628,Evonice Sootsmoker,51,Humanoid
+8279,Faulty War Golem,46 Rare,Elemental
+5856,Glassweb Spider,43 - 45,Beast
+11703,Graw Cornerstone,58,Humanoid
+5858,Greater Lava Spider,47 - 49,Beast
+3305,Grisha,55 Elite,Humanoid
+14627,Hansel Heavyhands,53,Humanoid
+5854,Heavy War Golem,47 - 49,Elemental
+8282,Highlord Mastrogonde,51 Rare Elite,Humanoid
+9318,Incendosaur,47 - 49,Beast
+5852,Inferno Elemental,47 - 49,Elemental
+8479,Kalaran Windblade,55 Elite,Dragonkin
+2941,Lanie Reed,55 Elite,Humanoid
+8391,Lathoric the Black,52 Elite,Humanoid
+9876,Locheed,48,Humanoid
+14634,Lookout Captain Lolo Longstriker,59,Humanoid
+5855,Magma Elemental,46 - 48,Elemental
+5833,Margol the Rager,48 Elite,Beast
+14624,Master Smith Burninate,52,Humanoid
+8837,Muck Splash,47 - 49,Elemental
+8439,Nilith Lokrav,48,Humanoid
+8400,Obsidion,52 Elite,Elemental
+14621,Overseer Maltorius,50 Elite,Humanoid
+14625,Overseer Oilfist,60,Humanoid
+8441,Raze,48,Elemental
+8277,Rekk'tilac,48 Rare,Beast
+7868,Sarah Tanner,50,Humanoid
+8281,Scald,49 Rare,Elemental
+5857,Searing Lava Spider,45 - 47,Beast
+8442,Shadowsilk Poacher,47 - 50,Humanoid
+8280,Shleipnarr,47 Rare,Demon
+8283,Slave Master Blackheart,50 Rare,Humanoid
+5843,Slave Worker,45 - 47,Humanoid
+8278,Smoldar,50 Rare,Elemental
+8509,Squire Maltrake,52,Humanoid
+14626,Taskmaster Scrange,54,Humanoid
+5853,Tempered War Golem,45 - 47,Elemental
+14622,Thorium Brotherhood Lookout,50 - 52,Humanoid
+8444,Trade Master Kovic,50,Humanoid
+5860,Twilight Dark Shaman,47 - 48 Elite,Humanoid
+5861,Twilight Fire Guard,48 - 49 Elite,Humanoid
+5862,Twilight Geomancer,49 - 50 Elite,Humanoid
+8419,Twilight Idolater,49 - 51 Elite,Humanoid
+8436,Zamael Lunthistle,50,Humanoid
+11056,Alchemist Arbington,58,Humanoid
+11609,Alexia Ironknife,51,Humanoid
+1852,Araj the Summoner,61 Elite,Undead
+11194,Argent Defender,55,Humanoid
+10840,Argent Officer Pureheart,60,Humanoid
+10857,Argent Quartermaster Lightspark,58,Humanoid
+11936,Artist Renfray,12,Undead
+11287,Baker Masterson,37,Undead
+12596,Bibilfaz Featherwhistle,55 Elite,Humanoid
+4475,Blighted Zombie,52 - 53,Undead
+11614,Bloodshot,54,Beast
+11280,Caer Darrow Cannoneer,51 - 54,Undead
+11277,Caer Darrow Citizen,12 - 60,Undead
+11279,Caer Darrow Guardsman,51 - 55,Undead
+11281,Caer Darrow Horseman,52 - 56,Undead
+1821,Carrion Lurker,52 - 53,Beast
+1809,Carrion Vulture,50 - 52,Beast
+11075,Cauldron Lord Bilemaw,53,Undead
+11077,Cauldron Lord Malvinious,55,Undead
+11076,Cauldron Lord Razarch,56,Undead
+11078,Cauldron Lord Soulwrath,58,Undead
+11611,Cavalier Durgen,57,Humanoid
+10667,Chromie,63,Dragonkin
+10838,Commander Ashlam Valorfist,61,Humanoid
+12128,Crimson Elite,60 Elite,Humanoid
+1813,Decaying Horror,56 - 57,Elemental
+10943,Decrepit Guardian,55 - 56,Undead
+1808,Devouring Ooze,55 - 56,Uncategorized
+1815,Diseased Black Bear,51 - 52,Beast
+1816,Diseased Grizzly,55 - 56,Beast
+1817,Diseased Wolf,53 - 54,Beast
+11216,Eva Sarkhoff,54,Undead
+10996,Fallen Hero,58 - 60 Elite,Undead
+10836,Farmer Dalson,56,Undead
+10580,Fetid Zombie,54 - 56,Undead
+1805,Flesh Golem,56 - 57 Elite,Undead
+12425,Flint Shadowmore,60 Elite,Humanoid
+1843,Foreman Jerris,62 Rare Elite,Humanoid
+1844,Foreman Marcrid,58 Rare,Humanoid
+1847,Foulmane,52 Rare,Undead
+1796,Freezing Ghoul,55 - 56,Undead
+1840,Grand Inquisitor Isillien,?? Elite,Humanoid
+4472,Haunting Vision,57 - 58,Undead
+1854,High Priest Thel'danis,62,Humanoid
+11053,High Priestess MacDonnell,60,Humanoid
+1846,High Protector Lorik,61 Elite,Humanoid
+1845,High Protector Tarsen,59,Humanoid
+1842,Highlord Taelan Fordring,?? Elite,Humanoid
+1802,Hungering Wraith,56 - 58,Undead
+11613,Huntsman Radley,56,Humanoid
+11027,Illusory Wraith,51,Undead
+10780,Infected Deer,5,Critter
+10779,Infected Squirrel,1,Critter
+10801,Jabbering Ghoul,54,Undead
+10778,Janice Felstone,5,Undead
+10976,Jeziba,58,Humanoid
+11316,Joseph Dirte,31,Undead
+10936,Joseph Redpath,60,Undead
+11610,Kirsta Deepshadow,53,Humanoid
+12387,Large Vile Slime,56 - 57,Uncategorized
+12942,Leonard Porter,55,Humanoid
+1848,Lord Maldazzar,56 Rare,Humanoid
+12126,Lord Tirion Fordring,?? Elite,Humanoid
+11217,Lucien Sarkhoff,55,Undead
+11286,Magistrate Marduke,57,Undead
+11278,Magnus Frostwake,50,Undead
+10927,Marlene Redpath,10,Undead
+11282,Melia,1,Undead
+10739,Mulgris Deepriver,55,Humanoid
+11872,Myranda the Hag,58,Humanoid
+11616,Nathaniel Dumah,55,Humanoid
+1824,Plague Lurker,54 - 55,Beast
+8596,Plaguehound Runt,53 - 54,Demon
+1850,Putridius,58 Rare Elite,Undead
+11285,Rory,35,Undead
+1812,Rotting Behemoth,55 - 56,Elemental
+4474,Rotting Cadaver,53 - 54,Undead
+1793,Rotting Ghoul,54 - 55,Undead
+10925,Rotting Worm,50,Uncategorized
+11283,Sammy,1,Undead
+4493,Scarlet Avenger,56 - 57,Humanoid
+1836,Scarlet Cavalier,57 - 58 Elite,Humanoid
+1841,Scarlet Executioner,60 Rare Elite,Humanoid
+1839,Scarlet High Clerist,63 Rare Elite,Humanoid
+10979,Scarlet Hound,52 - 53,Beast
+1831,Scarlet Hunter,52 - 53,Humanoid
+1838,Scarlet Interrogator,61 Rare Elite,Humanoid
+1835,Scarlet Invoker,53 - 54,Humanoid
+1837,Scarlet Judge,60 Rare,Humanoid
+1833,Scarlet Knight,54 - 55,Humanoid
+1884,Scarlet Lumberjack,54 - 56,Humanoid
+1826,Scarlet Mage,55 - 56,Humanoid
+1832,Scarlet Magus,56 - 57 Elite,Humanoid
+10605,Scarlet Medic,52 - 54,Humanoid
+1834,Scarlet Paladin,55 - 56 Elite,Humanoid
+15351,Alliance Brigadier General,60,Humanoid
+2816,Androd Fadran,37,Humanoid
+2733,Apothecary Jorell,36,Humanoid
+2788,Apprentice Kryten,30,Humanoid
+12924,Badly Injured Soldier,44 - 48,Humanoid
+2636,Blackwater Deckhand,38 - 39,Humanoid
+2566,Boulderfist Brute,35 - 36,Humanoid
+2564,Boulderfist Enforcer,33 - 34,Humanoid
+2571,Boulderfist Lord,39 - 40 Elite,Humanoid
+2567,Boulderfist Magus,36 - 37,Humanoid
+2569,Boulderfist Mauler,37 - 38 Elite,Humanoid
+2562,Boulderfist Ogre,32 - 33,Humanoid
+2570,Boulderfist Shaman,38 - 39 Elite,Humanoid
+7869,Brumn Winterhoof,50,Humanoid
+2760,Burning Exile,38 - 39,Elemental
+2700,Captain Nials,41,Humanoid
+2769,Captain Steelgut,39,Humanoid
+2782,Caretaker Alaric,41 Elite,Humanoid
+2780,Caretaker Nevlin,41 Elite,Humanoid
+2781,Caretaker Weston,41 Elite,Humanoid
+2835,Cedrik Prose,55 Elite,Humanoid
+2608,Commander Amaren,44,Humanoid
+2442,Cow,5,Critter
+2761,Cresting Exile,38 - 39,Elemental
+12925,Critically Injured Soldier,46 - 50,Humanoid
+2582,Dabyrie Laborer,30 - 31,Humanoid
+2581,Dabyrie Militia,31 - 32,Humanoid
+2775,Daggerspine Marauder,40 - 41,Humanoid
+2595,Daggerspine Raider,38 - 39,Humanoid
+2596,Daggerspine Sorceress,39 - 40,Humanoid
+2598,Darbel Montrose,39 Rare Elite,Humanoid
+4062,Dark Iron Bombardier,30 - 31,Humanoid
+1052,Dark Iron Saboteur,28 - 29 Elite,Humanoid
+2577,Dark Iron Shadowcaster,31 - 32,Humanoid
+2575,Dark Iron Supplier,31 - 32,Humanoid
+15021,Deathmaster Dwire,62,Humanoid
+15022,Deathstalker Mortis,62,Humanoid
+2778,Deckhand Moishe,37,Humanoid
+15128,Defiler Elite,55 Elite,Humanoid
+2805,Deneb Walker,45,Humanoid
+2774,Doctor Draxlegauge,38,Humanoid
+12920,Doctor Gregory Victor,48,Humanoid
+2812,Drovnar Strongbrew,38 - 40,Humanoid
+2771,Drum Fel,30,Humanoid
+2574,Drywhisker Digger,36 - 37,Humanoid
+2572,Drywhisker Kobold,35 - 36,Humanoid
+2573,Drywhisker Surveyor,37 - 38,Humanoid
+12998,Dwarven Farmer,15,Humanoid
+2580,Elder Mesa Buzzard,37 - 38,Beast
+4479,Fardel Dabyrie,33,Humanoid
+4063,Feeboz,39,Humanoid
+14983,Field Marshal Oslight,62,Humanoid
+2767,First Mate Nilzlix,39,Humanoid
+2696,Foggy MacKreel,30,Humanoid
+2721,Forsaken Bodyguard,35,Humanoid
+2714,Forsaken Courier,35,Humanoid
+2601,Foulbelly,42 Rare Elite,Humanoid
+2611,Fozruk,42 Elite,Giant
+2565,Giant Plains Creeper,35 - 36,Beast
+2792,Gor'mul,40,Humanoid
+2820,Graud,31,Humanoid
+15136,Hammerfall Elite,55,Humanoid
+2619,Hammerfall Grunt,34 - 35,Humanoid
+2621,Hammerfall Guardian,50,Humanoid
+2618,Hammerfall Peon,33 - 34,Humanoid
+2810,Hammon Karwn,35,Humanoid
+2561,Highland Fleshstalker,36 - 37,Beast
+2559,Highland Strider,30 - 31,Beast
+2560,Highland Thrasher,33 - 34,Beast
+15350,Horde Warbringer,60,Humanoid
+12923,Injured Soldier,43 - 46,Humanoid
+9501,Innkeeper Adegwa,30,Humanoid
+1471,Jannos Ironwill,46,Humanoid
+6574,Jun'ha,31,Humanoid
+2821,Keena,33,Humanoid
+4480,Kenata Dabyrie,35,Humanoid
+2713,Kinelory,38,Humanoid
+2793,Kor'gresh Coldrage,39,Humanoid
+2772,Korin Fel,35,Humanoid
+15125,Kosco Copperpinch,30,Humanoid
+2603,Kovork,36 Rare,Humanoid
+15130,League of Arathor Elite,55 Elite,Humanoid
+2612,Lieutenant Valorcall,38 Elite,Humanoid
+2766,Lolo the Lookout,39,Humanoid
+2597,Lord Falconcrest,40 Elite,Humanoid
+4481,Marcel Dabyrie,34,Humanoid
+2783,Marez Cowl,40 Elite,Humanoid
+2579,Mesa Buzzard,34 - 35,Beast
+2604,Molok the Crusher,39 Rare,Humanoid
+9555,Mu'uta,35,Humanoid
+2755,Myzrael,44 Elite,Elemental
+2814,Narj Deepslice,39,Humanoid
+2606,Nimar the Slayer,37 Rare,Humanoid
+2773,Or'Kalar,40 Elite,Humanoid
+2599,Otto,38 Elite,Humanoid
+2563,Plains Creeper,32 - 33,Beast
+2620,Prairie Dog,1,Critter
+2607,Prince Galen Trollbane,44 Elite,Humanoid
+2779,Prince Nazjak,41 Rare,Humanoid
+6229,Crowd Pummeler 9-60,32 Elite,Mechanical
+6228,Dark Iron Ambassador,33 Rare Elite,Humanoid
+6235,Electrocutioner 6000,32 Elite,Mechanical
+7361,Grubbis,32 Elite,Humanoid
+7800,Mekgineer Thermaplugg,34 Elite,Mechanical
+7079,Viscous Fallout,30 Elite,Elemental
+7897,Alarm-a-bomb 2600,20,Mechanical
+6232,Arcane Nullifier X-21,32 - 33 Elite,Mechanical
+7998,Blastmaster Emi Shortfuse,27 Elite,Humanoid
+7738,Burning Servant,30,Elemental
+6207,Caverndeep Ambusher,25 - 27,Humanoid
+6206,Caverndeep Burrower,25 - 27 Elite,Humanoid
+6211,Caverndeep Reaver,27 - 28 Elite,Humanoid
+6215,Chomper,30 Elite,Beast
+6219,Corrosive Lurker,28 - 29 Elite,Uncategorized
+6212,Dark Iron Agent,32 - 33 Elite,Humanoid
+8035,Dark Iron Land Mine,32 - 57,Mechanical
+7266,Ember,30,Elemental
+6392,Holdout Medic,29 - 30 Elite,Humanoid
+6407,Holdout Technician,29 - 30 Elite,Humanoid
+6391,Holdout Warrior,29 - 30 Elite,Humanoid
+6220,Irradiated Horror,28 - 29 Elite,Elemental
+6329,Irradiated Pillager,25 - 26 Elite,Humanoid
+6218,Irradiated Slime,27 - 28 Elite,Uncategorized
+7850,Kernobee,28,Humanoid
+7603,Leprous Assistant,28 - 29,Humanoid
+6223,Leprous Defender,28 - 29 Elite,Humanoid
+6224,Leprous Machinesmith,29 - 30,Humanoid
+6222,Leprous Technician,29 - 30,Humanoid
+6234,Mechanized Guardian,31 - 32 Elite,Mechanical
+6233,Mechanized Sentry,28 - 29 Elite,Mechanical
+6226,Mechano-Flamewalker,30 - 31 Elite,Mechanical
+6227,Mechano-Frostwalker,31 - 32 Elite,Mechanical
+6225,Mechano-Tank,29 - 30 Elite,Mechanical
+7849,Mobile Alert System,25,Mechanical
+6230,Peacekeeper Security Suit,30 - 31 Elite,Mechanical
+9676,Tink Sprocketwhistle,24,Humanoid
+7915,Walking Bomb,30,Mechanical
+11796,Bessany Plainswind,60,Humanoid
+11798,Bunthen Plainswind,60,Humanoid
+11716,Celes Earthborne,60,Humanoid
+12021,Daeolyn Summerleaf,51,Humanoid
+12019,Dargon,51,Humanoid
+7940,Darnall,53,Humanoid
+11802,Dendrite Starblaze,60,Humanoid
+12740,Faustron,55 Elite,Humanoid
+4184,Geenia Sunshadow,51,Humanoid
+11956,Great Bear Spirit,60,Beast
+11957,Great Cat Spirit,60,Beast
+11832,Keeper Remulos,62 Elite,Humanoid
+12023,Kharedon,51,Humanoid
+12042,Loganaar,51,Humanoid
+12022,Lorelae Wintersong,51,Humanoid
+12025,Malvor,51,Humanoid
+12024,Meliri,51,Humanoid
+11822,Moonglade Warden,55,Humanoid
+11797,Moren Riverbend,60,Humanoid
+12026,My'lanna,51,Humanoid
+11795,Mylentha Riverbend,60,Humanoid
+12029,Narianna,51,Humanoid
+11801,Rabine Saturna,60,Humanoid
+11800,Silva Fil'naveth,60,Humanoid
+10897,Sindrayl,55 Elite,Humanoid
+11799,Tajarri,60,Humanoid
+11553,Timbermaw Woodbender,52 - 53,Humanoid
+11939,Umber,55,Humanoid
+8545,Abomination,59 - 60,Undead
+11706,Adon,60,Humanoid
+11099,Argent Guard,55,Humanoid
+16284,Argent Medic,57 - 58,Humanoid
+11102,Argent Rider,60 Elite,Humanoid
+12384,Augustus the Touched,55,Humanoid
+10304,Aurora Skycaller,62,Humanoid
+11035,Betina Bigglezink,57,Humanoid
+8521,Blighted Horror,56 - 57,Elemental
+8519,Blighted Surge,54 - 55,Elemental
+11885,Blighthound,58 - 59 Elite,Beast
+10954,Bloodletter,57 - 58 Elite,Undead
+11896,Borelgore,61 Elite,Beast
+8530,Cannibal Ghoul,54 - 55,Undead
+10937,Captain Redpath,60 Elite,Undead
+11038,Caretaker Alen,52,Humanoid
+11063,Carlin Redpath,58,Humanoid
+8605,Carrion Devourer,56 - 57,Beast
+8603,Carrion Grub,54 - 55,Beast
+10699,Carrion Scarab,57 - 58,Undead
+12208,Conquered Soul of the Blightcaller,58,Undead
+13118,Crimson Bodyguard,57 - 58 Elite,Humanoid
+12337,Crimson Courier,60 Elite,Humanoid
+11898,Crusader Lord Valdelmar,60 Elite,Humanoid
+8555,Crypt Fiend,53 - 54,Undead
+8557,Crypt Horror,57 - 58,Undead
+11887,Crypt Robber,54 - 55,Humanoid
+8558,Crypt Slayer,58 - 59,Undead
+8556,Crypt Walker,55 - 56,Undead
+8524,Cursed Mage,54 - 55,Undead
+8546,Dark Adept,58 - 59,Humanoid
+8526,Dark Caster,56 - 57,Undead
+8551,Dark Summoner,55 - 56,Humanoid
+10947,Darrowshire Betrayer,57 - 58,Undead
+10948,Darrowshire Defender,57 - 58,Undead
+11064,Darrowshire Spirit,56 - 57,Undead
+10945,Davil Crokford,60,Undead
+10944,Davil Lightfire,60 Elite,Undead
+8547,Death Cultist,53 - 54,Humanoid
+8542,Death Singer,57 - 59,Undead
+10827,Deathspeaker Selendre,56 Rare,Humanoid
+12339,Demetria,61 Elite,Humanoid
+8532,Diseased Flayer,58 - 59,Undead
+8528,Dread Weaver,58 - 59,Undead
+10817,Duggan Wildhammer,55 Rare,Humanoid
+11039,Duke Nicholas Zverenhoff,60,Humanoid
+11897,Duskwing,60 Elite,Beast
+11140,Egan,59,Humanoid
+9521,Enraged Felbat,55 Elite,Beast
+14494,Eris Havenfire,60 Elite,Undead
+8539,Eyeless Watcher,57 - 58,Undead
+8598,Frenzied Plaguehound,57 - 58,Demon
+8544,Gangled Golem,58 - 59,Undead
+12636,Georgia,55 Elite,Humanoid
+10940,Ghost of the Past,55,Undead
+8531,Gibbering Ghoul,56 - 57,Undead
+10825,Gish the Unmoving,56 Rare,Undead
+8541,Hate Shrieker,55 - 57,Undead
+10821,Hed'mush the Rotting,57 Rare,Undead
+10828,High General Abbendis,59 Rare Elite,Humanoid
+10946,Horgus the Ravager,60 Elite,Undead
+12261,Infected Mossflayer,57 - 58,Undead
+12248,Infiltrator Hameya,60,Undead
+16229,Injured Argent Dawn Infantry,59 - 60,Humanoid
+14484,Injured Peasant,51 - 52,Undead
+12941,Jase Farlane,56,Humanoid
+12617,Khaelyn Steelwing,55 Elite,Humanoid
+11704,Kriss Goldenlight,60,Humanoid
+11036,Leonid Barthalomew the Revered,60,Humanoid
+8606,Living Decay,55 - 56,Uncategorized
+10826,Lord Darkscythe,57 Rare,Undead
+11034,Lord Maxwell Tyrosus,62,Humanoid
+10951,Marauding Corpse,56 - 57,Undead
+10952,Marauding Skeleton,56 - 57,Undead
+10939,Marduk the Black,58 Elite,Undead
+11886,Mercutio Filthgorger,57,Humanoid
+11710,Mirador,50,Beast
+8602,Monstrous Plaguebat,56 - 58,Beast
+8562,Mossflayer Cannibal,57 - 59,Humanoid
+8560,Mossflayer Scout,57 - 58,Humanoid
+8561,Mossflayer Shadowhunter,58 - 59,Humanoid
+11290,Mossflayer Zombie,53 - 54,Undead
+11878,Nathanos Blightcaller,62 Elite,Humanoid
+8553,Necromancer,54 - 55,Humanoid
+16184,Nerubian Overseer,60 Elite,Undead
+8601,Noxious Plaguebat,54 - 56,Beast
+10926,Pamela Redpath,1,Undead
+8565,Pathstrider,57 - 58,Humanoid
+8522,Plague Monstrosity,57 - 58,Elemental
+8520,Plague Ravager,55 - 56,Elemental
+8600,Plaguebat,53 - 55,Beast
+14485,Plagued Peasant,52 - 53,Undead
+16117,Plagued Swine,60,Beast
+8597,Plaguehound,55 - 56,Demon
+8298,Akubar the Seer,54 Rare,Humanoid
+8609,Alexandra Constantine,55 Elite,Humanoid
+7826,Ambassador Ardalan,55,Humanoid
+7666,Archmage Allistarj,58 Elite,Demon
+5992,Ashmane Boar,48 - 49,Beast
+3546,Bernie Heisten,45,Humanoid
+5982,Black Slayer,46 - 48,Beast
+7505,Bloodmage Drazial,50,Humanoid
+7506,Bloodmage Lynnore,53,Humanoid
+8301,Clack the Reaver,53 Rare,Beast
+14463,Daio the Decrepit,60,Humanoid
+8302,Deatheye,49 Rare,Beast
+8816,Deathly Usher,50,Humanoid
+12396,Doomguard Commander,61 Elite,Demon
+7401,Draenei Refugee,,Humanoid
+8716,Dreadlord,62 Elite,Demon
+5976,Dreadmaul Brute,46 - 47,Humanoid
+5977,Dreadmaul Mauler,53 - 54,Humanoid
+5974,Dreadmaul Ogre,45 - 46,Humanoid
+5975,Dreadmaul Ogre Mage,46 - 47,Humanoid
+5978,Dreadmaul Warlock,54 - 55,Humanoid
+8304,Dreadscorn,57 Rare,Humanoid
+9540,Enohar Thunderbrew,50,Humanoid
+8675,Felbeast,50 - 51,Demon
+7735,Felcular,60 Elite,Demon
+8717,Felguard Elite,61 Elite,Demon
+6011,Felguard Sentry,54 - 55,Demon
+6010,Felhound,54 - 55,Demon
+7365,Flawless Draenethyst Fragment,,Elemental
+7665,Grol the Destroyer,58 Elite,Demon
+8303,Grunter,50 Rare,Beast
+5993,Helboar,52 - 53,Demon
+7734,Ilifar,60 Elite,Demon
+8616,Infernal Servant,55,Demon
+7728,Kirith the Damned,55 Elite,Demon
+7363,Kum'isha the Collector,60,Humanoid
+7667,Lady Sevine,59 Elite,Demon
+12397,Lord Kazzak,?? Boss,Demon
+8297,Magronos the Unyielding,56 Rare,Humanoid
+8718,Manahound,60 Elite,Demon
+8296,Mojo the Twisted,48 Rare,Humanoid
+6001,Nethergarde Analyst,49 - 51,Humanoid
+6000,Nethergarde Cleric,49 - 51,Humanoid
+7851,Nethergarde Elite,55 Elite,Humanoid
+5997,Nethergarde Engineer,47 - 48,Humanoid
+5998,Nethergarde Foreman,46 - 48,Humanoid
+5996,Nethergarde Miner,47 - 48,Humanoid
+6003,Nethergarde Officer,50 - 51,Humanoid
+6002,Nethergarde Riftwatcher,49 - 51,Humanoid
+5999,Nethergarde Soldier,49 - 50,Humanoid
+8178,Nina Lightbrew,49,Humanoid
+5981,Portal Seeker,51 - 53,Humanoid
+5393,Quartermaster Lungertz,54,Humanoid
+8300,Ravage,51 Rare,Beast
+7664,Razelikh the Defiler,60 Elite,Demon
+5990,Redstone Basilisk,47 - 48,Beast
+5991,Redstone Crystalhide,51 - 52,Beast
+5988,Scorpok Stinger,50 - 51,Beast
+7670,Servant of Allistarj,54 - 55,Humanoid
+7669,Servant of Grol,53 - 54,Humanoid
+7668,Servant of Razelikh,57,Humanoid
+7671,Servant of Sevine,55 - 56,Humanoid
+6006,Shadowsworn Adept,52 - 53,Humanoid
+6004,Shadowsworn Cultist,51 - 52,Humanoid
+6009,Shadowsworn Dreadweaver,54 - 55,Humanoid
+6007,Shadowsworn Enforcer,53 - 54,Humanoid
+6005,Shadowsworn Thug,52 - 53,Humanoid
+6008,Shadowsworn Warlock,53 - 54,Humanoid
+5985,Snickerfang Hyena,49 - 50,Beast
+7729,Spirit of Kirith,55,Humanoid
+8299,Spiteflayer,52 Rare,Beast
+5984,Starving Snickerfang,45 - 46,Beast
+5508,Strumner Flintheel,40,Humanoid
+7846,Teremus the Devourer,?? Boss,Dragonkin
+8022,Thadius Grimshade,50,Humanoid
+5385,Watcher Mahar Ba,45,Humanoid
+5979,Wretched Lost One,45 - 47,Humanoid
+3586,Miner Johnson,19 Rare Elite,Humanoid
+647,Captain Greenskin,20 Elite,Humanoid
+645,Cookie,20 Elite,Humanoid
+636,Defias Blackguard,19 - 20 Elite,Humanoid
+3450,Defias Companion,14 - 15,Beast
+1729,Defias Evoker,17 - 18 Elite,Humanoid
+598,Defias Miner,17 - 18,Humanoid
+634,Defias Overseer,17 - 18 Elite,Humanoid
+657,Defias Pirate,19 - 20 Elite,Humanoid
+1732,Defias Squallshaper,19 - 20 Elite,Humanoid
+4416,Defias Strip Miner,18 - 19,Humanoid
+4417,Defias Taskmaster,18 - 19 Elite,Humanoid
+1725,Defias Watchman,16 - 17 Elite,Humanoid
+4418,Defias Wizard,18 - 19 Elite,Humanoid
+639,Edwin VanCleef,21 Rare Elite,Humanoid
+1763,Gilnid,20 Elite,Humanoid
+1731,Goblin Craftsman,18 - 19 Elite,Humanoid
+622,Goblin Engineer,18 - 19 Elite,Humanoid
+3947,Goblin Shipbuilder,19 - 20 Elite,Humanoid
+641,Goblin Woodcarver,18 - 19 Elite,Humanoid
+646,Mr. Smite,20 Elite,Humanoid
+2520,Remote-Controlled Golem,18 Elite,Mechanical
+644,Rhahk'Zor,19 Elite,Humanoid
+643,Sneed,20 Elite,Humanoid
+642,Sneed's Shredder,20 Elite,Mechanical
+740,Adolescent Whelp,34 - 35,Dragonkin
+989,Banalash,50,Humanoid
+7643,Bengor,45,Humanoid
+6026,Breyk,55 Elite,Humanoid
+7750,Corporal Thund Splithoof,55,Humanoid
+5591,Dar,40,Humanoid
+769,Deathstrike Tarantula,40 - 41,Beast
+7623,Dispatch Commander Ruag,60,Humanoid
+11198,Draenei Exile,42,Humanoid
+741,Dreaming Whelp,35 - 36,Dragonkin
+746,Elder Dragonkin,45,Dragonkin
+7572,Fallen Hero of the Horde,60,Humanoid
+1443,Fel'zerul,60,Humanoid
+14446,Fingat,43 Rare,Humanoid
+5391,Galen Goodward,37,Humanoid
+8176,Gharash,45,Humanoid
+14447,Gilmorian,43 Rare,Humanoid
+744,Green Scalebane,42 - 43,Dragonkin
+742,Green Wyrmkin,41 - 42,Dragonkin
+12807,Greshka,50,Humanoid
+980,Grimnal,45,Humanoid
+3622,Grokor,40,Humanoid
+5547,Grunt Tharlak,55,Humanoid
+5546,Grunt Zuul,55,Humanoid
+986,Haromm,50,Humanoid
+981,Hartash,45,Humanoid
+10049,Hekkru,30,Humanoid
+1442,Helgrum the Swift,60,Humanoid
+6653,Huge Toad,1,Critter
+5416,Infiltrator Marksen,40,Humanoid
+6930,Innkeeper Karakul,30,Humanoid
+5353,Itharius,45,Humanoid
+9916,Jarquia,46,Humanoid
+988,Kartosh,50,Humanoid
+5593,Katar,45,Humanoid
+14445,Lord Captain Wyrmak,45 Rare Elite,Dragonkin
+763,Lost One Chieftain,39 Rare,Humanoid
+1106,Lost One Cook,37 Rare,Humanoid
+757,Lost One Fisherman,35 - 36,Humanoid
+759,Lost One Hunter,36 - 37,Humanoid
+760,Lost One Muckdweller,36 - 37,Humanoid
+755,Lost One Mudlurker,34 - 35,Humanoid
+6913,Lost One Rift Traveler,25,Humanoid
+762,Lost One Riftseeker,37 - 38,Humanoid
+761,Lost One Seer,37 - 38,Humanoid
+1776,Magtoor,42,Humanoid
+985,Malosh,50,Humanoid
+751,Marsh Flesheater,43 - 44,Humanoid
+750,Marsh Inkspewer,42 - 43,Humanoid
+747,Marsh Murloc,41 - 42,Humanoid
+752,Marsh Oracle,44 - 45,Humanoid
+11874,Masat T'andr,44,Humanoid
+1081,Mire Lord,42,Elemental
+4953,Moccasin,1,Critter
+14448,Molt Thorn,42 Rare,Elemental
+1088,Monstrous Crawler,43 - 44,Beast
+5477,Noboru the Cudgel,39,Humanoid
+987,Ogromm,50,Humanoid
+5622,Ongeku,37,Humanoid
+8177,Rartar,45,Humanoid
+1386,Rogvar,53,Humanoid
+14356,Sawfin Frenzy,38 - 40,Beast
+1082,Sawtooth Crocolisk,38 - 39,Beast
+1087,Sawtooth Snapper,41 - 42,Beast
+745,Scalebane Captain,43 - 44,Dragonkin
+768,Shadow Panther,39 - 40,Beast
+922,Silt Crawler,40 - 41,Beast
+12900,Somnus,62 Elite,Dragonkin
+858,Sorrow Spinner,36 - 37,Beast
+867,Stonard Cartographer,52,Humanoid
+862,Stonard Explorer,37 - 38,Humanoid
+866,Stonard Grunt,55,Humanoid
+863,Stonard Hunter,50 - 51,Humanoid
+864,Stonard Orc,50,Humanoid
+861,Stonard Scout,36 - 37,Humanoid
+868,Stonard Shaman,53,Humanoid
+865,Stonard Wayfinder,50 - 51,Humanoid
+767,Swamp Jaguar,36 - 37,Beast
+6932,Swamp Spirit,40,Elemental
+950,Swamp Talker,50,Humanoid
+764,Swampwalker,38 - 39,Elemental
+765,Swampwalker Elder,39 - 40,Elemental
+766,Tangled Horror,40 - 41,Elemental
+984,Thralosh,45,Humanoid
+982,Thultash,45,Humanoid
+983,Thultazor,45,Humanoid
+5592,Tok'Kar,43,Humanoid
+5476,Watcher Biggs,33,Humanoid
+743,Wyrmkin Dreamwalker,42 - 43,Dragonkin
+1084,Young Sawtooth Crocolisk,35 - 36,Beast
+1775,Zun'dartha,60,Humanoid
+2216,Apothecary Lydon,35,Humanoid
+2363,Apprentice Honeywell,29,Humanoid
+2390,Aranae Venomblood,29,Humanoid
+2366,Barkeep Kelly,40,Humanoid
+2438,Bartolo Ginsetti,32,Humanoid
+14280,Big Samras,27 Rare,Beast
+2404,Blacksmith Verringtan,26,Humanoid
+2705,Brewmeister Bilger,33,Humanoid
+2365,Bront Coldcleave,39,Humanoid
+2304,Captain Ironhill,32 Elite,Humanoid
+2284,Captured Farmer,4,Humanoid
+2379,Caretaker Smithers,35,Humanoid
+2248,Cave Yeti,30 - 31,Humanoid
+2430,Chef Jessen,35,Humanoid
+2393,Christoph Jeffcoat,32,Humanoid
+2449,Citizen Wilkes,25,Humanoid
+2448,Clerk Horrace Whitesteed,26,Humanoid
+7068,Condemned Acolyte,57 - 58 Elite,Undead
+7070,Condemned Cleric,Elite,Undead
+7069,Condemned Monk,Elite,Undead
+2400,Craig Hewitt,32,Humanoid
+14279,Creepthess,24 Rare,Beast
+7072,Cursed Justicar,Elite,Undead
+7071,Cursed Paladin,57 - 58 Elite,Undead
+6239,Cyclonian,40 Elite,Elemental
+2370,Daggerspine Screamer,29 - 30,Humanoid
+2369,Daggerspine Shorehunter,30 - 31,Humanoid
+2368,Daggerspine Shorestalker,28 - 29,Humanoid
+2371,Daggerspine Siren,31 - 32,Humanoid
+2432,Darla Harris,55 Elite,Humanoid
+2382,Darren Malvew,30,Humanoid
+2399,Daryl Stack,56,Humanoid
+2419,Deathguard Humbert,32,Humanoid
+2418,Deathguard Samsa,32,Humanoid
+2214,Deathstalker Lesh,25,Humanoid
+2392,Delia Verana,32,Humanoid
+2397,Derak Nightfall,32,Humanoid
+2367,Donald Rabonne,31,Humanoid
+2239,Drull,25,Humanoid
+2344,Dun Garok Mountaineer,28 - 29 Elite,Humanoid
+2346,Dun Garok Priest,29 - 30 Elite,Humanoid
+2345,Dun Garok Rifleman,29 - 30 Elite,Humanoid
+7360,Dun Garok Soldier,28 - 29,Humanoid
+2356,Elder Gray Bear,25 - 26,Beast
+2348,Elder Moss Creeper,26 - 27,Beast
+2403,Farmer Getz,24,Humanoid
+2451,Farmer Kalaba,25,Humanoid
+2436,Farmer Kent,25,Humanoid
+232,Farmer Ray,23,Humanoid
+2385,Feral Mountain Lion,27 - 28,Beast
+2249,Ferocious Yeti,31 - 32,Humanoid
+2305,Foreman Bonds,30,Humanoid
+2350,Forest Moss Creeper,20 - 21,Beast
+2698,George Candarte,31,Humanoid
+2349,Giant Moss Creeper,24 - 25,Beast
+2473,Granistad,40,Beast
+2351,Gray Bear,21 - 22,Beast
+3540,Hal McAllister,40,Humanoid
+5185,Hammerhead Shark,31 - 32 Elite,Beast
+2396,Hans Zandin,32,Humanoid
+2433,Helcular's Remains,44 Elite,Undead
+2362,Hemmit Armstrong,15,Humanoid
+2215,High Executor Darthalia,60 Elite,Humanoid
+2265,Hillsbrad Apprentice Blacksmith,24 - 25,Humanoid
+2387,Hillsbrad Councilman,25 - 26,Humanoid
+2266,Hillsbrad Farmer,23 - 24,Humanoid
+2360,Hillsbrad Farmhand,22 - 23,Humanoid
+2268,Hillsbrad Footman,25 - 26,Humanoid
+2503,Hillsbrad Foreman,27 - 28,Humanoid
+2269,Hillsbrad Miner,26 - 27,Humanoid
+2267,Hillsbrad Peasant,24 - 25,Humanoid
+2270,Hillsbrad Sentry,27 - 28,Humanoid
+2264,Hillsbrad Tailor,24 - 25,Humanoid
+2352,Innkeeper Anderson,30,Humanoid
+2388,Innkeeper Shay,30,Humanoid
+2427,Jailor Eston,24,Humanoid
+2428,Jailor Marlgen,24,Humanoid
+3544,Jason Lemieux,40,Humanoid
+3542,Jaysin Lanyda,40,Humanoid
+2401,Kayren Soothallow,30,Humanoid
+2437,Keeper Bel'varil,34,Humanoid
+3536,Kris Legace,32,Humanoid
+2229,Krusk,25,Humanoid
+2378,Kundric Zanden,34,Humanoid
+2474,Kurdros,40,Beast
+14277,Lady Zephris,33 Rare,Humanoid
+2228,Lieutenant Farren Orinelle,25,Humanoid
+2383,Lindea Rabonne,29,Humanoid
+2277,Loremaster Dibbs,30,Humanoid
+2335,Magistrate Burnside,30,Humanoid
+2276,Magistrate Henry Maleb,60 Elite,Humanoid
+12017,Broodlord Lashlayer,?? Boss,Dragonkin
+14020,Chromaggus,?? Boss,Dragonkin
+14601,Ebonroc,?? Boss,Dragonkin
+11983,Firemaw,?? Boss,Dragonkin
+11981,Flamegor,?? Boss,Dragonkin
+11583,Nefarian,?? Boss,Dragonkin
+12435,Razorgore the Untamed,?? Boss,Dragonkin
+13020,Vaelastrasz the Corrupt,?? Boss,Dragonkin
+11519,Bazzalan,16 Elite,Humanoid
+11320,Earthborer,13 - 14 Elite,Beast
+11518,Jergosh the Invoker,16 Elite,Humanoid
+11834,Maur Grimtotem,14,Humanoid
+11321,Molten Elemental,13 - 15 Elite,Elemental
+11517,Oggleflint,16 Elite,Humanoid
+11319,Ragefire Shaman,13 - 15 Elite,Humanoid
+11318,Ragefire Trogg,13 - 15 Elite,Humanoid
+11322,Searing Blade Cultist,13 - 15 Elite,Humanoid
+11323,Searing Blade Enforcer,13 - 15 Elite,Humanoid
+11324,Searing Blade Warlock,13 - 15 Elite,Humanoid
+11520,Taragaman the Hungerer,16 Elite,Humanoid
+8996,Voidwalker Minion,10 - 57,Demon
+2135,Abe Winters,14,Humanoid
+2118,Abigail Shiel,9,Humanoid
+5724,Ageron Kargal,15,Humanoid
+11022,Alexi Barov,60 Elite,Humanoid
+11057,Apothecary Dithers,58,Humanoid
+1518,Apothecary Johaan,20,Humanoid
+2113,Archibald Kava,5,Humanoid
+10839,Argent Officer Garush,60,Humanoid
+10856,Argent Quartermaster Hasana,58,Humanoid
+6497,Astor Hadren,13,Humanoid
+2131,Austil de Mon,16,Humanoid
+11608,Bardu Sharpeye,50,Humanoid
+10356,Bayne,10 Rare,Demon
+2116,Blacksmith Rand,5,Humanoid
+1529,Bleeding Horror,9 - 10,Undead
+12341,Blue Skeletal Horse,1 - 2,Undead
+3523,Bowen Brisboise,24,Humanoid
+12342,Brown Skeletal Horse,1 - 2,Undead
+2128,Cain Firesong,14,Humanoid
+6784,Calvin Montague,5,Humanoid
+1658,Captain Dargol,13,Undead
+1665,Captain Melrache,12,Humanoid
+1662,Captain Perrine,9,Humanoid
+1664,Captain Vachon,11,Humanoid
+2211,Captured Mountaineer,9,Humanoid
+1931,Captured Scarlet Zealot,9,Humanoid
+2307,Caretaker Caice,5,Humanoid
+2132,Carolai Anise,25,Humanoid
+620,Chicken,1,Critter
+11945,Claire Willower,5,Humanoid
+5690,Clyde Kellen,16,Humanoid
+1500,Coleman Farthing,15,Humanoid
+3522,Constance Brisboise,11,Humanoid
+1523,Cracked Skull Soldier,8 - 9,Undead
+1548,Cursed Darkhound,7 - 8,Demon
+1917,Daniel Ulfman,2 - 3,Undead
+2119,Dannal Stern,5,Humanoid
+2129,Dark Cleric Beryl,17,Humanoid
+2123,Dark Cleric Duesten,5,Humanoid
+15197,Darkcaller Yanka,60 Elite,Humanoid
+1522,Darkeye Bonecaster,7 - 8,Undead
+2122,David Trias,5,Humanoid
+1735,Deathguard Abraham,22,Humanoid
+1742,Deathguard Bartholomew,22,Humanoid
+1741,Deathguard Bartrand,55,Humanoid
+1652,Deathguard Burgess,24,Humanoid
+1746,Deathguard Cyrus,21,Humanoid
+1496,Deathguard Dillinger,22,Humanoid
+7980,Deathguard Elite,55,Humanoid
+2209,Deathguard Gavin,24,Humanoid
+12428,Deathguard Kel,7,Humanoid
+1743,Deathguard Lawrence,22,Humanoid
+1495,Deathguard Linnea,22,Humanoid
+5725,Deathguard Lundmark,15,Humanoid
+1745,Deathguard Morris,22,Humanoid
+1744,Deathguard Mort,24,Humanoid
+1737,Deathguard Oliver,55,Humanoid
+1739,Deathguard Phillip,55,Humanoid
+1736,Deathguard Randolph,55,Humanoid
+2210,Deathguard Royann,24,Humanoid
+1740,Deathguard Saltain,7,Humanoid
+1519,Deathguard Simmer,23,Humanoid
+1738,Deathguard Terrence,21,Humanoid
+1547,Decrepit Darkhound,5 - 6,Demon
+1911,Deeb,12 Rare,Humanoid
+1657,Devlin Agamand,9,Undead
+2311,Doreen Beltis,5,Humanoid
+1512,Duskbat,1 - 2,Beast
+2137,Eliza Callen,12,Humanoid
+1570,Executor Arren,5,Humanoid
+1515,Executor Zygand,14,Humanoid
+1936,Farmer Solliden,8 Rare,Humanoid
+2114,Faruza,5,Humanoid
+10358,Fellicent's Shade,12 Rare,Undead
+5750,Gina Lang,10,Humanoid
+10666,Gordo,30,Undead
+1553,Greater Duskbat,6 - 7,Beast
+11156,Green Skeletal Warhorse,1 - 2,Undead
+1654,Gregor Agamand,10,Undead
+1521,Gretchen Dedmar,8,Humanoid
+1497,Gunther Arcanus,53,Humanoid
+3547,Hamlin Atkins,10,Humanoid
+2117,Harold Raims,5,Humanoid
+10837,High Executor Derrington,61,Humanoid
+3150,Hin Denburg,45,Humanoid
+448,Hogger,11 Elite,Humanoid
+1527,Hungering Dead,7 - 8,Undead
+5688,Innkeeper Renee,30,Humanoid
+2124,Isabella,5,Humanoid
+2310,Jamie Nore,5,Humanoid
+2115,Joshua Kien,5,Humanoid
+10665,Junior Apothecary Holland,20,Humanoid
+1918,Karrel Grayves,2 - 3,Undead
+5749,Kayla Smithe,10,Humanoid
+3967,Aayndia Floralwind,37,Humanoid
+3952,Aeolynn,22,Humanoid
+3773,Akkrilus,26 Rare,Demon
+8308,Alenndaar Lapidaar,27,Humanoid
+11901,Andruk,55 Elite,Humanoid
+3920,Anilia,25,Humanoid
+3735,Apothecary Falthis,22 Rare,Humanoid
+3809,Ashenvale Bear,21 - 22,Beast
+12856,Ashenvale Outrunner,23 - 24,Humanoid
+8015,Ashenvale Sentinel,??,Humanoid
+6087,Astranaar Sentinel,40,Humanoid
+3917,Befouled Water Elemental,23 - 25,Elemental
+3951,Bhaldaran Ravenshade,34,Humanoid
+3771,Bleakheart Hellcaller,26 - 27,Demon
+3765,Bleakheart Satyr,26 - 27,Demon
+3770,Bleakheart Shadowstalker,27 - 28,Demon
+3767,Bleakheart Trickster,27 - 28,Demon
+3815,Blink Dragon,26 - 27,Dragonkin
+3932,Bloodtooth Guard,27 - 28,Humanoid
+3698,Bolyun,40,Humanoid
+10641,Branch Snapper,25 Rare,Elemental
+6028,Burkrum,30,Humanoid
+4320,Caelyb,40,Humanoid
+3797,Cenarion Protector,25 - 26,Humanoid
+3833,Cenarion Vindicator,26 - 27,Humanoid
+12918,Chief Murgut,26,Humanoid
+3812,Clattering Crawler,19 - 20,Beast
+3834,Crazed Ancient,27 - 28,Elemental
+3965,Cylania Rootstalker,24,Humanoid
+4267,Daelyshia,55 Elite,Humanoid
+3915,Dagri,23,Beast
+3987,Dal Bloodclaw,25,Humanoid
+3954,Dalria,24,Humanoid
+3963,Danlaar Nightstride,35,Humanoid
+3728,Dark Strand Adept,18 - 19,Humanoid
+3879,Dark Strand Assassin,21,Humanoid
+3725,Dark Strand Cultist,18 - 19,Humanoid
+3727,Dark Strand Enforcer,20 - 21,Humanoid
+3730,Dark Strand Excavator,19 - 20,Humanoid
+3736,Darkslayer Mordenthal,23,Humanoid
+3663,Delgren the Purifier,19,Humanoid
+6072,Diathorus the Seeker,,Demon
+12860,Duriel Moonfire,24,Humanoid
+10642,Eck'alom,27 Rare,Elemental
+3810,Elder Ashenvale Bear,25 - 26,Beast
+3818,Elder Shadowhorn Stag,26 - 27,Beast
+12474,Emeraldon Boughguard,62 Elite,Dragonkin
+12476,Emeraldon Oracle,?? Elite,Dragonkin
+12921,Enraged Foulweald,23 - 24,Humanoid
+12877,Ertog Ragetusk,35,Humanoid
+11829,Fahrak,42,Humanoid
+3969,Fahran Silentblade,28,Humanoid
+3996,Faldreas Goeth'Shael,19,Humanoid
+4484,Feero Ironhand,20,Humanoid
+6115,Felguard,29 - 30,Demon
+3762,Felmusk Felsworn,25 - 26,Demon
+3759,Felmusk Rogue,26 - 27,Demon
+3758,Felmusk Satyr,25 - 26,Demon
+3763,Felmusk Shadowstalker,26 - 27,Demon
+3774,Felslayer,22 - 23,Demon
+11749,Feran Strongwind,57,Humanoid
+4795,Force of Nature,16 - 17,Uncategorized
+3807,Forsaken Assassin,29 - 30,Humanoid
+3808,Forsaken Dark Stalker,28 - 29,Humanoid
+3733,Forsaken Herbalist,18 - 19,Humanoid
+3806,Forsaken Infiltrator,29 - 30,Humanoid
+3804,Forsaken Intruder,28 - 29,Humanoid
+3893,Forsaken Scout,23,Humanoid
+3732,Forsaken Seeker,18 - 19,Humanoid
+3734,Forsaken Thug,20,Humanoid
+3746,Foulweald Den Watcher,24 - 25,Humanoid
+3745,Foulweald Pathfinder,23 - 24,Humanoid
+3748,Foulweald Shaman,24 - 25,Humanoid
+3750,Foulweald Totemic,23 - 24,Humanoid
+3749,Foulweald Ursa,24 - 25,Humanoid
+3743,Foulweald Warrior,23 - 24,Humanoid
+12720,Framnali,32,Humanoid
+14963,Gapp Jinglepocket,30,Humanoid
+4619,Geltharis,32,Demon
+3825,Ghostpaw Alpha,27 - 28,Beast
+3824,Ghostpaw Howler,23 - 24,Beast
+3823,Ghostpaw Runner,19 - 20,Beast
+3811,Giant Ashenvale Bear,29 - 30,Beast
+12718,Gurda Ragescar,30,Humanoid
+3962,Haljan Oakheart,26,Humanoid
+12723,Har'alen,28,Humanoid
+3956,Harklan Moongrove,24,Humanoid
+6731,Harlown Darkweave,27,Humanoid
+3844,Healing Ward IV,23 - 26,Uncategorized
+11681,Horde Deforester,27 - 28,Humanoid
+11682,Horde Grunt,29 - 30,Humanoid
+11656,Horde Peon,26 - 27,Humanoid
+11680,Horde Scout,26 - 28,Humanoid
+11683,Horde Shaman,28 - 29,Humanoid
+3664,Ilkrud Magthrull,24,Humanoid
+3901,Illiyana,26,Humanoid
+1716,Bazil Thredd,29 Elite,Humanoid
+1720,Bruegal Ironknuckle,26 Rare Elite,Humanoid
+1707,Defias Captive,23 - 24 Elite,Humanoid
+1711,Defias Convict,24 - 25 Elite,Humanoid
+1708,Defias Inmate,24 - 25 Elite,Humanoid
+1715,Defias Insurgent,25 - 26 Elite,Humanoid
+1706,Defias Prisoner,23 - 24 Elite,Humanoid
+1663,Dextren Ward,26 Elite,Humanoid
+1717,Hamhock,28 Elite,Humanoid
+1666,Kam Deepfury,27 Elite,Humanoid
+1696,Targorr the Dread,24 Elite,Humanoid
+6626,"""Plucky"" Johnson",1,Humanoid
+5933,Achellios the Banished,31 Rare,Humanoid
+10882,Arikara,28 Elite,Beast
+10896,Arnak Grimtotem,29,Humanoid
+11117,Awenasa,30,Humanoid
+10757,Boiling Elemental,27 - 28,Elemental
+4546,Bor'zehn,35,Humanoid
+10079,Brave Moonhorn,30,Humanoid
+6496,Brivelthwerp,35,Humanoid
+10537,Cliffwatcher Longhorn,55,Humanoid
+4117,Cloud Serpent,25 - 26,Beast
+4126,Crag Stalker,25 - 26,Beast
+4507,Daisy,15,Humanoid
+7872,Death's Head Cultist,33 - 34 Elite,Humanoid
+10582,Dog,10,Critter
+2986,Dorn Plainstalker,29,Humanoid
+5792,Drag Master Miglen,35,Humanoid
+4119,Elder Cloud Serpent,27 - 29,Beast
+10377,Elu,28,Humanoid
+10992,Enraged Panther,30 Elite,Beast
+4454,Fizzle Brassbolts,30,Humanoid
+4620,Fobeed,35,Humanoid
+9525,Freewind Brave,45,Humanoid
+10720,Galak Assassin,27 - 28,Humanoid
+7404,Galak Flame Guard,30,Humanoid
+4099,Galak Marauder,26 - 27,Humanoid
+4095,Galak Mauler,27 - 28,Humanoid
+10617,Galak Messenger,26,Humanoid
+4250,Galak Packhound,24,Beast
+4094,Galak Scout,24 - 25,Humanoid
+4097,Galak Stormer,26 - 27,Humanoid
+4096,Galak Windchaser,24 - 25,Humanoid
+4093,Galak Wrangler,25 - 26,Humanoid
+14427,Gibblesnik,28 Rare,Humanoid
+4946,Gnome Drag Car,32,Mechanical
+4495,Gnome Pit Boss,35,Humanoid
+4430,Gnome Pit Crewman,30,Humanoid
+4252,Gnome Racer,32,Mechanical
+4945,Goblin Drag Car,32,Mechanical
+4496,Goblin Pit Boss,30,Humanoid
+4429,Goblin Pit Crewman,30,Humanoid
+4251,Goblin Racer,32,Mechanical
+4113,Gravelsnout Digger,28 - 29,Humanoid
+4114,Gravelsnout Forager,27 - 28,Humanoid
+4111,Gravelsnout Kobold,26 - 27,Humanoid
+4116,Gravelsnout Surveyor,29 - 30,Humanoid
+4112,Gravelsnout Vermin,25 - 26,Humanoid
+4490,Grenka Bloodscreech,31,Humanoid
+10758,Grimtotem Bandit,25 - 26,Humanoid
+10760,Grimtotem Geomancer,25 - 27,Humanoid
+10761,Grimtotem Reaver,28,Humanoid
+10759,Grimtotem Stomper,26 - 27,Humanoid
+12576,Grish Longrunner,25,Humanoid
+10612,Guard Wachabe,45,Humanoid
+10539,Hagar Lightninghoof,30,Humanoid
+14426,Harb Foulmountain,27 Rare,Humanoid
+5934,Heartrazor,32 Rare Elite,Beast
+4109,Highperch Consort,28 - 29,Beast
+4110,Highperch Patriarch,30 - 31,Beast
+4107,Highperch Wyvern,28 - 29,Beast
+11116,Innkeeper Abeqwa,30,Humanoid
+5935,Ironeye the Invincible,37 Rare Elite,Beast
+4877,Jandia,37,Humanoid
+4876,Jawn Highmesa,35,Humanoid
+6730,Jinky Twizzlefixxit,30,Humanoid
+10638,Kanati Greycloud,30,Humanoid
+4452,Kravel Koalbeard,29,Humanoid
+3689,Laer Stepperunner,42,Humanoid
+10646,Lakota Windsong,30,Humanoid
+6548,Magus Tirth,51,Humanoid
+4483,Moktar Krin,35,Humanoid
+4878,Montarr,36,Humanoid
+10428,Motega Firemane,28,Humanoid
+4545,Nag'zehn,35,Humanoid
+4124,Needles Cougar,27 - 28,Beast
+4317,Nyse,55 Elite,Humanoid
+10636,Pack Kodo,30,Beast
+10427,Pao'ka Swiftmountain,30,Humanoid
+4248,Pesterhide Hyena,26 - 27,Beast
+4249,Pesterhide Snarler,28 - 29,Beast
+4630,Pozzik,30,Humanoid
+5905,Prate Cloudseer,37,Humanoid
+9238,Quentin,40,Humanoid
+4419,Race Master Kronkrider,35,Humanoid
+4722,Rau Cliffrunner,30,Humanoid
+7873,Razorfen Battleguard,33 - 34 Elite,Humanoid
+7874,Razorfen Thornweaver,33 - 34 Elite,Humanoid
+4706,Razzeric,30,Humanoid
+6495,Riznek,35,Humanoid
+4720,Rizzle Brassbolts,30,Humanoid
+4499,Rok'Alim the Pounder,30 Elite,Elemental
+4154,Salt Flats Scavenger,30 - 32,Beast
+4158,Salt Flats Vulture,32 - 34,Beast
+4147,Saltstone Basilisk,30 - 31,Beast
+4151,Saltstone Crystalhide,32 - 33,Beast
+4150,Saltstone Gazer,34 - 35,Beast
+10756,Scalding Elemental,28 - 29,Elemental
+4140,Scorpid Reaver,31 - 32,Beast
+4139,Scorpid Terror,33 - 34,Beast
+4100,Screeching Harpy,28 - 29,Humanoid
+4018,Antlered Courser,22 - 23,Beast
+11921,Besseleth,21 Elite,Beast
+4029,Blackened Ancient,27 - 28,Elemental
+4044,Blackened Basilisk,23 - 24,Beast
+4025,Bloodfury Ambusher,23 - 24,Humanoid
+4022,Bloodfury Harpy,23 - 24,Humanoid
+12579,Bloodfury Ripper,26 Elite,Humanoid
+4023,Bloodfury Roguefeather,25 - 26,Humanoid
+4024,Bloodfury Slayer,25 - 26,Humanoid
+4027,Bloodfury Storm Witch,26 - 27,Humanoid
+4026,Bloodfury Windcaller,24 - 25,Humanoid
+9549,Borand,30,Humanoid
+4198,Braelyn Firehand,30,Humanoid
+4489,Braug Dimspirit,35,Humanoid
+5915,Brother Ravenoak,29 Rare Elite,Humanoid
+4038,Burning Destroyer,26 - 27,Elemental
+4037,Burning Ravager,24 - 25,Elemental
+4051,Cenarion Botanist,23 - 24,Humanoid
+4050,Cenarion Caretaker,25 - 26 Elite,Humanoid
+4052,Cenarion Druid,26 - 27 Elite,Humanoid
+4028,Charred Ancient,25 - 26,Elemental
+6167,Chimaera Matriarch,28,Beast
+4084,Chylina,24,Humanoid
+4008,Cliff Stormer,15 - 17,Beast
+4021,Corrosive Sap Beast,24 - 25,Uncategorized
+11821,Darn Talongrip,30,Humanoid
+4053,Daughter of Cenarius,23 - 25,Humanoid
+4005,Deepmoss Creeper,16 - 17,Beast
+4263,Deepmoss Hatchling,14,Beast
+4264,Deepmoss Matriarch,22,Beast
+4007,Deepmoss Venomspitter,17 - 18,Beast
+4006,Deepmoss Webspinner,19 - 20,Beast
+3411,Denni'ka,25,Humanoid
+4034,Enraged Stone Spirit,24 - 25,Elemental
+4016,Fey Dragon,24 - 25,Dragonkin
+4031,Fledgling Chimaera,25 - 27,Beast
+5931,Foreman Rigger,24 Rare Elite,Humanoid
+4035,Furious Stone Spirit,26 - 27,Elemental
+4409,Gatekeeper Kordurus,25 Elite,Humanoid
+4077,Gaxim Rustfizzle,30,Humanoid
+10048,Gereck,30,Humanoid
+4202,Gerenzo Wrenchwhistle,27,Humanoid
+11917,Gogger Geomancer,16 - 17,Humanoid
+11915,Gogger Rock Keeper,16 - 17,Humanoid
+11918,Gogger Stonepounder,17 - 18,Humanoid
+11920,Goggeroc,20 Elite,Humanoid
+11914,Gorehoof the Black,17,Humanoid
+4082,Grawnal,32,Humanoid
+4019,Great Courser,24 - 25,Beast
+11912,Grimtotem Brute,15 - 16,Humanoid
+11911,Grimtotem Mercenary,14 - 15,Humanoid
+11910,Grimtotem Ruffian,14 - 15,Humanoid
+11913,Grimtotem Sorcerer,15 - 16,Humanoid
+11858,Grundig Darkcloud,18,Humanoid
+11074,Hgarth,46,Humanoid
+4188,Illyanie,25,Humanoid
+16458,Innkeeper Faralia,30,Humanoid
+7731,Innkeeper Jayka,30,Humanoid
+4083,Jeeda,24,Humanoid
+4080,Kaela Shadowspear,23,Humanoid
+11856,Kaya Flathoof,15,Humanoid
+3994,Keeper Albagorm,30,Humanoid
+4197,Ken'zigla,20,Humanoid
+5870,Krond,27,Humanoid
+12043,Kulwia,32,Humanoid
+11860,Maggran Earthbinder,30,Humanoid
+4061,Mirkfallon Dryad,25 - 26 Elite,Humanoid
+4056,Mirkfallon Keeper,26 - 27 Elite,Humanoid
+11861,Mor'rogal,25,Humanoid
+4066,Nal'taszar,30 Rare Elite,Dragonkin
+4085,Nizzik,24,Humanoid
+4276,Piznik,20,Humanoid
+4014,Pridewing Consort,22 - 23,Beast
+4015,Pridewing Patriarch,25 Rare,Beast
+4013,Pridewing Skyhunter,23 - 24,Beast
+4012,Pridewing Wyvern,21 - 22,Beast
+4072,Prisoner of Jin'Zil,20,Humanoid
+4009,Raging Cliff Stormer,18 - 19,Beast
+10182,Rexxar,?? Elite,Humanoid
+4036,Rogue Flame Spirit,23 - 24,Elemental
+8518,Rynthariel the Keymaster,29 Elite,Humanoid
+4020,Sap Beast,22 - 23,Uncategorized
+4041,Scorched Basilisk,27 - 28,Beast
+5916,Sentinel Amarassan,27 Rare Elite,Humanoid
+4042,Singed Basilisk,25 - 26,Beast
+5930,Sister Riven,28 Rare Elite,Humanoid
+4057,Son of Cenarius,24 - 25,Humanoid
+5928,Sorrow Wing,27 Rare Elite,Beast
+7730,Stonetalon Grunt,40,Humanoid
+11864,Tammra Windfield,25,Humanoid
+5932,Taskmaster Whipfang,22 Rare Elite,Humanoid
+4407,Teloren,55 Elite,Humanoid
+4312,Tharm,55 Elite,Humanoid
+289,Abercrombie,35,Humanoid
+1673,Alyssa Eva,7,Humanoid
+271,Ambassador Berrybuck,30,Humanoid
+844,Antonio Perelli,35,Humanoid
+5414,Apothecary Faustin,40,Humanoid
+228,Avette Fellwood,24,Humanoid
+274,Barkeep Hann,26,Humanoid
+664,Benjamin Carevin,2,Humanoid
+628,Black Ravager,24 - 25,Beast
+1258,Black Ravager Mastiff,25 - 26,Beast
+930,Black Widow Hatchling,24 - 25,Beast
+302,Blind Mary,40,Undead
+2481,Bliztik,36,Humanoid
+210,Bone Chewer,26 - 27,Undead
+570,Brain Eater,28 - 29,Undead
+663,Calor,20,Humanoid
+949,Carrion Recluse,25 - 26,Beast
+272,Chef Grual,30,Humanoid
+3136,Clarise Gnarltree,31,Humanoid
+267,Clerk Daltry,31,Humanoid
+374,Cog Glitzspinner,30,Humanoid
+264,Commander Althea Ebonlocke,45,Humanoid
+771,Commander Felstrom,32 Rare,Undead
+270,Councilman Millstipe,28,Humanoid
+2668,Danielle Zipstitch,27,Humanoid
+5418,Deathstalker Zraedus,40,Humanoid
+910,Defias Enchanter,26 - 27,Humanoid
+909,Defias Night Blade,25 - 26,Humanoid
+215,Defias Night Runner,24 - 25,Humanoid
+633,Elaine Carevin,18,Humanoid
+314,Eliza,31 Elite,Undead
+1871,Eliza's Guard,28 - 29,Undead
+2112,Farrin Daris,18 - 19,Humanoid
+2409,Felicia Maline,55 Elite,Humanoid
+507,Fenros,32 Rare,Humanoid
+1270,Fetid Corpse,29 - 30,Undead
+1676,Finbus Geargrind,31,Humanoid
+3,Flesh Eater,24 - 25,Undead
+2462,Flesh Eating Worm,25,Uncategorized
+225,Gavin Gnarltree,30,Humanoid
+218,Grave Robber,24 - 25,Humanoid
+569,Green Recluse,21 - 22,Beast
+960,Gunder Thornbush,30,Humanoid
+6170,Gutspill,32,Humanoid
+3133,Herble Baubbletump,30,Humanoid
+325,Hogan Ference,20,Humanoid
+6790,Innkeeper Trelayne,30,Humanoid
+511,Insane Ghoul,26,Undead
+288,Jitters,25,Humanoid
+661,Jonathan Carevin,25,Humanoid
+3134,Kzixx,25,Humanoid
+893,Lars,18,Humanoid
+1672,Lohgan Eva,5,Humanoid
+263,Lord Ello Ebonlocke,30,Humanoid
+503,Lord Malathrom,31 Rare,Undead
+521,Lupos,23 Rare,Beast
+227,Mabel Solaj,26,Humanoid
+265,Madame Eva,25,Humanoid
+3135,Malissa,24,Humanoid
+3137,Matt Johnson,20,Humanoid
+522,Mor'Ladim,35 Elite,Undead
+1200,Morbent Fel,32 Elite,Humanoid
+226,Morg Gnarltree,30,Humanoid
+574,Naraxis,27 Rare,Beast
+534,Nefaru,34 Rare,Humanoid
+10038,Night Watch Guard,55,Humanoid
+205,Nightbane Dark Runner,28 - 29,Humanoid
+533,Nightbane Shadow Weaver,27 - 28,Humanoid
+920,Nightbane Tainted One,30 - 31,Humanoid
+206,Nightbane Vile Fang,29 - 30,Humanoid
+898,Nightbane Worgen,26 - 27,Humanoid
+604,Plague Spreader,27 - 28,Undead
+1421,Private Merle,31,Humanoid
+539,Pygmy Venom Web Spider,18 - 19,Beast
+565,Rabid Dire Wolf,20 - 21,Beast
+269,Role Dreuger,40,Humanoid
+948,Rotted One,25 - 26,Undead
+3138,Scott Carevin,25,Humanoid
+2669,Sheri Zipstitch,31,Humanoid
+268,Sirra Von'Indi,24,Humanoid
+531,Skeletal Fiend,24 - 25,Undead
+787,Skeletal Healer,26 - 27,Undead
+202,Skeletal Horror,23 - 24,Undead
+203,Skeletal Mage,22 - 23,Undead
+1110,Skeletal Raider,27 - 28,Undead
+785,Skeletal Warder,28 - 29,Undead
+48,Skeletal Warrior,21 - 22,Undead
+2475,Sloth,31,Undead
+2479,Sludge,31,Undead
+1487,Splinter Fist Enslaver,30 - 31,Humanoid
+891,Splinter Fist Fire Weaver,26 - 27,Humanoid
+1251,Splinter Fist Firemonger,28 - 29,Humanoid
+889,Splinter Fist Ogre,25 - 26,Humanoid
+892,Splinter Fist Taskmaster,27 - 28,Humanoid
+212,Splinter Fist Warrior,29 - 30,Humanoid
+315,Stalvan Mistmantle,32,Undead
+12658,Adam Lind,20,Humanoid
+3582,Aman,50,Giant
+1482,Andrea Halloran,20,Humanoid
+2911,Archaeologist Flagongut,44,Humanoid
+1073,Ashlan Stonesmirk,27,Humanoid
+12899,Axtroz,62 Elite,Dragonkin
+1364,Balgaras the Foul,34 Elite,Humanoid
+1481,Bart Tidewater,20,Humanoid
+10046,Bethaine Flinthammer,30,Humanoid
+1032,Black Ooze,23 - 24,Uncategorized
+1030,Black Slime,20 - 21,Uncategorized
+5404,Black Stallion,1 - 2,Beast
+1026,Bluegill Forager,22 - 23,Humanoid
+1028,Bluegill Muckdweller,23 - 24,Humanoid
+1024,Bluegill Murloc,20 - 21,Humanoid
+1029,Bluegill Oracle,25 - 26,Humanoid
+1025,Bluegill Puddlejumper,21 - 22,Humanoid
+1418,Bluegill Raider,28 - 29,Humanoid
+1027,Bluegill Warrior,24 - 25,Humanoid
+1450,Brahnmar,25,Humanoid
+1441,Brak Durnad,25,Humanoid
+1480,Caitlin Grassman,20,Humanoid
+1451,Camerick Jongleur,25,Humanoid
+1160,Captain Halyndor,30,Undead
+2104,Captain Stoutfist,35,Humanoid
+4040,Cave Stalker,21 - 22,Beast
+2091,Chieftain Nek'rosh,32 Elite,Humanoid
+5683,Comar Villard,22,Humanoid
+1031,Crimson Ooze,24 - 25,Uncategorized
+1069,Crimson Whelp,25 - 26,Dragonkin
+1158,Cursed Marine,27 - 28,Undead
+1157,Cursed Sailor,26 - 27,Undead
+1054,Dark Iron Demolitionist,30 - 31 Elite,Humanoid
+1051,Dark Iron Dwarf,27 - 28 Elite,Humanoid
+3180,Dark Iron Entrepreneur,30 - 31,Humanoid
+1169,Dark Iron Insurgent,18 - 19,Humanoid
+6523,Dark Iron Rifleman,27 - 28 Elite,Humanoid
+1053,Dark Iron Tunneler,29 - 30 Elite,Humanoid
+1484,Derina Rumdnul,20,Humanoid
+1453,Dewin Shimmerdawn,25,Humanoid
+12657,Don Pompa,20,Humanoid
+1037,Dragonmaw Battlemaster,30 Rare,Humanoid
+1057,Dragonmaw Bonewarder,27 - 28,Humanoid
+1036,Dragonmaw Centurion,28 - 29,Humanoid
+2102,Dragonmaw Grunt,20 - 21,Humanoid
+1034,Dragonmaw Raider,26 - 27,Humanoid
+2103,Dragonmaw Scout,19 - 20,Humanoid
+1038,Dragonmaw Shadowwarder,28 - 29,Humanoid
+1035,Dragonmaw Swamprunner,27 - 28,Humanoid
+1462,Edwina Monzor,25,Humanoid
+2093,Einar Stonegrip,20,Humanoid
+1019,Elder Razormaw,29,Beast
+1463,Falkan Armonis,25,Humanoid
+1040,Fen Creeper,24 - 25,Elemental
+1039,Fen Dweller,20 - 21,Elemental
+1041,Fen Lord,25 - 26,Elemental
+1239,First Mate Fitzsimmons,30,Humanoid
+1159,First Mate Snellig,29,Undead
+1044,Flamesnorting Whelp,26 - 27,Dragonkin
+2682,Fradd Swiftgear,24,Humanoid
+3181,Fremal Doohickey,30,Humanoid
+2108,Garneg Charskull,29 Rare,Humanoid
+2089,Giant Wetlands Crocolisk,25 - 26,Beast
+1447,Gimlok Rumdnul,2,Humanoid
+1217,Glorin Steelbrow,25,Humanoid
+14425,Gnawbone,24 Rare,Humanoid
+1259,Gobbler,22,Humanoid
+1452,Gruham Rumdnul,25,Humanoid
+1476,Hargin Mundar,20,Humanoid
+2097,Harlo Barnaby,25,Humanoid
+3179,Harold Riggs,25,Humanoid
+1016,Highland Lashtail,24 - 25,Beast
+1015,Highland Raptor,23 - 24,Beast
+1018,Highland Razormaw,27 - 28,Beast
+1017,Highland Scytheclaw,25 - 26,Beast
+1464,Innkeeper Helbrek,30,Humanoid
+2094,James Halloran,25,Humanoid
+1454,Jennabink Powerseam,25,Humanoid
+1445,Jesse Halloran,2,Humanoid
+3182,Junder Brokk,20,Humanoid
+1242,Karl Boran,30,Humanoid
+1456,Kersok Prond,25,Humanoid
+8305,Kixxle,25,Humanoid
+1111,Leech Stalker,21 - 22,Beast
+1112,Leech Widow,24 Rare,Beast
+1071,Longbraid the Grim,35,Humanoid
+1043,Lost Whelp,24 - 25,Dragonkin
+2090,Ma'ruk Wyrmscale,23 Rare,Humanoid
+2099,Maiden's Virtue Crewman,20,Humanoid
+15137,Menethil Elite,55,Humanoid
+1434,Menethil Sentry,38 - 42,Humanoid
+1076,Merrin Rockweaver,30,Humanoid
+3552,Alexandre Lefevre,18,Humanoid
+3554,Andrea Boynton,18 - 20,Humanoid
+3556,Andrew Hilbert,18 - 20,Humanoid
+2106,Apothecary Berard,16 Elite,Humanoid
+1937,Apothecary Renferrel,14,Humanoid
+2120,Archmage Ataeric,22,Humanoid
+1923,Bloodsnout Worg,16 - 17,Beast
+5894,Corrupt Minor Manifestation of Water,22,Elemental
+2067,Councilman Brunswick,13 Elite,Humanoid
+2065,Councilman Cooper,13 Elite,Humanoid
+2064,Councilman Hartin,13 Elite,Humanoid
+2062,Councilman Hendricks,13 Elite,Humanoid
+2066,Councilman Higarth,13 Elite,Humanoid
+2060,Councilman Smithers,12 Elite,Humanoid
+2061,Councilman Thatcher,13 Elite,Humanoid
+2063,Councilman Wilhelm,13 Elite,Humanoid
+1938,Dalar Dawnweaver,21,Humanoid
+1867,Dalaran Apprentice,13 - 14,Humanoid
+3577,Dalaran Brewmaster,15 - 16,Humanoid
+1915,Dalaran Conjuror,17 - 18,Humanoid
+1914,Dalaran Mage,15 - 16,Humanoid
+3578,Dalaran Miner,15 - 16,Humanoid
+1912,Dalaran Protector,14 - 15,Humanoid
+2540,Dalaran Serpent,14 - 15,Uncategorized
+1920,Dalaran Spellscribe,21 Rare,Humanoid
+1913,Dalaran Warder,16 - 17,Humanoid
+1888,Dalaran Watcher,18 - 19,Humanoid
+1889,Dalaran Wizard,19 - 20,Humanoid
+5682,Dalin Forgewright,20,Humanoid
+6389,Deathguard Podrig,25,Humanoid
+1978,Deathstalker Erland,11,Humanoid
+2058,Deathstalker Faerleia,18,Humanoid
+2140,Edwin Harly,18 - 20,Humanoid
+1956,Elder Lake Creeper,18 - 19,Elemental
+1954,Elder Lake Skulker,16 - 17,Elemental
+6570,Fenwick Thatros,16,Humanoid
+1778,Ferocious Grizzled Bear,11 - 12,Beast
+1797,Giant Grizzled Bear,12 - 13,Beast
+12431,Gorefang,13 Rare,Beast
+1972,Grimson the Pale,15,Humanoid
+3557,Guillaume Sorouy,28,Humanoid
+5886,Gwyn Farrow,16,Humanoid
+2053,Haggard Refugee,18 - 19,Humanoid
+1870,Hand of Ravenclaw,15 - 16,Undead
+1952,High Executor Hadrec,30,Humanoid
+6739,Innkeeper Bates,30,Humanoid
+1971,Ivar the Foul,13,Undead
+3555,Johan Focht,19,Humanoid
+2226,Karos Razok,55 Elite,Humanoid
+5748,Killian Sanatha,18 - 20,Humanoid
+12433,Krethis Shadowspinner,15 Rare,Beast
+1955,Lake Creeper,17 - 18,Elemental
+6033,Lake Frenzy,15 - 16,Uncategorized
+1953,Lake Skulker,15 - 16,Elemental
+5758,Leo Sarn,18,Humanoid
+5757,Lilly,19,Humanoid
+2068,Lord Mayor Morrison,15 Elite,Humanoid
+5895,Minor Manifestation of Water,22,Elemental
+1781,Mist Creeper,13 - 14,Beast
+3529,Moonrage Armorer,14 - 15 Elite,Humanoid
+1924,Moonrage Bloodhowler,15 - 16,Humanoid
+1770,Moonrage Darkrunner,11 - 12,Humanoid
+1782,Moonrage Darksoul,13 - 14,Humanoid
+1896,Moonrage Elder,14 - 15 Elite,Humanoid
+1779,Moonrage Glutton,12 - 13,Humanoid
+3533,Moonrage Leatherworker,14 - 15 Elite,Humanoid
+1893,Moonrage Sentry,14 - 15 Elite,Humanoid
+3531,Moonrage Tailor,14 - 15 Elite,Humanoid
+1892,Moonrage Watcher,13 - 14 Elite,Humanoid
+1769,Moonrage Whitescalp,10 - 11,Humanoid
+1780,Moss Stalker,12 - 13,Beast
+1766,Mottled Worg,11 - 12,Beast
+8385,Mura Runetotem,22,Humanoid
+9553,Nadia Vernon,20,Humanoid
+1983,Nightlash,14,Undead
+12432,Old Vicejaw,14 Rare,Beast
+3551,Patrice Dwyer,20,Humanoid
+3528,Pyrewood Armorer,14 - 15 Elite,Humanoid
+1895,Pyrewood Elder,14 - 15 Elite,Humanoid
+3532,Pyrewood Leatherworker,14 - 15 Elite,Humanoid
+1894,Pyrewood Sentry,14 - 15 Elite,Humanoid
+3530,Pyrewood Tailor,14 - 15 Elite,Humanoid
+1891,Pyrewood Watcher,13 - 14 Elite,Humanoid
+1951,Quinn Yorick,14,Humanoid
+1943,Raging Rot Hide,18 - 19,Undead
+1950,Rane Yorick,15,Humanoid
+2056,Ravenclaw Apparition,24,Undead
+1869,Ravenclaw Champion,14 - 15,Undead
+1974,Ravenclaw Drudger,19 - 20,Undead
+1973,Ravenclaw Guardian,20 - 21,Undead
+1865,Ravenclaw Raider,12 - 13,Undead
+2283,Ravenclaw Regent,22 Rare,Undead
+1868,Ravenclaw Servant,13 - 14,Undead
+1866,Ravenclaw Slave,11 - 12,Undead
+2173,Reef Frenzy,14 - 15,Beast
+3702,Alanndarian Nightsong,18 - 22,Humanoid
+3898,Aligar the Tormentor,24,Demon
+4191,Allyndia,15,Humanoid
+3667,Anaya Dawnrunner,16,Undead
+2913,Archaeologist Hollee,12,Humanoid
+3650,Asterion,15,Humanoid
+3660,Athrikus Narassin,31,Humanoid
+6086,Auberdine Sentinel,40,Humanoid
+3899,Balizar the Umbrage,24,Demon
+3661,Balthule Shadowstrike,15,Humanoid
+3583,Barithras Moonshade,14,Humanoid
+2167,Blackwood Pathfinder,12 - 13,Humanoid
+2171,Blackwood Shaman,19 - 20,Humanoid
+2169,Blackwood Totemic,17 - 18,Humanoid
+11713,Blackwood Tracker,14 - 15,Humanoid
+2170,Blackwood Ursa,18 - 19,Humanoid
+2168,Blackwood Warrior,16 - 17,Humanoid
+2324,Blackwood Windtalker,13 - 14,Humanoid
+3900,Caedakar the Vicious,24,Demon
+2186,Carnivous the Breaker,16 Rare,Humanoid
+3841,Caylais Moonfeather,55 Elite,Humanoid
+3644,Cerellean Whiteclaw,15,Humanoid
+2174,Coastal Frenzy,14 - 16,Beast
+2156,Cracked Golem,18 - 19,Elemental
+2176,Cursed Highborne,10 - 11,Undead
+4182,Dalmond,17,Humanoid
+2336,Dark Strand Fanatic,16 - 17,Humanoid
+2337,Dark Strand Voidcaller,28 - 29,Humanoid
+2185,Darkshore Thresher,12 - 14,Beast
+2188,Deep Sea Threshadon,,Beast
+6299,Delfrum Flintbeard,25,Humanoid
+3662,Delmanis the Hated,17,Demon
+6788,Den Mother,18 - 19,Beast
+2212,Deth'ryll Satyr,12 - 13,Humanoid
+2187,Elder Darkshore Thresher,16 - 18,Beast
+6300,Elisa Steelhand,30,Humanoid
+2233,Encrusted Tide Crawler,18 - 20,Beast
+2192,Firecaller Radison,19 Rare,Humanoid
+7015,Flagglemurk the Cruel,16 Rare,Humanoid
+2322,Foreststrider,14 - 16,Beast
+2321,Foreststrider Fledgling,11 - 13,Beast
+6667,Gelkak Gyromast,18,Humanoid
+8997,Gershala Nightwhisper,20,Humanoid
+3619,Ghost Saber,19 - 20,Beast
+2323,Giant Foreststrider,17 - 19,Beast
+6301,Gorbold Steelhand,30,Humanoid
+2159,Gravelflint Bonesnapper,19 - 20,Humanoid
+2160,Gravelflint Geomancer,20 - 21,Humanoid
+2158,Gravelflint Scout,18 - 19,Humanoid
+2202,Greymist Coastrunner,12 - 13,Humanoid
+2206,Greymist Hunter,16 - 17,Humanoid
+2204,Greymist Netter,14 - 15,Humanoid
+2207,Greymist Oracle,18 - 19,Humanoid
+2201,Greymist Raider,11 - 12,Humanoid
+2203,Greymist Seer,13 - 14,Humanoid
+2208,Greymist Tidehunter,19 - 20,Humanoid
+2205,Greymist Warrior,15 - 16,Humanoid
+3695,Grimclaw,13,Beast
+2165,Grizzled Thistle Bear,16 - 17,Beast
+4193,Grondal Moonbreeze,29,Humanoid
+10216,Gubber Blump,15,Humanoid
+10219,Gwennyth Bly'Leggonde,21,Humanoid
+4187,Harlon Thornguard,25,Humanoid
+4307,Heldan Galesong,25,Humanoid
+6737,Innkeeper Shaussiy,30,Humanoid
+10085,Jaelysia,30,Humanoid
+11037,Jenna Lemkenilli,26,Humanoid
+11819,Jory Zaga,,Humanoid
+11218,Kerlonian Evershade,20,Humanoid
+11817,Krah'ranik,,Humanoid
+6297,Kurdram Stonehammer,35,Humanoid
+4190,Kyndri,13,Humanoid
+2184,Lady Moongazer,17 Rare,Undead
+7016,Lady Vespira,22 Rare,Humanoid
+4200,Laird,14,Humanoid
+2191,Licillin,14 Rare,Demon
+7017,Lord Sinslayer,15 - 16 Rare,Humanoid
+12138,Lunaclaw,12,Humanoid
+12144,Lunaclaw Spirit,13,Humanoid
+11714,Marosh the Devious,16,Humanoid
+4186,Mavralyn,18,Humanoid
+10158,Moonkin,12 - 13,Humanoid
+10157,Moonkin Oracle,13 - 14,Humanoid
+2069,Moonstalker,14 - 15,Beast
+2071,Moonstalker Matriarch,19 - 20,Beast
+2070,Moonstalker Runt,10 - 17,Beast
+2237,Moonstalker Sire,17 - 18,Beast
+10323,Murkdeep,19,Humanoid
+4183,Naram Longclaw,20,Humanoid
+3616,Onu,55,Uncategorized
+2917,Prospector Remtravel,16,Humanoid
+2231,Pygmy Tide Crawler,9 - 10,Beast
+2164,Rabid Thistle Bear,13 - 14,Beast
+10160,Raging Moonkin,12 - 14,Humanoid
+2236,Raging Reef Crawler,20 - 21,Beast
+2235,Reef Crawler,15 - 17,Beast
+12123,Reef Shark,21 - 22 Elite,Beast
+7024,Agent Kearnen,22,Humanoid
+502,Benny Blaanco,15,Humanoid
+520,Brack,19 Rare,Humanoid
+821,Captain Danuvin,33,Humanoid
+392,Captain Grayson,30,Undead
+8934,Christopher Hewen,30,Humanoid
+834,Coyote,10 - 11,Beast
+833,Coyote Packleader,11 - 12,Beast
+6250,Crawler,11 - 12,Beast
+6182,Daphne Stilwell,20,Humanoid
+619,Defias Conjurer,15 - 16 Elite,Humanoid
+824,Defias Digger,15 - 16,Humanoid
+7050,Defias Drone,22,Undead
+481,Defias Footpad,10 - 11,Humanoid
+594,Defias Henchman,15 - 16 Elite,Humanoid
+122,Defias Highwayman,17 - 18,Humanoid
+449,Defias Knuckleduster,16 - 17,Humanoid
+590,Defias Looter,13 - 14,Humanoid
+550,Defias Messenger,14 - 15,Humanoid
+121,Defias Pathstalker,15 - 16,Humanoid
+589,Defias Pillager,14 - 15,Humanoid
+1669,Defias Profiteer,20,Humanoid
+6180,Defias Raider,17 - 18,Humanoid
+450,Defias Renegade Mage,18 - 19,Humanoid
+95,Defias Smuggler,11 - 12,Humanoid
+7052,Defias Tower Patroller,23,Humanoid
+7056,Defias Tower Sentry,24,Humanoid
+504,Defias Trapper,12 - 13,Humanoid
+832,Dust Devil,18 - 19,Elemental
+237,Farmer Furlbrow,20,Humanoid
+233,Farmer Saldean,20,Humanoid
+1109,Fleshripper,13 - 14,Beast
+573,Foe Reaper 4000,20 Rare,Mechanical
+2044,Forlorn Spirit,25 - 26,Undead
+846,Ghoul,14 - 15,Undead
+843,Gina MacGregor,15,Humanoid
+157,Goretusk,14 - 15,Beast
+547,Great Goretusk,16 - 17,Beast
+154,Greater Fleshripper,16 - 17,Beast
+239,Grimbooze Thunderbrew,20,Humanoid
+234,Gryan Stoutmantle,35 Elite,Humanoid
+36,Harvest Golem,11 - 12,Mechanical
+115,Harvest Reaper,17 - 18,Mechanical
+114,Harvest Watcher,14 - 15,Mechanical
+8931,Innkeeper Heather,30,Humanoid
+10045,Kirk Maxwell,30,Humanoid
+7053,Klaven Mortwake,23 Elite,Humanoid
+1236,Kobold Digger,12 - 13,Humanoid
+4305,Kriggon Talsone,25,Humanoid
+572,Leprithus,19 Rare,Undead
+3417,Living Flame,16 - 17,Elemental
+842,Lumberjack,5,Humanoid
+7051,Malformed Defias Drone,23,Humanoid
+1424,Master Digger,15 Rare,Humanoid
+1670,Mike Miller,20,Humanoid
+6271,Mouse,1,Critter
+126,Murloc Coastrunner,12 - 13,Humanoid
+458,Murloc Hunter,16 - 17,Humanoid
+456,Murloc Minor Oracle,13 - 14,Humanoid
+513,Murloc Netter,14 - 15,Humanoid
+517,Murloc Oracle,17 - 18,Humanoid
+515,Murloc Raider,11 - 12,Humanoid
+127,Murloc Tidehunter,18 - 19,Humanoid
+171,Murloc Warrior,15 - 16,Humanoid
+582,Old Blanchy,2,Critter
+391,Old Murk-Eye,20,Humanoid
+487,Protector Bialon,30,Humanoid
+870,Protector Deni,30,Humanoid
+869,Protector Dorana,30,Humanoid
+489,Protector Dutfield,30,Humanoid
+490,Protector Gariel,30,Humanoid
+874,Protector Korelor,30,Humanoid
+876,Protector Leick,30,Humanoid
+8096,Protector of the People,40,Humanoid
+488,Protector Weaver,30,Humanoid
+491,Quartermaster Lewis,20,Humanoid
+452,Riverpaw Bandit,16 - 17,Humanoid
+124,Riverpaw Brute,15 - 16,Humanoid
+117,Riverpaw Gnoll,11 - 12,Humanoid
+501,Riverpaw Herbalist,14 - 15,Humanoid
+1426,Riverpaw Miner,14 - 15,Humanoid
+123,Riverpaw Mongrel,13 - 14,Humanoid
+453,Riverpaw Mystic,18 - 19,Humanoid
+125,Riverpaw Overseer,19 - 20,Humanoid
+500,Riverpaw Scout,12 - 13,Humanoid
+1065,Riverpaw Shaman,12 - 13,Humanoid
+98,Riverpaw Taskmaster,17 - 18,Humanoid
+480,Rusty Harvest Golem,9 - 10,Mechanical
+235,Salma Saldean,20,Humanoid
+830,Sand Crawler,13 - 14,Beast
+878,Scout Galiaan,30,Humanoid
+820,Scout Riell,30,Humanoid
+831,Sea Crawler,15 - 16,Beast
+6221,Addled Leper,24 - 25,Humanoid
+829,Adlin Pridedrift,5,Humanoid
+460,Alamar Grimm,5,Humanoid
+10610,Angus,11,Humanoid
+1354,Apprentice Soren,3,Humanoid
+1679,Avarus Kharag,25,Humanoid
+1232,Azar Stronghammer,12,Humanoid
+713,Balir Frosthammer,5,Humanoid
+1376,Beldin Steelgrill,12,Humanoid
+7954,Binjy Featherwhistle,50,Humanoid
+1130,Bjarn,12 Rare,Beast
+1129,Black Bear,6 - 7,Beast
+12363,Blue Mechanostrider,1 - 2,Mechanical
+1240,Boran Ironclink,8 - 11,Humanoid
+837,Branstock Khalder,5,Humanoid
+926,Bromos Grummner,5,Humanoid
+1702,Bronk Guzzlegear,24,Humanoid
+12372,Brown Ram,1 - 2,Beast
+3162,Burdrak Harglhelm,12,Humanoid
+724,Burly Rockjaw Trogg,2,Humanoid
+6124,Captain Beld,11,Humanoid
+5568,Captured Leper Gnome,8,Humanoid
+13096,Coldmine Explorer,,Humanoid
+853,Coldridge Mountaineer,55,Humanoid
+1355,Cook Ghilm,8 - 11,Humanoid
+1125,Crag Boar,5 - 6,Beast
+1701,Dank Drizzlecut,10,Humanoid
+6328,Dannie Fizzwizzle,14,Humanoid
+6123,Dark Iron Spy,9 - 10,Humanoid
+13076,Dun Morogh Mountaineer,30,Humanoid
+836,Durnan Furcutter,5,Humanoid
+1137,Edan the Howler,9 Rare,Humanoid
+1127,Elder Crag Boar,7 - 8,Beast
+1253,Father Gavin,15,Humanoid
+8416,Felix Whindlebolt,2,Humanoid
+1352,Fluffy,1,Critter
+1254,Foreman Stonebrow,12,Humanoid
+1698,Frast Dokner,10,Humanoid
+1123,Frostmane Headhunter,8 - 9,Humanoid
+1122,Frostmane Hideskinner,9 - 10,Humanoid
+946,Frostmane Novice,3 - 4,Humanoid
+1397,Frostmane Seer,8 - 9,Humanoid
+1124,Frostmane Shadowcaster,9 - 10,Humanoid
+1121,Frostmane Snowstrider,8 - 9,Humanoid
+1120,Frostmane Troll,7 - 8,Humanoid
+706,Frostmane Troll Whelp,3 - 4,Humanoid
+1238,Gamili Frosthide,9,Humanoid
+8503,Gibblewilt,11 Rare,Humanoid
+5612,Gimrizz Shadowcog,15,Humanoid
+13000,Gnome Engineer,15,Humanoid
+7843,Gnomeregan Evacuee,24 - 25,Humanoid
+1692,Golorn Frostbeard,10,Humanoid
+1229,Granis Swiftaxe,9 - 12,Humanoid
+1273,Grawn Thromwyn,10,Humanoid
+12373,Gray Ram,1 - 2,Beast
+1260,Great Father Arctikus,11 Rare,Humanoid
+12367,Green Mechanostrider,1 - 2,Mechanical
+786,Grelin Whitebeard,5,Humanoid
+1699,Gremlock Pilsnor,10,Humanoid
+8508,Gretta Ganter,10,Humanoid
+1231,Grif Wildheart,8 - 12,Humanoid
+808,Grik'nir the Cold,5,Humanoid
+1104,Grundel Harkin,5,Humanoid
+1119,Hammerspine,12 Rare,Humanoid
+6782,Hands Springsprocket,10,Humanoid
+1243,Hegnar Rumbleshot,8 - 12,Humanoid
+1234,Hogral Bakkan,12,Humanoid
+15113,Honored Hero,60,Uncategorized
+1196,Ice Claw Bear,7 - 8,Beast
+1247,Innkeeper Belm,30,Humanoid
+5595,Ironforge Guard,55,Humanoid
+727,Ironforge Mountaineer,30,Humanoid
+1373,Jarven Thunderbrew,15,Humanoid
+6181,Jordan Stilwell,30,Humanoid
+1199,Juvenile Snow Leopard,5 - 6,Beast
+1237,Kazan Mogosh,8,Humanoid
+1697,Keeg Gibn,10,Humanoid
+1245,Kogan Forgestone,8 - 10,Humanoid
+1691,Kreg Bilmn,10,Humanoid
+1126,Large Crag Boar,6 - 7,Beast
+1211,Leper Gnome,8 - 10,Humanoid
+1694,Loslor Rudge,10,Humanoid
+1228,Magis Sparkmantle,10,Humanoid
+1961,Mangeclaw,11,Beast
+1375,Marleth Barleybrew,12,Humanoid
+944,Marryk Nurribit,5,Humanoid
+1226,Maxan Anvol,10,Humanoid
+7955,Milli Featherwhistle,50,Humanoid
+1358,Miner Grothor,8 - 10,Humanoid
+1360,Miner Grumnal,8 - 10,Humanoid
+12385,Mortar Team Advanced Target Dummy,15,Mechanical
+11875,Mortar Team Target Dummy,14,Mechanical
+1959,Mountaineer Barleybrew,20,Humanoid
+12427,Mountaineer Dolf,7,Humanoid
+1965,Mountaineer Thalos,15,Humanoid
+12996,Mounted Ironforge Mountaineer,30,Humanoid
+6177,Narm Faulk,8,Humanoid
+810,Aaron,1,Humanoid
+5386,Acolyte Dellis,15,Humanoid
+6267,Acolyte Porena,20,Humanoid
+1316,Adair Gilroy,60,Humanoid
+1366,Adam,1,Humanoid
+1478,Aedis Brom,30,Humanoid
+1349,Agustus Moulaine,30,Humanoid
+1294,Aldric Moore,30,Humanoid
+4974,Aldwin Laughlin,50,Humanoid
+1347,Alexandra Bolero,30,Humanoid
+1315,Allan Hafgan,30,Humanoid
+1321,Alyssa Griffith,30,Humanoid
+914,Ander Germaine,60,Humanoid
+3507,Andi,1,Humanoid
+1747,Anduin Wrynn,5,Humanoid
+1141,Angus Stern,60,Humanoid
+1284,Archbishop Benedictus,?? Boss,Humanoid
+2708,Archmage Malin,40,Humanoid
+1312,Ardwyn Cailen,30,Humanoid
+4984,Argos Nightwhisper,20,Humanoid
+5493,Arnold Leland,35,Humanoid
+5491,Arthur the Faithful,40,Humanoid
+8670,Auctioneer Chilton,50,Humanoid
+8719,Auctioneer Fitch,50,Humanoid
+15659,Auctioneer Jaxon,50,Humanoid
+1646,Baros Alexston,30,Humanoid
+6090,Bartleby,10,Humanoid
+4981,Ben Trias,25,Humanoid
+1302,Bernard Gump,30,Humanoid
+11068,Betty Quin,25,Humanoid
+5519,Billibub Cogspinner,30,Humanoid
+1367,Billy,1,Humanoid
+4960,Bishop DeLavey,32,Humanoid
+1212,Bishop Farthing,40,Humanoid
+7232,Borgus Steelhand,60,Humanoid
+1370,Brandon,1,Humanoid
+5384,Brohann Caskbelly,40,Humanoid
+5514,Brooke Stonebraid,30,Humanoid
+5484,Brother Benjamin,40,Humanoid
+1351,Brother Cassius,30,Humanoid
+12336,Brother Crowley,44,Humanoid
+5489,Brother Joshua,50,Humanoid
+1444,Brother Kristoff,40,Humanoid
+7917,Brother Sarno,55,Humanoid
+1319,Bryan Cross,30,Humanoid
+1752,Caledra Dawnbreeze,60,Humanoid
+805,Cameron,1,Humanoid
+297,Caretaker Folsom,30,Humanoid
+1291,Carla Granger,30,Humanoid
+5494,Catherine Leland,30,Humanoid
+1307,Charys Yserian,50,Humanoid
+1477,Christoph Faral,30,Humanoid
+14722,Clavicus Knavingham,35,Humanoid
+4078,Collin Mauren,32,Humanoid
+5081,Connor Rivers,25,Humanoid
+1433,Corbett Schneider,5,Humanoid
+2285,Count Remington Ridgewell,40,Humanoid
+2198,Crier Goodman,3,Humanoid
+804,Dana,1,Humanoid
+957,Dane Lindgren,30,Humanoid
+1304,Darian Singh,30,Humanoid
+4961,Dashel Stonefist,26,Humanoid
+3629,David Langston,5,Humanoid
+5043,Defias Rioter,20,Humanoid
+461,Demisette Cloyce,60,Humanoid
+7207,Doc Mixilpixil,45,Humanoid
+2532,Donna,1,Humanoid
+2504,Donyal Tovald,15,Humanoid
+1314,Duncan Cullen,30,Humanoid
+352,Dungar Longdrink,55 Elite,Humanoid
+6171,Duthorian Rall,60,Humanoid
+1286,Edna Mullby,30,Humanoid
+5515,Einris Brightspear,60,Humanoid
+483,Elaine Trias,30,Humanoid
+5503,Eldraeith,30,Humanoid
+14981,Elfarran,61 Elite,Humanoid
+482,Elling Trias,30,Humanoid
+1328,Elly Langston,60,Humanoid
+5498,Elsharin,50,Humanoid
+3627,Erich Lohan,5,Humanoid
+5483,Erika Tate,30,Humanoid
+1310,Evan Larson,30,Humanoid
+1303,Felicia Gump,30,Humanoid
+14721,Field Marshal Afrasiabi,62 Elite,Humanoid
+1419,Fizzles,1,Beast
+1298,Frederick Stover,30,Humanoid
+5413,Furen Longbeard,40,Humanoid
+6122,Gakin the Darkbinder,50,Humanoid
+6173,Gazin Tenorm,9,Humanoid
+5513,Gelman Stonehand,35,Humanoid
+466,General Marcus Jonathan,62 Elite,Humanoid
+3509,Geoff,1,Humanoid
+1346,Georgio Bolero,46,Humanoid
+1333,Gerik Koen,30,Humanoid
+3504,Gil,1,Humanoid
+1750,Grand Admiral Jes-Tereth,62,Humanoid
+1348,Gregory Ardus,30,Humanoid
+2412,Alina,33,Humanoid
+14222,Araga,35 Rare,Beast
+2543,Archmage Ansirem Runeweaver,40,Humanoid
+2318,Argus Shadow Mage,35 - 36,Humanoid
+2306,Baron Vardus,40,Humanoid
+6176,Bath'rah the Windwatcher,35,Humanoid
+2480,Bro'kin,49,Humanoid
+16392,Captain Armando Ossex,60 Elite,Humanoid
+8309,Carlo Aurelius,50,Humanoid
+13776,Corporal Teeka Bloodsnarl,56 - 57 Elite,Humanoid
+14223,Cranky Benj,32 Rare,Beast
+2253,Crushridge Brute,35 - 36,Humanoid
+2256,Crushridge Enforcer,38 - 39 Elite,Humanoid
+2255,Crushridge Mage,37 - 38 Elite,Humanoid
+2254,Crushridge Mauler,36 - 37 Elite,Humanoid
+2252,Crushridge Ogre,34 - 35,Humanoid
+2416,Crushridge Plunderer,36 - 37 Elite,Humanoid
+2287,Crushridge Warmonger,39 - 40 Elite,Humanoid
+2271,Dalaran Shield Guard,31 - 32,Humanoid
+2358,Dalaran Summoner,34 - 35,Humanoid
+2272,Dalaran Theurgist,32 - 33,Humanoid
+2628,Dalaran Worker,33 - 34,Humanoid
+2413,Dermot,34,Humanoid
+14962,Dillord Copperpinch,30,Humanoid
+2440,Drunken Footpad,32 - 33,Humanoid
+2359,Elemental Slave,33 - 34,Elemental
+2317,Elysa,25,Humanoid
+6707,Fahrad,60,Humanoid
+4504,Frostmaw,37,Humanoid
+14285,Frostwolf Battleguard,61 Elite,Humanoid
+2251,Giant Yeti,33 - 34,Humanoid
+2422,Glommus,39 Elite,Humanoid
+2316,Gol'dir,25,Humanoid
+3985,Grandpa Vishas,34 Elite,Humanoid
+14221,Gravis Slipknot,36 Rare,Humanoid
+2417,Grel'borg the Miser,39 Elite,Humanoid
+2333,Henchman Valik,30,Humanoid
+2407,Hulking Mountain Lion,33 - 34,Beast
+2431,Jailor Borhuin,37,Humanoid
+13219,Jekyll Flandring,58 Elite,Humanoid
+14281,Jimmy the Bleeder,23 Rare,Humanoid
+2414,Kegan Darkmar,35,Humanoid
+13841,Lieutenant Haggerdin,61 Elite,Humanoid
+2453,Lo'Grosh,39 Rare,Humanoid
+2423,Lord Aliden Perenolde,41,Humanoid
+6768,Lord Jorach Ravenholdt,60,Humanoid
+7325,Master Kang,62,Humanoid
+14961,Mirvyna Jinglepocket,30,Humanoid
+2406,Mountain Lion,32 - 33,Beast
+2250,Mountain Yeti,32 - 33,Humanoid
+2421,Muckrake,40 Elite,Humanoid
+2257,Mug'thol,43 Elite,Humanoid
+13085,Myrokos Silentform,57 Elite,Humanoid
+2320,Nagaz,40,Humanoid
+3984,Nancy Vishas,33 Elite,Humanoid
+2447,Narillasanz,44 Rare Elite,Dragonkin
+13816,Prospector Stonehewer,61,Humanoid
+6771,Ravenholdt Assassin,50,Humanoid
+6766,Ravenholdt Guard,50,Humanoid
+2411,Ricter,33,Humanoid
+2684,Rizz Loosebolt,31,Humanoid
+11776,Salome,1,Critter
+13777,Sergeant Durgen Stormpike,59 Elite,Humanoid
+1933,Sheep,3,Critter
+7324,Simone Cantrell,45,Humanoid
+2452,Skhowl,36 Rare,Humanoid
+6779,Smudge Thunderwood,45,Humanoid
+2408,Snapjaw,30 - 31,Beast
+2386,Southshore Guard,55,Humanoid
+2623,Spirit of Old,32 - 33,Undead
+2258,Stone Fury,37 Rare,Elemental
+14284,Stormpike Battleguard,61 Elite,Humanoid
+2246,Syndicate Assassin,38 - 39,Humanoid
+2247,Syndicate Enforcer,39 - 40,Humanoid
+2240,Syndicate Footpad,32 - 33,Humanoid
+2245,Syndicate Saboteur,37 - 38,Humanoid
+2243,Syndicate Sentry,36 - 37,Humanoid
+2242,Syndicate Spy,35 - 36,Humanoid
+2241,Syndicate Thief,33 - 34,Humanoid
+2319,Syndicate Wizard,34 - 35,Humanoid
+2420,Targ,41 Elite,Humanoid
+2405,Tarren Mill Deathguard,55,Humanoid
+13217,Thanthaldis Snowgleam,58 Elite,Humanoid
+1958,Vile Fin Tidecaller,17 - 18,Humanoid
+13817,Voggah Deathgrip,61,Humanoid
+2415,Warden Belamoore,36,Humanoid
+13840,Warmaster Laggrond,61 Elite,Humanoid
+7323,Winstone Wolfe,52,Humanoid
+6777,Zan Shivsproket,60,Humanoid
+12378,Damned Soul,59 - 60,Undead
+7369,Deadwind Brute,55 - 56,Humanoid
+7371,Deadwind Mauler,56 - 57,Humanoid
+7379,Deadwind Ogre Mage,55 - 57,Humanoid
+7372,Deadwind Warlock,57 - 58,Humanoid
+12381,Ley Sprite,57 - 58,Uncategorized
+12382,Mana Sprite,56 - 57,Uncategorized
+7370,Restless Shade,58 - 60,Undead
+7376,Sky Shadow,55 - 56,Beast
+12379,Unliving Caretaker,59 - 60,Undead
+12380,Unliving Resident,59 - 60,Undead
+12377,Wailing Spectre,58 - 60,Undead
+812,Alma Jainrose,20,Humanoid
+777,Amy Davenport,20,Humanoid
+7009,Arantir,45 Elite,Humanoid
+711,Ardo Dirtpaw,24,Humanoid
+931,Ariena Stormfeather,55 Elite,Humanoid
+900,Bailiff Conacher,30,Humanoid
+346,Barkeep Daniels,21,Humanoid
+5620,Bartender Wental,21,Humanoid
+345,Bellygrub,24,Beast
+3097,Bernard Brubaker,20,Humanoid
+441,Black Dragon Whelp,17 - 18,Dragonkin
+435,Blackrock Champion,24 - 25,Humanoid
+4464,Blackrock Gladiator,24 - 25 Elite,Humanoid
+440,Blackrock Grunt,19 - 20,Humanoid
+4462,Blackrock Hunter,23 - 24 Elite,Humanoid
+485,Blackrock Outrunner,20 - 21,Humanoid
+437,Blackrock Renegade,21 - 22,Humanoid
+4064,Blackrock Scout,20 - 21 Elite,Humanoid
+4065,Blackrock Sentry,21 - 22 Elite,Humanoid
+436,Blackrock Shadowcaster,22 - 23 Elite,Humanoid
+4463,Blackrock Summoner,22 - 23,Humanoid
+615,Blackrock Tracker,23 - 24,Humanoid
+14273,Boulderheart,25 Rare,Giant
+3096,Captured Servant of Azora,22,Humanoid
+616,Chatter,23 Rare,Beast
+343,Chef Breanna,19,Humanoid
+2697,Clyde Ranthal,31,Humanoid
+349,Corporal Keeshan,25 Elite,Humanoid
+3087,Crystal Boughman,22,Humanoid
+379,Darcy,15,Humanoid
+1070,Deputy Feldon,33,Humanoid
+428,Dire Condor,18 - 19,Beast
+381,Dockmaster Baren,20,Humanoid
+956,Dorin Songblade,22,Humanoid
+8963,Effsee,1,Critter
+850,Erin,5,Humanoid
+341,Foreman Oslow,20,Humanoid
+3091,Franklin Hamar,26,Humanoid
+334,Gath'Ilzogg,26 Elite,Humanoid
+3090,Gerald Crawley,25,Humanoid
+3085,Gloria Femmel,20,Humanoid
+505,Greater Tarantula,19 - 20,Beast
+3086,Gretchen Vogel,20,Humanoid
+936,Guard Adams,35,Humanoid
+932,Guard Ashlock,35,Humanoid
+859,Guard Berton,33,Humanoid
+934,Guard Clarke,35,Humanoid
+933,Guard Hiett,35,Humanoid
+903,Guard Howe,30,Humanoid
+464,Guard Parker,30,Humanoid
+935,Guard Pearce,35,Humanoid
+851,Hannah,5,Humanoid
+3088,Henry Chapal,25,Humanoid
+8962,Hilary,1,Humanoid
+385,Horse,5,Critter
+6727,Innkeeper Brianna,30,Humanoid
+5608,Jamin,1,Humanoid
+793,Kara Adams,25,Humanoid
+790,Karen Taylor,22,Humanoid
+584,Kazon,27 Rare,Humanoid
+789,Kimberly Hiett,20,Humanoid
+14357,Lake Thresher,25 Elite,Beast
+10037,Lakeshire Guard,55,Humanoid
+1671,Lamar Veisilli,25,Humanoid
+703,Lieutenant Fangore,26,Humanoid
+791,Lindsay Ashlock,20,Humanoid
+6966,Lucius,20,Humanoid
+848,Madison,5,Humanoid
+344,Magistrate Solomon,36,Humanoid
+382,Marshal Marris,35,Humanoid
+342,Martie Jainrose,20,Humanoid
+1680,Matthew Hooper,10,Humanoid
+2531,Minion of Morganth,30,Undead
+397,Morganth,27 Elite,Humanoid
+422,Murloc Flesheater,18 - 19,Humanoid
+548,Murloc Minor Tidecaller,17 - 18,Humanoid
+544,Murloc Nightcrawler,21 - 22,Humanoid
+578,Murloc Scout,19 - 20,Humanoid
+1083,Murloc Shorestriker,16 - 17,Humanoid
+545,Murloc Tidecaller,19 - 20,Humanoid
+6728,Narnie,1,Beast
+847,Nathan,5,Humanoid
+9982,Penny,30,Humanoid
+434,Rabid Shadowhide Gnoll,21 - 22,Humanoid
+849,Rachel,3,Humanoid
+445,Redridge Alpha,21 - 22,Humanoid
+446,Redridge Basher,19 - 20,Humanoid
+426,Redridge Brute,17 - 18,Humanoid
+580,Redridge Drudger,20 - 21,Humanoid
+423,Redridge Mongrel,15 - 16,Humanoid
+430,Redridge Mystic,18 - 19,Humanoid
+424,Redridge Poacher,16 - 17,Humanoid
+712,Redridge Thrasher,14 - 15,Humanoid
+11382,Bloodlord Mandokir,?? Boss,Humanoid
+15114,Gahz'ranka,?? Boss,Uncategorized
+14834,Hakkar,?? Boss,Uncategorized
+14509,High Priest Thekal,?? Boss,Humanoid
+14507,High Priest Venoxis,?? Boss,Humanoid
+14515,High Priestess Arlokk,?? Boss,Humanoid
+14517,High Priestess Jeklik,?? Boss,Humanoid
+11380,Jin'do the Hexxer,?? Boss,Humanoid
+15082,Gri'lek,?? Boss,Undead
+15083,Hazza'rah,?? Boss,Undead
+14510,High Priestess Mar'li,?? Boss,Humanoid
+15084,Renataki,?? Boss,Undead
+15085,Wushoolay,?? Boss,Undead
+15956,Anub'Rekhan,?? Boss,Undead
+15932,Gluth,?? Boss,Undead
+16060,Gothik the Harvester,?? Boss,Undead
+15953,Grand Widow Faerlina,?? Boss,Humanoid
+15931,Grobbulus,?? Boss,Undead
+15936,Heigan the Unclean,?? Boss,Undead
+16062,Highlord Mograine,?? Boss,Undead
+16061,Instructor Razuvious,?? Boss,Undead
+15990,Kel'Thuzad,?? Boss,Undead
+16065,Lady Blaumeux,?? Boss,Undead
+16011,Loatheb,?? Boss,Undead
+15952,Maexxna,?? Boss,Beast
+15954,Noth the Plaguebringer,?? Boss,Undead
+16028,Patchwerk,?? Boss,Undead
+15989,Sapphiron,?? Boss,Undead
+16063,Sir Zeliek,?? Boss,Undead
+15928,Thaddius,?? Boss,Undead
+16064,Thane Korth'azz,?? Boss,Undead
+3126,Armored Scorpid,7 - 8,Beast
+3373,Arnok,35,Humanoid
+3350,Asoran,30,Humanoid
+7792,Aturk the Anvil,50,Humanoid
+9856,Auctioneer Grimful,50,Humanoid
+8673,Auctioneer Thathung,50,Humanoid
+8724,Auctioneer Wabang,50,Humanoid
+5611,Barkeep Morag,13,Humanoid
+4485,Belgrom Rockmaul,35,Humanoid
+7565,Black Kingsnake,1,Beast
+11178,Borgosh Corebender,51,Humanoid
+3368,Borstan,30,Humanoid
+3364,Borya,30,Humanoid
+14182,Bounty Hunter Kolark,60,Humanoid
+3890,Brakgul Deathbringer,61 Elite,Humanoid
+5195,Brown Riding Wolf,10,Beast
+7562,Brown Snake,1,Beast
+5909,Cazul,40,Humanoid
+5639,Craven Drok,35,Humanoid
+7567,Crimson Snake,1,Beast
+5885,Deino,40,Humanoid
+15006,Deze Snowbane,61 Elite,Humanoid
+12351,Dire Riding Wolf,10,Beast
+3310,Doras,55 Elite,Humanoid
+5613,Doyo'da,11,Humanoid
+6986,Dran Droffers,45,Humanoid
+3144,Eitrigg,20,Humanoid
+5883,Enyo,50,Humanoid
+3367,Felika,30,Humanoid
+13842,Frostwolf Ambassador Rokhstrom,60,Humanoid
+4043,Galthuk,8,Humanoid
+6466,Gamon,12,Humanoid
+5875,Gan'rul Bloodeye,40,Humanoid
+5188,Garyl,30,Humanoid
+3327,Gest,40,Humanoid
+3345,Godan,35,Humanoid
+5606,Goma,12,Humanoid
+3358,Gorina,30,Humanoid
+3369,Gotri,30,Humanoid
+3353,Grezz Ragefist,60,Humanoid
+11871,Grinning Dog,48 Elite,Beast
+3324,Grol'dar,50,Humanoid
+5597,Grunt Komak,38,Humanoid
+5603,Grunt Mojka,38,Humanoid
+3335,Hagrus,30,Humanoid
+2704,Hanashi,50,Humanoid
+3316,Handor,30,Humanoid
+14720,High Overlord Saurfang,62 Elite,Humanoid
+14499,Horde Orphan,1 - 3,Humanoid
+3323,Horthus,30,Humanoid
+6929,Innkeeper Gryshka,30,Humanoid
+3404,Jandi,35,Humanoid
+8659,Jes'rimon,50,Humanoid
+11066,Jhag,26,Humanoid
+3410,Jin'sora,30,Humanoid
+3322,Kaja,30,Humanoid
+5811,Kamari,26,Humanoid
+3344,Kardris Dreamseeker,60,Humanoid
+3331,Kareth,30,Humanoid
+3365,Karolek,35,Humanoid
+14942,Kartra Bloodsnarl,61 Elite,Humanoid
+3309,Karus,45,Humanoid
+5816,Katis,30,Humanoid
+5640,Keldran,38,Humanoid
+7231,Kelgruk Bloodaxe,60,Humanoid
+4752,Kildar,50,Humanoid
+3359,Kiro,30,Humanoid
+3346,Kithas,35,Humanoid
+8122,Kizzak Sparks,24,Humanoid
+3318,Koma,45,Humanoid
+3348,Kor'geld,30,Humanoid
+3189,Kor'ghan,7,Humanoid
+3329,Kor'jus,30,Humanoid
+14304,Kor'kron Elite,60,Humanoid
+3360,Koru,30,Humanoid
+5610,Kozish,12,Humanoid
+11176,Krathok Moltenfist,53,Humanoid
+5815,Kurgul,45,Humanoid
+3332,Lumak,35,Humanoid
+3363,Magar,35,Humanoid
+3351,Magenius,30,Humanoid
+3357,Makaru,35,Humanoid
+6987,Malton Droffers,40,Humanoid
+3325,Mirket,50,Humanoid
+3321,Morgum,30,Humanoid
+3330,Muragus,30,Humanoid
+3230,Nazgrel,62,Humanoid
+3216,Neeru Fireblade,37,Humanoid
+3412,Nogg,35,Humanoid
+15765,Officer Redblade,55,Humanoid
+15761,Officer Vu'Shalay,55,Humanoid
+3362,Ogunaro Wolfrunner,45,Humanoid
+246,"""Auntie"" Bernice Stonefield",6,Humanoid
+1632,Adele Fielder,22,Humanoid
+1215,Alchemist Mallory,26,Humanoid
+2046,Andrew Krighton,8,Humanoid
+11996,Ashley Bridenbecker,1,Humanoid
+465,Barkeep Dobbins,10,Humanoid
+247,Billy Maclure,1,Humanoid
+797,Bo,1,Humanoid
+7385,Bombay,1,Beast
+151,Brog Hamfist,10,Humanoid
+152,Brother Danil,5,Humanoid
+952,Brother Neals,50,Humanoid
+951,Brother Paxton,27,Humanoid
+925,Brother Sammuel,5,Humanoid
+927,Brother Wilhelm,11,Humanoid
+6368,Cat,1,Critter
+5917,Clara Charles,1 - 2,Humanoid
+54,Corina Steele,10,Humanoid
+7384,Cornish Rex,1,Beast
+6374,Cylina Darkheart,11,Humanoid
+6373,Dane Winslow,8,Humanoid
+958,Dawn Brightstar,35,Humanoid
+6093,Dead-Tooth Jack,11,Humanoid
+583,Defias Ambusher,8 - 9,Humanoid
+116,Defias Bandit,8 - 9,Humanoid
+6866,Defias Bodyguard,10,Humanoid
+94,Defias Cutpurse,5 - 6,Humanoid
+6846,Defias Dockmaster,10,Humanoid
+6927,Defias Dockworker,8 - 9,Humanoid
+474,Defias Rogue Wizard,9 - 10,Humanoid
+38,Defias Thug,3 - 4,Humanoid
+963,Deputy Rainer,10,Humanoid
+823,Deputy Willem,18,Humanoid
+190,Dermot Johns,5,Humanoid
+6367,Donni Anthania,5,Humanoid
+1250,Drake Lindgren,10,Humanoid
+459,Drusilla La Salle,5,Humanoid
+196,Eagan Peltskinner,3,Humanoid
+1975,Eastvale Lumberjack,7 - 8,Humanoid
+11328,Eastvale Peasant,6 - 7,Humanoid
+1103,Eldrin,22,Humanoid
+801,Eric,1,Humanoid
+880,Erlan Drudgemoor,8,Humanoid
+6749,Erma,30,Humanoid
+14390,Expeditionary Mountaineer,36 - 40 Elite,Humanoid
+14393,Expeditionary Priest,37 - 42 Elite,Humanoid
+6774,Falkhaan Isenstrider,10,Humanoid
+890,Fawn,1,Critter
+472,Fedfennel,12 Rare,Humanoid
+30,Forest Spider,5 - 6,Beast
+103,Garrick Padfoot,5,Humanoid
+255,Gerard Tiller,6,Humanoid
+1213,Godric Rothgar,5,Humanoid
+327,Goldtooth,8,Humanoid
+248,Gramma Stonefield,3,Humanoid
+1922,Gray Forest Wolf,7 - 8,Beast
+100,Gruff Swiftbite,12 Rare,Humanoid
+12423,Guard Roberts,7,Humanoid
+261,Guard Thomas,30,Humanoid
+6306,Helene Peltskinner,12,Humanoid
+6172,Henze Faulk,10,Humanoid
+1218,Herbalist Pomeroy,10,Humanoid
+894,Homer Stonefield,5,Humanoid
+295,Innkeeper Farley,30,Humanoid
+13159,James Clark,12,Humanoid
+78,Janos Hammerknuckle,5,Humanoid
+383,Jason Mathers,7,Humanoid
+802,Jay,1,Humanoid
+806,John,1,Humanoid
+915,Jorik Kerridan,5,Humanoid
+811,Jose,1,Humanoid
+796,Joshua,1,Humanoid
+258,Joshua Maclure,5,Humanoid
+384,Katie Hunter,10,Humanoid
+917,Keryn Sylvius,11,Humanoid
+799,Kevin,1,Humanoid
+198,Khelden Bremen,5,Humanoid
+11979,Kim Bridenbecker,25,Humanoid
+3937,Kira Songshine,12,Humanoid
+11072,Kitta Firewind,44,Humanoid
+476,Kobold Geomancer,7 - 8,Humanoid
+80,Kobold Laborer,3 - 4,Humanoid
+40,Kobold Miner,6 - 7,Humanoid
+475,Kobold Tunneler,5 - 6,Humanoid
+6,Kobold Vermin,1 - 2,Humanoid
+257,Kobold Worker,3,Humanoid
+2918,Advisor Belgrum,40,Humanoid
+5173,Alexander Calder,60,Humanoid
+14183,Artilleryman Sheldonore,60,Humanoid
+8671,Auctioneer Buckler,50,Humanoid
+9859,Auctioneer Lympkin,50,Humanoid
+8720,Auctioneer Redmuse,50,Humanoid
+2461,Bailey Stonemantle,45,Humanoid
+6291,Balthus Stoneflayer,35,Humanoid
+5110,Barim Jurgenstaad,30,Humanoid
+2460,Barnum Stonemantle,45,Humanoid
+5148,Beldruk Doombrow,50,Humanoid
+10090,Belia Thundergranite,40,Humanoid
+4258,Bengus Deepforge,45,Humanoid
+5114,Bilban Tosslespanner,45,Humanoid
+7978,Bimble Longberry,30,Humanoid
+5152,Bingus,30,Humanoid
+5144,Bink,40,Humanoid
+10455,Binny Springblade,40,Humanoid
+13084,Bixi Wobblebonk,50 Elite,Humanoid
+5128,Bombus Finespindle,30,Humanoid
+5142,Braenna Flintcrag,50,Humanoid
+5149,Brandur Ironhammer,50,Humanoid
+5120,Brenwyn Wintersteel,30,Humanoid
+5123,Bretta Goldfury,30,Humanoid
+5172,Briarthorn,50,Humanoid
+3842,Brombar Higgleby,40,Humanoid
+5106,Bromiir Ormsen,30,Humanoid
+5570,Bruuk Barleybeard,50,Humanoid
+5101,Bryllia Ironbrand,30,Humanoid
+14724,Bubulo Acerbus,35,Humanoid
+11865,Buliwyf Stonehand,50 Elite,Humanoid
+5163,Burbik Gearspanner,30,Humanoid
+10877,Courier Hammerfall,3,Humanoid
+8256,Curator Thorius,45,Humanoid
+5115,Daera Brightspear,60,Humanoid
+5159,Daryl Riknussun,35,Humanoid
+7298,Demnul Farmountain,45,Humanoid
+7292,Dinita Stonemantle,55,Humanoid
+7312,Dink,40,Humanoid
+5125,Dolkin Craghelm,30,Humanoid
+5102,Dolman Steelfury,30,Humanoid
+857,Donal Osgood,61 Elite,Humanoid
+2737,Durtham Greldon,40,Humanoid
+5140,Edris Barleybeard,30,Humanoid
+5160,Emrul Riknussun,30,Humanoid
+5167,Fenthwick,40,Humanoid
+5100,Fillius Fizzlespinner,30,Humanoid
+5127,Fimble Finespindle,35,Humanoid
+5569,Fizzlebang Booms,40,Humanoid
+5175,Gearcutter Cogspinner,30,Humanoid
+4254,Geofram Bouldertoe,35,Humanoid
+2786,Gerrig Bonegrip,30,Humanoid
+5157,Gimble Thistlefuzz,35,Humanoid
+5151,Ginny Longberry,30,Humanoid
+12197,Glordrum Steelbeard,61 Elite,Humanoid
+6569,Gnoarn,20,Humanoid
+4256,Golnir Bouldertoe,30,Humanoid
+2790,Grand Mason Marblesten,44,Humanoid
+5103,Grenil Steelfury,30,Humanoid
+1466,Gretta Finespindle,24,Humanoid
+5161,Grimnur Stonebrand,35,Humanoid
+10277,Groum Stonebeard,25,Humanoid
+5164,Grumnus Steelshaper,60,Humanoid
+1573,Gryth Thurden,55 Elite,Humanoid
+5112,Gwenna Firebrew,30,Humanoid
+5138,Gwina Stonebranch,30,Humanoid
+2915,Hammertoe's Spirit,40,Humanoid
+5133,Harick Boulderdrum,30,Humanoid
+5119,Hegnar Swiftaxe,30,Humanoid
+5387,High Explorer Magellas,60,Humanoid
+11406,High Priest Rohan,60,Humanoid
+7937,High Tinker Mekkatorque,?? Boss,Humanoid
+2916,Historian Karnik,20,Humanoid
+5170,Hjoldir Stoneblade,30,Humanoid
+5165,Hulfdan Blackbeard,60,Humanoid
+5155,Ingrys Stonebrow,30,Humanoid
+5111,Innkeeper Firebrew,30,Humanoid
+11146,Ironus Coldsteel,54,Humanoid
+11028,Jemma Quikswitch,24,Humanoid
+6175,John Turner,8,Humanoid
+5130,Jondor Steelbrow,60,Humanoid
+5153,Jormund Stonebrow,35,Humanoid
+6382,Jubahl Corpseseeker,60,Humanoid
+5145,Juli Stormkettle,50,Humanoid
+15353,Katrina Shimmerstar,30,Humanoid
+5121,Kelomir Ironhand,30,Humanoid
+1901,Kelstrum Stonebreaker,45,Humanoid
+5113,Kelv Sternhammer,45,Humanoid
+2784,King Magni Bronzebeard,?? Boss,Humanoid
+6169,Klockmort Spannerspan,43 - 45,Humanoid
+6294,Krom Stoutarm,20,Humanoid
+6120,Lago Blackwrench,30,Humanoid
+9616,Laris Geardawdle,50,Humanoid
+3979,Librarian Mae Paledust,30,Humanoid
+13843,Lieutenant Rotimer,60,Humanoid
+5129,Lissyphus Finespindle,30,Humanoid
+4081,Lomac Gearstrip,29,Humanoid
+13116,Alliance Spirit Guide,Elite,Humanoid
+10990,Alterac Ram,,Beast
+13442,Arch Druid Renferal,Elite,Humanoid
+14187,Athramanis,,Humanoid
+4255,Brogus Thunderbrew,,Humanoid
+11949,Captain Balinda Stonehearth,Elite,Humanoid
+11947,Captain Galvangar,Elite,Humanoid
+13422,Champion Defender,,Humanoid
+13421,Champion Guardian,,Humanoid
+13554,Champion Irondeep Guard,,Humanoid
+13140,Commander Dardosh,Elite,Humanoid
+13319,Commander Duffy,Elite,Humanoid
+13320,Commander Karl Philips,Elite,Humanoid
+13154,Commander Louis Philips,Elite,Humanoid
+13152,Commander Malgor,Elite,Humanoid
+13318,Commander Mortimer,Elite,Humanoid
+13153,Commander Mulfort,Elite,Humanoid
+13139,Commander Randolph,Elite,Humanoid
+13447,Corporal Noreg Stormpike,Elite,Humanoid
+14188,Dirk Swindle,,Humanoid
+12121,Draka,Elite,Beast
+11946,Drek'Thar,Elite,Humanoid
+13443,Druid of the Grove,Elite,Humanoid
+14762,Dun Baldar North Marshal,Elite,Humanoid
+14770,Dun Baldar North Warmaster,Elite,Humanoid
+14763,Dun Baldar South Marshal,Elite,Humanoid
+14771,Dun Baldar South Warmaster,Elite,Humanoid
+12122,Duros,Elite,Beast
+14768,East Frostwolf Marshal,Elite,Humanoid
+10981,Frostwolf,,Beast
+14282,Frostwolf Bloodhound,,Beast
+13359,Frostwolf Bowman,,Humanoid
+12053,Frostwolf Guardian,,Humanoid
+12051,Frostwolf Legionnaire,,Humanoid
+12097,Frostwolf Quartermaster,,Humanoid
+13284,Frostwolf Shaman,Elite,Humanoid
+13616,Frostwolf Stable Master,Elite,Humanoid
+13441,Frostwolf Wolf Rider Commander,Elite,Humanoid
+13216,Gaelden Hammersmith,Elite,Humanoid
+3343,Grelkor,,Humanoid
+13218,Grunnda Wolfheart,Elite,Humanoid
+13117,Horde Spirit Guide,Elite,Humanoid
+14766,Iceblood Marshal,Elite,Humanoid
+14774,Icewing Warmaster,Elite,Humanoid
+13080,Irondeep Guard,,Humanoid
+13396,Irondeep Miner,,Humanoid
+13397,Irondeep Peon,,Humanoid
+11600,Irondeep Shaman,,Humanoid
+11602,Irondeep Skullthumper,,Humanoid
+13098,Irondeep Surveyor,,Humanoid
+10987,Irondeep Trogg,,Humanoid
+13419,Ivus the Forest Lord,?? Boss,Humanoid
+5134,Jonivera Farmountain,,Humanoid
+13798,Jotek,Elite,Humanoid
+13079,Keetar,,Humanoid
+5139,Kurdrum Barleybeard,,Humanoid
+4257,Lana Thunderbrew,,Humanoid
+13298,Lieutenant Greywand,Elite,Humanoid
+13145,Lieutenant Grummus,Elite,Undead
+13296,Lieutenant Largent,Elite,Humanoid
+13147,Lieutenant Lewis,Elite,Humanoid
+13299,Lieutenant Lonadin,Elite,Humanoid
+13146,Lieutenant Murp,Elite,Undead
+13137,Lieutenant Rugba,Elite,Humanoid
+13138,Lieutenant Spencer,Elite,Humanoid
+13297,Lieutenant Stouthandle,Elite,Humanoid
+13143,Lieutenant Stronghoof,Elite,Humanoid
+13144,Lieutenant Vol'talar,Elite,Humanoid
+13256,Lokholar the Ice Lord,?? Boss,Elemental
+11657,Morloch,,Humanoid
+13797,Mountaineer Boombellow,Elite,Humanoid
+13257,Murgot Deepforge,Elite,Humanoid
+14185,Najak Hexxen,,Humanoid
+13236,Primalist Thurloga,Elite,Humanoid
+3625,Rarck,,Humanoid
+14186,Ravak Grimtotem,,Humanoid
+13326,Seasoned Defender,,Humanoid
+13328,Seasoned Guardian,,Humanoid
+13552,Seasoned Irondeep Guard,,Humanoid
+13555,Seasoned Irondeep Surveyor,,Humanoid
+13448,Sergeant Yazra Bloodsnarl,,Humanoid
+10367,Shrye Ragefist,,Humanoid
+13176,Smith Regzar,Elite,Humanoid
+11678,Snowblind Ambusher,,Humanoid
+10986,Snowblind Harpy,,Humanoid
+11675,Snowblind Windcaller,,Humanoid
+14775,Stonehearth Warmaster,Elite,Humanoid
+13358,Stormpike Bowman,,Humanoid
+12050,Stormpike Defender,,Humanoid
+12127,Stormpike Guardsman,,Humanoid
+14283,Stormpike Owl,,Beast
+12096,Stormpike Quartermaster,,Humanoid
+13576,Stormpike Ram Rider,Elite,Humanoid
+13577,Stormpike Ram Rider Commander,Elite,Humanoid
+13617,Stormpike Stable Master,Elite,Humanoid
+5135,Svalbrad Farmountain,,Humanoid
+11677,Taskmaster Snivvle,,Humanoid
+14767,Tower Point Marshal,Elite,Humanoid
+2302,Aethalas,61 Elite,Humanoid
+4160,Ainethil,46,Humanoid
+3562,Alaindia,30,Humanoid
+10056,Alassin,30,Humanoid
+4210,Alegorn,35,Humanoid
+4172,Anadyia,30,Humanoid
+3468,Ancient of Lore,62,Humanoid
+3469,Ancient of War,62,Humanoid
+2041,Ancient Protector,60,Giant
+4234,Andrus,30,Humanoid
+4215,Anishar,50,Humanoid
+3516,Arch Druid Fandral Staghelm,?? Boss,Humanoid
+4784,Argent Guard Manados,23,Humanoid
+4087,Arias'ta Bladesinger,60,Humanoid
+4203,Ariyell Skyshadow,30,Humanoid
+4156,Astaia,35,Humanoid
+4090,Astarii Starseeker,60,Humanoid
+15679,Auctioneer Cazarez,50,Humanoid
+8723,Auctioneer Golothas,50,Humanoid
+15678,Auctioneer Silva'las,50,Humanoid
+8669,Auctioneer Tolon,50,Humanoid
+5118,Brogun Stoneshield,61 Elite,Humanoid
+4240,Caynrus,30,Humanoid
+4216,Chardryn,30,Humanoid
+2912,Chief Archaeologist Greywhisker,40,Humanoid
+7296,Corand,35,Humanoid
+5782,Crildor,55 Elite,Humanoid
+4164,Cylania,30,Humanoid
+4236,Cyridan,30,Humanoid
+4220,Cyroen,30,Humanoid
+4211,Dannelor,35,Humanoid
+11083,Darianna,24,Humanoid
+4423,Darnassian Protector,55,Elemental
+4262,Darnassus Sentinel,55,Humanoid
+7315,Darnath Bladesinger,55,Humanoid
+4783,Dawnwatcher Selgorm,25,Humanoid
+4786,Dawnwatcher Shaedlass,22,Humanoid
+4218,Denatharion,50,Humanoid
+4167,Dendrythis,30,Humanoid
+4205,Dorion,50,Humanoid
+4180,Ealyshia Dewwhisper,50,Humanoid
+6292,Eladriel,35,Humanoid
+4088,Elanaria,62,Humanoid
+4165,Elissa Dumas,35,Humanoid
+5047,Ellaercia,30,Humanoid
+4170,Ellandrieth,30,Humanoid
+4168,Elynna,30,Humanoid
+4214,Erion Shadewhisper,60,Humanoid
+2796,Faelyssa,35,Humanoid
+11081,Faldron,32,Humanoid
+4204,Firodren Mooncaller,35,Humanoid
+4242,Frostsaber Companion,50,Beast
+4223,Fyldan,30,Humanoid
+4219,Fylerian Nightwing,40,Humanoid
+4181,Fyrenna,30,Humanoid
+4209,Garryeth,45,Humanoid
+4232,Glorandiir,30,Humanoid
+7740,Gracina Spiritmight,55,Humanoid
+7553,Great Horned Owl,1,Beast
+7555,Hawk Owl,1,Beast
+10878,Herald Moonstalker,3,Humanoid
+14380,Huntress Leafrunner,60 Elite,Humanoid
+14379,Huntress Ravenoak,60 Elite,Humanoid
+14378,Huntress Skymane,60 Elite,Humanoid
+4155,Idriana,45,Humanoid
+11866,Ilyenia Moonfire,50 Elite,Humanoid
+6735,Innkeeper Saelienne,30,Humanoid
+4169,Jaeana,30,Humanoid
+4091,Jandria,50,Humanoid
+11709,Jareth Wildwoods,16,Humanoid
+4753,Jartsam,45,Humanoid
+4138,Jeen'ra Nightrunner,60,Humanoid
+9047,Jenal,5,Humanoid
+4146,Jocaste,40,Humanoid
+907,Keras Wolfheart,61 Elite,Humanoid
+4231,Kieran,30,Humanoid
+3561,Kyrai,30,Humanoid
+4208,Lairn,45,Humanoid
+11070,Lalina Summermoon,27,Humanoid
+4173,Landria,30,Humanoid
+4092,Lariia,40,Humanoid
+4730,Lelanai,35,Humanoid
+6034,Lotherias,35,Humanoid
+4161,Lysheana,60,Humanoid
+6142,Mathiel,33,Humanoid
+4217,Mathrengyl Bearwalker,60,Humanoid
+4159,Me'lynn,35,Humanoid
+4177,Melea,30,Humanoid
+4171,Merelyssa,30,Humanoid
+11041,Milla Fairancora,24,Humanoid
+4241,Mydrannul,30,Humanoid
+4233,Mythidan,30,Humanoid
+4229,Mythrin'dir,30,Humanoid
+4243,Nightshade,50,Beast
+15762,Officer Lunalight,55,Humanoid
+7313,Priestess A'moora,20,Humanoid
+11401,Priestess Alathea,60,Humanoid
+14725,Raedon Duskstriker,35,Humanoid
+4604,Abigail Sawyer,30,Humanoid
+4606,Aelthalyste,60,Undead
+7683,Alessandro Luca,35,Humanoid
+4610,Algernon,30,Undead
+5665,Alyssa Blaye,20,Humanoid
+4568,Anastasia Hartwell,40,Humanoid
+2308,Andrew Brownell,40,Humanoid
+5659,Andrew Hartwell,20,Humanoid
+6522,Andron Gant,15,Humanoid
+4594,Angela Curthas,50,Humanoid
+10053,Anya Maulray,30,Humanoid
+5732,Apothecary Katrina,20,Humanoid
+5734,Apothecary Keever,20,Humanoid
+5733,Apothecary Lycanus,20,Humanoid
+5731,Apothecary Vallia,20,Humanoid
+5204,Apothecary Zinge,29,Humanoid
+11870,Archibald,50 Elite,Humanoid
+4573,Armand Cromwell,35,Humanoid
+4588,Arthur Moore,35,Humanoid
+15682,Auctioneer Cain,50,Humanoid
+8721,Auctioneer Epitwee,50,Humanoid
+8672,Auctioneer Leeka,50,Humanoid
+15683,Auctioneer Naxxremis,50,Humanoid
+15686,Auctioneer Rhyker,50,Humanoid
+15675,Auctioneer Stockton,50,Humanoid
+15684,Auctioneer Tricket,50,Humanoid
+15676,Auctioneer Yarly,50,Humanoid
+4595,Baltus Fowler,40,Humanoid
+4605,Basil Frye,26,Humanoid
+4602,Benijah Fenner,30,Humanoid
+1498,Bethor Iceshard,60,Humanoid
+4612,Boyle,30,Undead
+4598,Brom Killian,35,Humanoid
+5661,Brother Malach,20,Humanoid
+5738,Caged Dwarf Male,5,Humanoid
+5735,Caged Human Female,5,Humanoid
+5736,Caged Human Male,5,Humanoid
+5687,Captive Abomination,20,Undead
+5685,Captive Ghoul,10,Undead
+5686,Captive Zombie,8,Undead
+5675,Carendin Halgar,50,Humanoid
+4582,Carolyn Ward,40,Humanoid
+5744,Cedric Stumpel,20,Humanoid
+4569,Charles Seaton,30,Humanoid
+8390,Chemist Cuely,30,Humanoid
+10136,Chemist Fuely,30,Humanoid
+5658,Chloe Curthas,20,Humanoid
+4593,Christoph Walker,60,Humanoid
+4613,Christopher Drakul,50,Humanoid
+7395,Cockroach,1,Beast
+223,Dan Golthas,23,Humanoid
+4561,Daniel Bartlett,30,Humanoid
+5706,Davitt Hickson,20,Humanoid
+4611,Doctor Herbert Halsey,50,Humanoid
+4609,Doctor Marsh,35,Humanoid
+11044,Doctor Martin Felben,25,Humanoid
+5670,Edrick Killian,20,Humanoid
+5654,Edward,20,Humanoid
+5052,Edward Remington,25,Humanoid
+5664,Eldin Partridge,20,Humanoid
+4555,Eleanor Rusk,30,Humanoid
+4587,Elizabeth Van Talen,30,Humanoid
+6566,Estelle Gendry,25,Humanoid
+4552,Eunice Burch,35,Humanoid
+4585,Ezekiel Graves,30,Humanoid
+4607,Father Lankester,40,Humanoid
+4608,Father Lazarus,50,Humanoid
+4775,Felicia Doan,30,Humanoid
+5681,Female Human Captive,7,Humanoid
+4601,Francis Eliot,30,Humanoid
+11031,Franklin Lloyd,33,Humanoid
+11750,Ganoosh,8,Humanoid
+4486,Genavie Callow,32,Humanoid
+4600,Geoffrey Hartwell,30,Humanoid
+5696,Gerard Abernathy,40,Humanoid
+5820,Gillian Moore,30,Humanoid
+5693,Godrick Farsan,15,Humanoid
+4556,Gordon Wendham,30,Humanoid
+7297,Gothard Winslow,35,Humanoid
+4586,Graham Van Talen,26,Humanoid
+4584,Gregory Charles,60,Humanoid
+347,Grizzle Halfmane,61 Elite,Humanoid
+5666,Gunther's Visage,53,Humanoid
+4575,Hannah Akeley,30,Humanoid
+10879,Harbinger Balthazad,3,Humanoid
+5669,Helena Atwood,20,Humanoid
+5747,Hepzibah Sedgewick,20,Humanoid
+6741,Innkeeper Norman,30,Humanoid
+4596,James Van Brunt,35,Humanoid
+8403,Jeremiah Payson,30,Humanoid
+5702,Jezelle Pruitt,40,Humanoid
+5726,Jezelle's Felhunter,30,Demon
+5727,Jezelle's Felsteed,40,Demon
+5730,Jezelle's Imp,,Demon
+5728,Jezelle's Succubus,40,Demon
+5729,Jezelle's Voidwalker,40,Demon
+5698,Joanna Whitehall,40,Humanoid
+4590,Jonathan Chambers,30,Humanoid
+8359,Ahanu,30,Humanoid
+11869,Ansekhwa,50 Elite,Humanoid
+3419,Apothecary Zamah,22,Humanoid
+5769,Arch Druid Hamuul Runetotem,62,Humanoid
+3047,Archmage Shymm,60,Humanoid
+3026,Aska Mistrunner,45,Humanoid
+8357,Atepa,45,Humanoid
+8722,Auctioneer Gullem,50,Humanoid
+8674,Auctioneer Stampi,50,Humanoid
+4451,Auld Stonespire,28,Humanoid
+9087,Bashana Runetotem,35,Humanoid
+3009,Bena Winterhoof,35,Humanoid
+3032,Beram Skychaser,60,Humanoid
+5957,Birgitte Cranston,45,Humanoid
+10881,Bluff Runner Windstrider,3,Humanoid
+3084,Bluffwatcher,55,Humanoid
+3001,Brek Stonehoof,35,Humanoid
+10054,Bulrug,30,Humanoid
+3057,Cairne Bloodhoof,?? Boss,Humanoid
+8361,Chepi,30,Humanoid
+8356,Chesmu,45,Humanoid
+5543,Clarice Foster,17,Humanoid
+4310,Cor Grimtotem,62,Humanoid
+3019,Delgo Ragetotem,30,Humanoid
+8360,Elki,30,Humanoid
+3020,Etu Ragetotem,30,Humanoid
+2987,Eyahn Eagletalon,12,Humanoid
+3046,Father Cobb,60,Humanoid
+3095,Fela,30,Humanoid
+3035,Flatland Cougar,7 - 8,Beast
+3566,Flatland Prowler,9,Beast
+3003,Fyr Mistrunner,30,Humanoid
+9076,Ghede,25,Humanoid
+3056,Ghost Howl,12 Rare,Beast
+4309,Gorm Grimtotem,62,Humanoid
+3093,Grod,30,Humanoid
+8401,Halpa,30,Humanoid
+6393,Henen Ragetotem,62,Humanoid
+10086,Hesuwa Thunderhorn,40,Humanoid
+8358,Hewa,30,Humanoid
+3018,Hogor Thunderhoof,30,Humanoid
+3039,Holt Thunderhorn,60,Humanoid
+3083,Honor Guard,60,Humanoid
+14441,Hunter Ragetotem,60 Elite,Humanoid
+14440,Hunter Sagewind,60 Elite,Humanoid
+14442,Hunter Thunderhorn,60 Elite,Humanoid
+6746,Innkeeper Pala,30,Humanoid
+2997,Jyn Stonehoof,30,Humanoid
+3025,Kaga Mistrunner,30,Humanoid
+3028,Kah Mistrunner,45,Humanoid
+3021,Kard Ragetotem,30,Humanoid
+2998,Karn Stonehoof,35,Humanoid
+3038,Kary Thunderhorn,50,Humanoid
+3043,Ker Ragetotem,40,Humanoid
+10360,Kergul Bloodaxe,61 Elite,Humanoid
+2972,Kodo Calf,7 - 8,Beast
+3013,Komin Winterhoof,35,Humanoid
+5599,Kon Yelloweyes,25,Humanoid
+11047,Kray,25,Humanoid
+5054,Krumn,50,Humanoid
+3015,Kuna Thunderhorn,30,Humanoid
+3002,Kurm Stonehoof,40,Humanoid
+8362,Kuruk,30,Humanoid
+3036,Kym Wildmane,40,Humanoid
+4046,Magatha Grimtotem,62,Humanoid
+3005,Mahu,30,Humanoid
+3008,Mak,24,Humanoid
+3045,Malakai Cross,50,Humanoid
+3010,Mani Winterhoof,30,Humanoid
+12198,Martin Lindsey,61 Elite,Humanoid
+3441,Melor Stonehoof,62,Humanoid
+3044,Miles Welsh,40,Humanoid
+7089,Mooranta,35,Humanoid
+4943,Mosarn,30,Humanoid
+11071,Mot Dawnstrider,21,Humanoid
+3027,Naal Mistrunner,40,Humanoid
+3017,Nan Mistrunner,30,Humanoid
+5770,Nara Wildmane,55,Humanoid
+3012,Nata Dawnstrider,30,Humanoid
+12383,Nibbles,,Critter
+3014,Nida Winterhoof,30,Humanoid
+15767,Officer Thunderstrider,55,Humanoid
+8398,Ohanko,30,Humanoid
+6410,Orm Stonehoof,45,Humanoid
+8364,Pakwa,30,Humanoid
+2798,Pand Stonebinder,35,Humanoid
+3447,Pawe Mistrunner,24,Humanoid
+2959,Prairie Stalker,7 - 8,Beast
+2960,Prairie Wolf Alpha,9 - 10,Beast
+11833,Rahauro,20,Humanoid
+14728,Rumstag Proudstrider,35,Humanoid
+8664,Saern Priderunner,50,Humanoid
+3978,Sage Truthseeker,30,Humanoid
+3042,Sark Ragetotem,60,Humanoid
+4068,Serpent Messenger,10,Beast
+3029,Sewa Mistrunner,40,Humanoid
+8363,Shadi Mistrunner,30,Humanoid
+3300,Adder,1,Critter
+3123,Bloodtalon Scythemaw,8 - 10,Beast
+3122,Bloodtalon Taillasher,6 - 8,Beast
+10578,Bom'bay,8,Humanoid
+3198,Burning Blade Apprentice,10 - 11,Humanoid
+3199,Burning Blade Cultist,10 - 11,Humanoid
+3197,Burning Blade Fanatic,9 - 10,Humanoid
+3196,Burning Blade Neophyte,9 - 10,Humanoid
+3195,Burning Blade Thug,8 - 9,Humanoid
+5887,Canaga Earthcaller,8,Humanoid
+5824,Captain Flat Tusk,11 Rare Elite,Humanoid
+3125,Clattering Scorpid,5 - 6,Beast
+3191,Cook Torka,6,Humanoid
+3227,Corrupted Bloodtalon Scythemaw,10 - 11,Beast
+3231,Corrupted Dreadmaw Crocolisk,11 - 12,Beast
+3225,Corrupted Mottled Boar,10 - 11,Beast
+3226,Corrupted Scorpid,10 - 11,Beast
+3228,Corrupted Surf Crawler,10 - 11,Beast
+3166,Cutac,14,Humanoid
+5823,Death Flayer,11 Rare,Beast
+5952,Den Grunt,55,Humanoid
+3172,Dhugru Gorelust,37,Humanoid
+3099,Dire Mottled Boar,6 - 7,Beast
+3110,Dreadmaw Crocolisk,9 - 11,Beast
+3158,Duokna,10,Humanoid
+3121,Durotar Tiger,7 - 8,Beast
+3115,Dustwind Harpy,7 - 8,Humanoid
+3116,Dustwind Pillager,7 - 8,Humanoid
+3117,Dustwind Savage,9 - 10,Humanoid
+3118,Dustwind Storm Witch,10 - 11,Humanoid
+3174,Dwukk,27,Humanoid
+3100,Elder Mottled Boar,8 - 9,Beast
+12346,Emerald Raptor,1 - 2,Beast
+3108,Encrusted Surf Crawler,9 - 10,Beast
+3102,Felstalker,3 - 4,Demon
+5822,Felweaver Scornn,11 Rare Elite,Humanoid
+3203,Fizzle Darkstorm,12,Humanoid
+3168,Flakk,15,Humanoid
+11378,Foreman Thazz'ril,4,Humanoid
+3153,Frang,11,Humanoid
+9564,Frezza,45,Humanoid
+3147,Furl Scornbrow,6,Humanoid
+9796,Galgar,8,Humanoid
+3139,Gar'Thok,10,Humanoid
+3204,Gazz'uz,14,Humanoid
+5826,Geolord Mottle,9 Rare,Humanoid
+3165,Ghrawt,13,Humanoid
+3143,Gornek,5,Humanoid
+3881,Grimtak,14,Humanoid
+12430,Grunt Kor'ja,7,Humanoid
+3933,Hai'zan,14,Humanoid
+3287,Hana'zua,2,Humanoid
+5951,Hare,1,Critter
+6607,Harroc,5,Humanoid
+3620,Harruk,40,Humanoid
+3207,Hexed Troll,8 - 9,Humanoid
+4311,Holgar Stormaxe,30,Humanoid
+15115,Honored Ancestor,60,Uncategorized
+12776,Hraug,9,Humanoid
+3160,Huklah,11,Humanoid
+6928,Innkeeper Grosk,30,Humanoid
+3164,Jark,14,Humanoid
+15012,Javnir Nashak,55,Humanoid
+3154,Jen'shan,8,Humanoid
+3186,K'waii,11,Humanoid
+11814,Kali Remik,12,Humanoid
+10176,Kaltunk,20,Humanoid
+3170,Kaplak,14,Humanoid
+3707,Ken'jai,10,Humanoid
+6027,Kitha,17,Humanoid
+3119,Kolkar Drudge,6 - 7,Humanoid
+3120,Kolkar Outrunner,7 - 8,Humanoid
+3175,Krunn,16,Humanoid
+3129,Kul Tiras Marine,6 - 7,Humanoid
+3128,Kul Tiras Sailor,5 - 6,Humanoid
+3159,Kzan Thornslash,34,Humanoid
+3140,Lar Prowltusk,7,Humanoid
+5941,Lau'Tiki,14,Humanoid
+10556,Lazy Peon,4,Humanoid
+3192,Lieutenant Benedict,8,Humanoid
+3131,Lightning Hide,10 - 11,Beast
+11943,Magga,5,Humanoid
+5884,Mai'ah,10,Humanoid
+13157,Makasgar,12,Humanoid
+3103,Makrura Clacker,6 - 7,Humanoid
+3141,Makrura Elder,8 - 9,Humanoid
+3104,Makrura Shellhide,6 - 7,Humanoid
+3105,Makrura Snapclaw,8 - 9,Humanoid
+3208,Margoz,18,Humanoid
+3188,Master Gadrin,12,Humanoid
+3304,Master Vornal,11,Humanoid
+3184,Miao'zan,25,Humanoid
+5891,Minor Manifestation of Earth,15,Elemental
+5893,Minor Manifestation of Fire,12,Elemental
+3193,Misha Tor'kren,5,Humanoid
+2162,Agal,8,Humanoid
+3606,Alanna Raveneye,29,Humanoid
+3608,Aldia,17,Humanoid
+3593,Alyissia,11,Humanoid
+3592,Andiss,10,Humanoid
+3607,Androl Oakhand,37,Humanoid
+2078,Athridas Bearmantle,11,Humanoid
+3596,Ayanna Everstride,10,Humanoid
+3535,Blackmoss the Fetid,13 Rare,Elemental
+2019,Bloodfeather Fury,9 - 10,Humanoid
+2015,Bloodfeather Harpy,8 - 9,Humanoid
+2021,Bloodfeather Matriarch,11,Humanoid
+2017,Bloodfeather Rogue,8 - 9,Humanoid
+2018,Bloodfeather Sorceress,9,Humanoid
+2020,Bloodfeather Wind Witch,9 - 10,Humanoid
+3569,Bogling,5,Elemental
+3611,Brannol Eaglemoon,16,Humanoid
+6094,Byancie,22,Humanoid
+2079,Conservator Ilthalaine,4,Humanoid
+3515,Corithras Moonrage,10,Humanoid
+3603,Cyndra Kindwhisper,28,Humanoid
+4266,Danlyia,17,Humanoid
+2004,Dark Sprite,6 - 7,Demon
+7907,Daryn Lightwind,30,Humanoid
+3601,Dazalar,20,Humanoid
+6091,Dellylah,9,Humanoid
+2080,Denalan,11,Humanoid
+8583,Dirania Silvershine,8,Humanoid
+14430,Duskstalker,9 Rare,Beast
+2033,Elder Nightsaber,8 - 9,Beast
+2030,Elder Timberling,10 - 11,Elemental
+2852,Enslaved Druid of the Talon,10,Humanoid
+7916,Erelas Ambersky,30,Humanoid
+2034,Feral Nightsaber,10 - 11,Beast
+7234,Ferocitas the Dream Eater,8,Humanoid
+15624,Forest Wisp,6 - 8,Uncategorized
+3594,Frahun Shadewhisper,11,Humanoid
+3591,Freja Nightwing,9,Humanoid
+14431,Fury Shelda,8 Rare,Humanoid
+2107,Gaerolas Talvethren,7,Humanoid
+2001,Giant Webwood Spider,10 - 11,Beast
+2082,Gilshalan Windwalker,9,Humanoid
+1994,Githyiss the Vile,5,Beast
+2152,Gnarlpine Ambusher,6 - 7,Humanoid
+2011,Gnarlpine Augur,8 - 9,Humanoid
+2013,Gnarlpine Avenger,9 - 10,Humanoid
+2010,Gnarlpine Defender,7 - 8,Humanoid
+2007,Gnarlpine Gardener,5 - 6,Humanoid
+11690,Gnarlpine Instigator,8,Humanoid
+7235,Gnarlpine Mystic,6 - 7,Humanoid
+2012,Gnarlpine Pathfinder,9 - 10,Humanoid
+2009,Gnarlpine Shaman,7 - 8,Humanoid
+2014,Gnarlpine Totemic,10 - 11,Humanoid
+2006,Gnarlpine Ursa,5 - 6,Humanoid
+2008,Gnarlpine Warrior,6 - 7,Humanoid
+1993,Greenpaw,10,Humanoid
+1988,Grell,2 - 3,Demon
+1989,Grellkin,3 - 4,Demon
+14429,Grimmaw,11 Rare,Humanoid
+10604,Huntress Nhemai,20,Humanoid
+10606,Huntress Yaeliura,20,Humanoid
+6736,Innkeeper Keldamyr,30,Humanoid
+8584,Iverron,5,Humanoid
+3590,Janna Brightmoon,9,Humanoid
+3599,Jannok Breezesong,20,Humanoid
+3610,Jeena Featherbow,19,Humanoid
+3602,Kal,22,Humanoid
+3589,Keina,10,Humanoid
+3306,Keldas,40,Humanoid
+3588,Khardan Proudblade,8,Humanoid
+3598,Kyra Windblade,19,Humanoid
+7319,Lady Sathrah,12,Beast
+3600,Laurna Morninglight,21,Humanoid
+2038,Lord Melenas,8,Demon
+3587,Lyrai,9,Humanoid
+3604,Malorne Bladeleaf,17,Humanoid
+2032,Mangy Nightsaber,2,Beast
+3597,Mardant Strongoak,11,Humanoid
+6781,Melarith,10,Humanoid
+2077,Melithar Staghelm,5,Humanoid
+3613,Meri Ironweave,19,Humanoid
+6911,Minion of Sethir,8 - 10,Humanoid
+3568,Mist,10,Beast
+2151,Moon Priestess Amara,25,Humanoid
+3605,Nadyia Maneweaver,30,Humanoid
+3614,Narret Shadowgrove,16,Humanoid
+10118,Nessa Shadowsong,25,Humanoid
+2042,Nightsaber,5 - 6,Beast
+2043,Nightsaber Stalker,7 - 8,Beast
+4265,Nyoma,20,Humanoid
+2166,Oakenscowl,9 Elite,Elemental
+7317,Oben Rageclaw,40,Humanoid
+11942,Orenthil Whisperwind,5,Humanoid
+6780,Porthannius,7,Humanoid
+15369,Ayamiss the Hunter,?? Boss,Uncategorized
+15370,Buru the Gorger,?? Boss,Uncategorized
+15341,General Rajaxx,?? Boss,Uncategorized
+15348,Kurinnaxx,?? Boss,Uncategorized
+15340,Moam,?? Boss,Uncategorized
+15339,Ossirian the Unscarred,?? Boss,Uncategorized
+3229,"""Squealer"" Thornmantle",5,Humanoid
+2956,Adult Plainstrider,6 - 7,Beast
+2994,Ancestral Spirit,9,Humanoid
+6775,Antur Fallow,3,Humanoid
+3058,Arra'chea,11,Beast
+2990,Bael'dun Appraiser,8 - 9,Humanoid
+2989,Bael'dun Digger,7 - 8,Humanoid
+2993,Baine Bloodhoof,10,Humanoid
+2966,Battleboar,3 - 4,Beast
+3224,Brave Cloudmane,14,Humanoid
+3220,Brave Darksky,14,Humanoid
+3217,Brave Dawneagle,14,Humanoid
+3214,Brave Greathoof,55,Humanoid
+3212,Brave Ironhorn,14,Humanoid
+3219,Brave Leaping Deer,14,Humanoid
+3211,Brave Lightninghorn,55,Humanoid
+3210,Brave Proudsnout,55,Humanoid
+3223,Brave Rainchaser,14,Humanoid
+3221,Brave Rockhorn,14,Humanoid
+3213,Brave Running Wolf,55,Humanoid
+3215,Brave Strongbash,14,Humanoid
+3218,Brave Swiftwind,14,Humanoid
+3222,Brave Wildrunner,14,Humanoid
+3209,Brave Windfeather,13,Humanoid
+2954,Bristleback Battleboar,4 - 5,Beast
+3232,Bristleback Interloper,9 - 10,Humanoid
+2952,Bristleback Quilboar,3 - 4,Humanoid
+2953,Bristleback Shaman,3 - 4,Humanoid
+3075,Bronk Steelrage,10,Humanoid
+12354,Brown Riding Kodo,11 - 12,Beast
+3069,Chaw Stronghide,23,Humanoid
+2981,Chief Hawkwind,36,Humanoid
+8554,Chief Sharptusk Thornmantle,5,Humanoid
+2957,Elder Plainstrider,8 - 9,Beast
+5787,Enforcer Emilgund,11 Rare,Humanoid
+2967,Galak Centaur,8 - 9,Humanoid
+2968,Galak Outrunner,9 - 10,Humanoid
+3060,Gart Mistrunner,9,Humanoid
+3064,Gennia Runetotem,12,Humanoid
+12355,Gray Riding Kodo,11 - 12,Beast
+14549,Great Brown Kodo,1 - 2,Beast
+14550,Great Gray Kodo,1 - 2,Beast
+14542,Great White Kodo,1 - 2,Beast
+2991,Greatmother Hawkwind,9,Humanoid
+2980,Grull Hawkwind,4,Humanoid
+3080,Harant Ironbrace,13,Humanoid
+3685,Harb Clawhoof,45,Humanoid
+2947,Harken Windtotem,21,Humanoid
+5940,Harn Longcast,9,Humanoid
+3059,Harutt Thunderhorn,10,Humanoid
+10599,Hulfnar Stonetotem,10,Humanoid
+6747,Innkeeper Kauth,30,Humanoid
+3884,Jhawna Oatwind,13,Humanoid
+3690,Kar Stormsinger,44,Humanoid
+3072,Kawnie Softbreeze,8,Humanoid
+3078,Kennah Hawkseye,10,Humanoid
+2973,Kodo Bull,10 - 11,Beast
+2974,Kodo Matriarch,11 - 12,Beast
+3063,Krang Stonehoof,14,Humanoid
+3061,Lanka Farshot,11,Humanoid
+3233,Lorekeeper Raintotem,8,Humanoid
+6776,Magrin Rivermane,6,Humanoid
+3077,Mahnott Roughwound,11,Humanoid
+3073,Marjak Keenblade,9,Humanoid
+3055,Maur Raincaller,10,Humanoid
+3068,Mazzranache,9 Rare,Beast
+3062,Meela Dawnstrider,10,Humanoid
+3883,Moodan Sungrain,11,Humanoid
+3076,Moorat Longstride,12,Humanoid
+2988,Morin Cloudstalker,10,Humanoid
+2961,Mountain Cougar,3,Beast
+7975,Mulgore Protector,55,Humanoid
+2948,Mull Thunderhorn,25,Humanoid
+3066,Narm Skychaser,13,Humanoid
+10721,Novice Warrior,5,Humanoid
+2951,Palemane Poacher,7 - 8,Humanoid
+2950,Palemane Skinner,6 - 7,Humanoid
+2949,Palemane Tanner,5 - 6,Humanoid
+2955,Plainstrider,1 - 2,Beast
+2958,Prairie Wolf,5 - 6,Beast
+3067,Pyall Silentstride,12,Humanoid
+3688,Reban Freerunner,40,Humanoid
+2985,Ruul Eagletalon,9,Humanoid
+2982,Seer Graytongue,8,Humanoid
+5888,Seer Ravenfeather,10,Humanoid
+2984,Seer Wiserunner,11,Humanoid
+10050,Seikwa,30,Humanoid
+5785,Sister Hatelash,11 Rare Elite,Humanoid
+3052,Skorn Whitecloud,21,Humanoid
+5786,Snagglespear,9 Rare,Humanoid
+3051,Supervisor Fizsprocket,12,Humanoid
+15065,Lady,,Critter
+13016,Deeprun Rat,1,Critter
+14041,Haggle,20,Humanoid
+12997,Monty,12,Humanoid
+13018,Nipsy,12,Humanoid
+4829,Aku'mai,28 Elite,Uncategorized
+4824,Aku'mai Fisher,23 - 24 Elite,Beast
+4978,Aku'mai Servant,26 Elite,Elemental
+4825,Aku'mai Snapjaw,26 - 27 Elite,Beast
+6047,Aqua Guardian,22 - 23,Elemental
+4787,Argent Guard Thaelrid,20,Humanoid
+4823,Barbed Crustacean,25 - 26 Elite,Beast
+12876,Baron Aquanis,28 Elite,Elemental
+4807,Blackfathom Myrmidon,22 - 23 Elite,Humanoid
+4805,Blackfathom Sea Witch,23 - 24 Elite,Humanoid
+4819,Blindlight Muckdweller,25 Elite,Humanoid
+4818,Blindlight Murloc,22 - 23 Elite,Humanoid
+4820,Blindlight Oracle,25 Elite,Humanoid
+4827,Deep Pool Threshfin,24 - 25 Elite,Beast
+4799,Fallenroot Hellcaller,24 - 25 Elite,Demon
+4798,Fallenroot Shadowstalker,23 - 24 Elite,Demon
+6243,Gelihast,26 Elite,Humanoid
+4887,Ghamoo-ra,25 Elite,Beast
+4831,Lady Sarevess,25 Elite,Humanoid
+12902,Lorgus Jett,26 Elite,Humanoid
+6729,Morridune,27,Humanoid
+4815,Murkshallow Snapclaw,22 - 23 Elite,Humanoid
+4977,Murkshallow Softshell,25,Humanoid
+4830,Old Serra'kis,26 Elite,Beast
+4821,Skittering Crustacean,22 - 23 Elite,Beast
+4822,Snapping Crustacean,23 - 24 Elite,Beast
+4809,Twilight Acolyte,24 - 25 Elite,Humanoid
+4811,Twilight Aquamancer,25 - 26 Elite,Humanoid
+4814,Twilight Elementalist,26 - 27 Elite,Humanoid
+4832,Twilight Lord Kelris,27 Elite,Humanoid
+4812,Twilight Loreseeker,24 - 25 Elite,Humanoid
+4810,Twilight Reaver,25 - 26 Elite,Humanoid
+4813,Twilight Shadowmage,26 - 27 Elite,Humanoid
+3655,Mad Magglish,18 Elite,Humanoid
+6253,Acolyte Fenrick,20,Humanoid
+6252,Acolyte Magaz,20,Humanoid
+6254,Acolyte Wytula,20,Humanoid
+5797,Aean Swiftriver,25 Rare Elite,Humanoid
+6240,Affray Challenger,26 - 27,Humanoid
+6249,Affray Spectator,22 - 43,Humanoid
+3521,Ak'Zeloth,22,Humanoid
+7895,Ambassador Bloodrage,36 Rare Elite,Undead
+12865,Ambassador Malcin,36 Elite,Undead
+3390,Apothecary Helbrim,22,Humanoid
+5834,Azzere the Skyblade,25 Rare,Beast
+3374,Bael'dun Excavator,21 - 22,Humanoid
+3375,Bael'dun Foreman,22 - 23,Humanoid
+3378,Bael'dun Officer,26,Humanoid
+3377,Bael'dun Rifleman,24 - 25,Humanoid
+3376,Bael'dun Soldier,23 - 24,Humanoid
+3394,Barak Kodobane,16,Humanoid
+3481,Barg,14,Humanoid
+3467,Baron Longshore,16,Humanoid
+3248,Barrens Giraffe,15 - 16,Beast
+8016,Barrens Guard,40,Humanoid
+3236,Barrens Kodo,19 - 20,Beast
+10668,Beaten Corpse,16,Humanoid
+6238,Big Will,33,Humanoid
+9336,Boss Copperplug,19,Humanoid
+16227,Bragok,55 Elite,Humanoid
+3292,Brewmaster Drohn,9,Humanoid
+5899,Brine,23,Humanoid
+3263,Bristleback Geomancer,19 - 20,Humanoid
+3258,Bristleback Hunter,17 - 18,Humanoid
+3261,Bristleback Thornweaver,18 - 19,Humanoid
+3260,Bristleback Water Seeker,16 - 17,Humanoid
+5838,Brokespear,17 Rare,Humanoid
+5827,Brontus,27 Rare Elite,Beast
+3380,Burning Blade Acolyte,11 - 12,Humanoid
+3379,Burning Blade Bruiser,10 - 11,Humanoid
+12320,Burning Blade Crusher,13,Humanoid
+12319,Burning Blade Toxicologist,14,Humanoid
+3454,Cannoneer Smythe,19,Humanoid
+3455,Cannoneer Whessan,19,Humanoid
+3393,Captain Fairmount,20,Humanoid
+5851,Captain Gerogg Hammertoe,27 Rare Elite,Humanoid
+14781,Captain Shatterskull,55 Elite,Humanoid
+3339,Captain Thalo'thas Brightsun,25,Humanoid
+5780,Cloned Ectoplasm,16 - 17 Elite,Uncategorized
+3665,Crane Operator Bigglefuzz,18,Humanoid
+3449,Darsok Swiftdagger,14,Humanoid
+3630,Deviate Coiler,15 - 16 Elite,Beast
+3632,Deviate Creeper,15 - 16 Elite,Beast
+3634,Deviate Stalker,15 - 17 Elite,Beast
+3638,Devouring Ectoplasm,16 - 17 Elite,Uncategorized
+3615,Devrak,55 Elite,Humanoid
+3444,Dig Rat,1,Critter
+5849,Digger Flameforge,24 Rare,Humanoid
+5865,Dishu,13 Rare,Beast
+6247,Doan Karhan,40,Humanoid
+6387,Dranh,15,Humanoid
+8306,Duhng,18,Humanoid
+3475,Echeyakee,16,Beast
+3270,Elder Mystic Razorsnout,15 Rare Elite,Humanoid
+5836,Engineer Whirleygig,19 Rare,Humanoid
+14857,Erk,2,Humanoid
+2675,Explosive Sheep,??,Humanoid
+8418,Falla Sagewind,25,Humanoid
+14892,Fang,1,Critter
+3421,Feegly the Exiled,23,Humanoid
+3246,Fleeting Plainstrider,12 - 13,Beast
+5835,Foreman Grills,19 Rare,Humanoid
+7287,Foreman Silixiz,22,Humanoid
+3496,Fuzruckle,45,Humanoid
+3495,Gagsprocket,20,Humanoid
+3705,Gahroot,25,Humanoid
+3341,Gann Stonespire,18,Humanoid
+4166,Gazelle,3,Critter
+3391,Gazlowe,60,Humanoid
+3464,Gazrog,25,Humanoid
+3414,General Twinbraid,30,Humanoid
+5863,Geopriest Gukk'rok,19 Rare,Humanoid
+3398,Gesharahan,20 Rare Elite,Uncategorized
+3465,Gilthares Firebough,17,Humanoid
+7288,Grand Foreman Puzik Gallywix,23 Elite,Humanoid
+3493,Grazlix,25,Humanoid
+3235,Greater Barrens Kodo,24 - 25,Beast
+3244,Greater Plainstrider,11 - 12,Beast
+3249,Greater Thunderhawk,23 - 24,Beast
+3431,Grenthar,10,Humanoid
+9558,Grimble,45,Humanoid
+3443,Grub,13,Humanoid
+14850,Gruk,1,Humanoid
+5908,Grunt Dogran,20,Humanoid
+5911,Grunt Logmar,20,Humanoid
+10184,Onyxia,?? Boss,Dragonkin
+12129,Onyxian Warder,60 - 63 Elite,Dragonkin
+11262,Onyxian Whelp,56 - 57,Dragonkin
+15516,Battleguard Sartura,?? Boss,Uncategorized
+15727,C'Thun,?? Boss,Uncategorized
+15276,Emperor Vek'lor,?? Boss,Uncategorized
+15275,Emperor Vek'nilash,?? Boss,Uncategorized
+15510,Fankriss the Unyielding,?? Boss,Uncategorized
+15511,Lord Kri,?? Boss,Uncategorized
+15517,Ouro,?? Boss,Uncategorized
+15509,Princess Huhuran,?? Boss,Uncategorized
+15543,Princess Yauj,?? Boss,Uncategorized
+15263,The Prophet Skeram,?? Boss,Uncategorized
+15544,Vem,?? Boss,Uncategorized
+15299,Viscidus,?? Boss,Uncategorized

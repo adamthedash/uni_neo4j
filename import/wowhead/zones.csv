@@ -1,0 +1,83 @@
+id,name,level,territory,instance_type
+2717,Molten Core,60,Contested,Raid
+1584,Blackrock Depths,52 - 60,Contested,Dungeon
+405,Desolace,30 - 39,Contested,
+16,Azshara,42 - 55,Contested,
+2100,Maraudon,42 - 52,Contested,Dungeon
+490,Un'Goro Crater,48 - 55,Contested,
+2017,Stratholme,48 - 58,Contested,Dungeon
+618,Winterspring,55 - 60,Contested,
+2557,Dire Maul,44 - 54,Contested,Dungeon
+1377,Silithus,55 - 59,Contested,
+1337,Uldaman,42 - 52,Contested,Dungeon
+47,The Hinterlands,41 - 49,Contested,
+209,Shadowfang Keep,20 - 60,Horde,Dungeon
+796,Scarlet Monastery,26 - 45,Horde,Dungeon
+1583,Blackrock Spire,55 - 60,Contested,
+1477,The Temple of Atal'Hakkar,50 - 60,Contested,Dungeon
+440,Tanaris,40 - 50,Contested,
+361,Felwood,47 - 54,Contested,
+1176,Zul'Farrak,46 - 56,Contested,Dungeon
+719,Blackfathom Deeps,22 - 32,Contested,Dungeon
+722,Razorfen Downs,37 - 47,Horde,Dungeon
+3,Badlands,36 - 45,Contested,
+33,Stranglethorn Vale,30 - 50,Contested,
+15,Dustwallow Marsh,36 - 61,Contested,
+2057,Scholomance,55 - 60,Contested,Dungeon
+718,Wailing Caverns,17 - 27,Horde,Dungeon
+357,Feralas,41 - 60,Contested,
+46,Burning Steppes,50 - 59,Contested,
+491,Razorfen Kraul,32 - 42,Horde,Dungeon
+51,Searing Gorge,43 - 56,Contested,
+28,Western Plaguelands,46 - 57,Contested,
+45,Arathi Highlands,30 - 40,Contested,
+721,Gnomeregan,26 - 36,Alliance,Dungeon
+493,Moonglade,15,Contested,
+139,Eastern Plaguelands,54 - 59,Contested,
+4,Blasted Lands,46 - 63,Contested,
+1581,The Deadmines,15 - 25,Alliance,Dungeon
+8,Swamp of Sorrows,36 - 43,Contested,
+267,Hillsbrad Foothills,20 - 31,Contested,
+2677,Blackwing Lair,60,Contested,Raid
+2437,Ragefire Chasm,15 - 25,Horde,Dungeon
+17,The Barrens,10 - 33,Horde,
+85,Tirisfal Glades,1 - 12,Horde,
+331,Ashenvale,19 - 30,Contested,
+717,The Stockade,22 - 32,Alliance,Dungeon
+400,Thousand Needles,24 - 35,Contested,
+406,Stonetalon Mountains,15 - 25,Contested,
+10,Duskwood,10 - 30,Contested,
+11,Wetlands,20 - 30,Contested,
+130,Silverpine Forest,10 - 20,Horde,
+2159,Onyxia's Lair,,Contested,
+148,Darkshore,11 - 19,Alliance,
+40,Westfall,9 - 18,Alliance,
+1,Dun Morogh,1 - 12,Alliance,
+1519,Stormwind City,1 - 60,Alliance,
+36,Alterac Mountains,27 - 39,Contested,
+41,Deadwind Pass,50 - 60,Contested,
+44,Redridge Mountains,15 - 25,Contested,
+1977,Zul'Gurub,60,Contested,Raid
+3456,Naxxramas,60,Contested,Raid
+38,Loch Modan,10 - 18,Alliance,
+1637,Orgrimmar,1 - 60,Horde,
+1417,Sunken Temple,50 - 60,Contested,Dungeon
+12,Elwynn Forest,1 - 10,Alliance,
+1537,Ironforge,1 - 60,Alliance,
+2597,Alterac Valley,51 - 60,PvP,Battleground
+1657,Darnassus,1 - 60,Alliance,
+1497,Undercity,1 - 60,Horde,
+3428,Ahn'Qiraj,60,Contested,Raid
+1638,Thunder Bluff,1 - 60,Horde,
+14,Durotar,1 - 10,Horde,
+141,Teldrassil,1 - 11,Alliance,
+3429,Ruins of Ahn'Qiraj,60,Contested,Raid
+215,Mulgore,1 - 10,Horde,
+25,Blackrock Mountain,,Contested,
+3277,Warsong Gulch,10 - 60,PvP,Battleground
+3358,Arathi Basin,20 - 60,PvP,Battleground
+2257,Deeprun Tram,,Alliance,
+1941,Caverns of Time,,Contested,
+1397,Emerald Forest,,Contested,Raid
+457,The Veiled Sea,,Contested,
+207,The Great Sea,,Contested,Dungeon
